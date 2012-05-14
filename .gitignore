@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Last login: Mon May 14 01:32:08 on ttys000
 MacBook-Pro-de-Oswaldo:~ Waldix$ ls
 Desktop			Movies			Public
@@ -41,3 +42,21 @@ db/*.sqilite3
 
 ^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
 ^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
+=======
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+>>>>>>> 3d915b064cd2b52a044fa6c967fe3f6687bd8e61
