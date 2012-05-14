@@ -1,7 +1,7 @@
 class ChangeColumnName < ActiveRecord::Migration
   def up
-    rename_column :Users, :colony, :suburb
-    rename_column :Users, :delegation, :township
+    rename_column :users, :colony, :suburb
+    rename_column :users, :delegation, :township
   end
 
   def down
