@@ -50,5 +50,5 @@ Sifaca::Application.configure do
   config.assets.debug = true
 
   #configurate devise environments
-  config.action_mailer.default_url_options = { :host => 'localhost:3000' }
+  config.action_mailer.default_url_options = { :host => 'severe-ice-5896.herokuapp.com' }
 end
