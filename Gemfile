@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.1'
+gem 'heroku'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -8,6 +9,11 @@ gem 'rails', '3.2.1'
 group :development, :test do
   gem 'sqlite3-ruby', :require => 'sqlite3'
   gem 'sqlite3'
+
+end
+
+group :production do
+  gem 'pg'
 end
 
 
@@ -34,6 +40,7 @@ gem 'nested_form'
 gem 'prawn', '1.0.0.rc1'
 gem 'number_to_words'
 gem 'bootstrap-will_paginate'
+
 
 
 # To use ActiveModel has_secure_password
