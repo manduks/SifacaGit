@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/56/trunk/app/views/folios
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/app/views/folios/new.html.erb
+END
+create.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8/trunk/app/views/folios/create.js.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7/trunk/app/views/folios/show.html.erb
+END
+edit.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/app/views/folios/edit.js.erb
+END
+update.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/33/trunk/app/views/folios/update.js.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/app/views/folios/edit.html.erb
+END
+_folios.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/56/trunk/app/views/folios/_folios.html.erb
+END
+_modal_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/app/views/folios/_modal_form.html.erb
+END
+index.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/app/views/folios/index.js.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/app/views/folios/_form.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31/trunk/app/views/folios/index.html.erb
+END
+new.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/22/trunk/app/views/folios/new.js.erb
+END

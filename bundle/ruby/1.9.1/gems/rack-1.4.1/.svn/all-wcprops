@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1
+END
+rack.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/rack.gemspec
+END
+KNOWN-ISSUES
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/KNOWN-ISSUES
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/README.rdoc
+END
+SPEC
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/SPEC
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/COPYING
+END

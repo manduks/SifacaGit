@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave
+END
+uploader.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/uploader.rb
+END
+mount.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/mount.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/version.rb
+END
+sanitized_file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/sanitized_file.rb
+END

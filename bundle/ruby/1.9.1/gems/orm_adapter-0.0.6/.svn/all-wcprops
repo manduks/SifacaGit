@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/orm_adapter-0.0.6
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/orm_adapter-0.0.6/LICENSE
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/orm_adapter-0.0.6/Rakefile
+END
+orm_adapter.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/orm_adapter-0.0.6/orm_adapter.gemspec
+END
+History.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/orm_adapter-0.0.6/History.txt
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/orm_adapter-0.0.6/README.rdoc
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/orm_adapter-0.0.6/.gitignore
+END
+Gemfile.lock.development
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/orm_adapter-0.0.6/Gemfile.lock.development
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/orm_adapter-0.0.6/Gemfile
+END

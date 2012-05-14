@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/public
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/public/404.html
+END
+500.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/public/500.html
+END
+422.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/public/422.html
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/public/robots.txt
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/public/favicon.ico
+END

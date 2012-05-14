@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/kernel
+END
+reporting.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/kernel/reporting.rb
+END
+singleton_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/kernel/singleton_class.rb
+END
+debugger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/kernel/debugger.rb
+END
+agnostics.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/kernel/agnostics.rb
+END

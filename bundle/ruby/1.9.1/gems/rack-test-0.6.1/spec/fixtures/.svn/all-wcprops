@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/spec/fixtures
+END
+bar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/spec/fixtures/bar.txt
+END
+fake_app.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/spec/fixtures/fake_app.rb
+END
+foo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/spec/fixtures/foo.txt
+END
+config.ru
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/spec/fixtures/config.ru
+END

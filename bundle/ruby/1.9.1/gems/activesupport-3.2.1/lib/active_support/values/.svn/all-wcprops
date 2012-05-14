@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/values
+END
+unicode_tables.dat
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/values/unicode_tables.dat
+END
+time_zone.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/values/time_zone.rb
+END

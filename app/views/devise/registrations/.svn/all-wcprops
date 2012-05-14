@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/57/trunk/app/views/devise/registrations
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/app/views/devise/registrations/new.html.erb
+END
+create.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/app/views/devise/registrations/create.js.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/app/views/devise/registrations/edit.html.erb
+END
+_modal_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/app/views/devise/registrations/_modal_form.html.erb
+END
+_form_sign_up.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/57/trunk/app/views/devise/registrations/_form_sign_up.html.erb
+END

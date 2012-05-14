@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/actionpack-3.2.1/lib/sprockets
+END
+bootstrap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/actionpack-3.2.1/lib/sprockets/bootstrap.rb
+END
+compressors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/actionpack-3.2.1/lib/sprockets/compressors.rb
+END
+railtie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/actionpack-3.2.1/lib/sprockets/railtie.rb
+END
+assets.rake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/actionpack-3.2.1/lib/sprockets/assets.rake
+END
+helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/actionpack-3.2.1/lib/sprockets/helpers.rb
+END
+static_compiler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/actionpack-3.2.1/lib/sprockets/static_compiler.rb
+END

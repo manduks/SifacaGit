@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/CHANGES
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/README.rdoc
+END
+TAGS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/TAGS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/README
+END

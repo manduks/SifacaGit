@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/examples
+END
+callbacks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/examples/callbacks.rb
+END
+hash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/examples/hash.rb
+END
+text.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/examples/text.rb
+END
+rspec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/examples/rspec.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/examples/version.rb
+END
+extract_images.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/examples/extract_images.rb
+END
+extract_fonts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/examples/extract_fonts.rb
+END
+extract_bates.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/examples/extract_bates.rb
+END
+metadata.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/examples/metadata.rb
+END
+page_count.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/examples/page_count.rb
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test
+END
+helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/helper.rb
+END
+test_activerecord_compat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/test_activerecord_compat.rb
+END
+test_crud.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/test_crud.rb
+END
+test_select_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/test_select_manager.rb
+END
+test_delete_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/test_delete_manager.rb
+END
+test_insert_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/test_insert_manager.rb
+END
+test_attributes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/test_attributes.rb
+END
+test_update_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/test_update_manager.rb
+END
+test_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/test_table.rb
+END
+test_factory_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/test_factory_methods.rb
+END

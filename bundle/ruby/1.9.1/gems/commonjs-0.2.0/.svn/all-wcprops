@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/commonjs-0.2.0
+END
+commonjs.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/commonjs-0.2.0/commonjs.gemspec
+END
+.gitmodules
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/commonjs-0.2.0/.gitmodules
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/commonjs-0.2.0/Rakefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/commonjs-0.2.0/.gitignore
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/commonjs-0.2.0/README.md
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/commonjs-0.2.0/Gemfile
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend
+END
+exceptions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend/exceptions_test.rb
+END
+cascade_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend/cascade_test.rb
+END
+interpolation_compiler_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend/interpolation_compiler_test.rb
+END
+memoize_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend/memoize_test.rb
+END
+metadata_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend/metadata_test.rb
+END
+pluralization_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend/pluralization_test.rb
+END
+chain_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend/chain_test.rb
+END
+fallbacks_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend/fallbacks_test.rb
+END
+key_value_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend/key_value_test.rb
+END
+cache_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend/cache_test.rb
+END
+simple_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend/simple_test.rb
+END
+transliterator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/backend/transliterator_test.rb
+END

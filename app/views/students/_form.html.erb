@@ -1,0 +1,15 @@
+<%= f.fields_for :students, :html => {:class => 'form-inline'} do |s| %>
+    <div class="control-group">
+      <%= s.label 'Nombre', :class => 'control-label' %>
+      <%= s.text_field :name, :class => 'text-field' %>
+
+      <%= s.label 'Grado', :class => 'control-label' %>
+      <%= s.text_field :grade, :class => 'input-medium text-field' %>
+
+      <%= s.label 'Curp', :class => 'control-label' %>
+      <%= s.text_field :curp, :class => 'input-medium number-field' %>
+
+      <%= s.link_to_remove 'X', :class => 'btn btn-danger' %>
+    </div>
+<% end %>
+<%= f.link_to_add 'Agregar', :students, :class => 'btn btn-success' %>

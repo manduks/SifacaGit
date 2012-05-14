@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/migration
+END
+USAGE
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/migration/USAGE
+END
+migration_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/migration/migration_generator.rb
+END

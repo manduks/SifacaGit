@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/config/environments
+END
+development.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/config/environments/development.rb
+END
+production.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/config/environments/production.rb
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/config/environments/test.rb
+END

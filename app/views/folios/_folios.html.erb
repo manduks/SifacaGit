@@ -1,0 +1,29 @@
+<table class="table table-striped">
+  <thead>
+  <tr>
+    <th>Qr</th>
+    <th>Del</th>
+    <th>Al</th>
+  </tr>
+  </thead>
+  <tbody>
+  <% @folios.each do |folio| %>
+      <tr>
+        <td><%= image_tag folio.qr_url(:thumb).to_s %></td>
+        <td><%= folio.initiation %></td>
+        <td><%= folio.finish %></td>
+        <td>
+          <% if folio.activo? %>
+            <%= link_to 'Edit', edit_folio_path(folio), :remote => true, :class => 'btn btn-mini' %>
+          <% end %>
+          <%= link_to 'Destroy', folio_path(folio), :method => :delete, :confirm => 'Are you sure?', :class => 'btn btn-mini btn-danger' %>
+        </td>
+      </tr>
+  <% end %>
+  </tbody>
+</table>
+<center>
+  <div class="pagination">
+    <%= will_paginate @folios %>
+  </div>
+</center>

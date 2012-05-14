@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/multi_json-1.1.0
+END
+LICENSE.md
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/multi_json-1.1.0/LICENSE.md
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/multi_json-1.1.0/Rakefile
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/multi_json-1.1.0/.travis.yml
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/multi_json-1.1.0/README.md
+END
+.document
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/multi_json-1.1.0/.document
+END
+multi_json.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/multi_json-1.1.0/multi_json.gemspec
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/multi_json-1.1.0/Gemfile
+END
+.rspec
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/multi_json-1.1.0/.rspec
+END

@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications
+END
+mail-2.4.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/mail-2.4.1.gemspec
+END
+carrierwave-0.5.8.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/carrierwave-0.5.8.gemspec
+END
+bcrypt-ruby-3.0.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/bcrypt-ruby-3.0.1.gemspec
+END
+pdf-reader-1.1.0.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/pdf-reader-1.1.0.gemspec
+END
+orm_adapter-0.0.6.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/orm_adapter-0.0.6.gemspec
+END
+hoe-3.0.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/hoe-3.0.1.gemspec
+END
+tilt-1.3.3.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/tilt-1.3.3.gemspec
+END
+journey-1.0.3.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/journey-1.0.3.gemspec
+END
+uglifier-1.2.3.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/uglifier-1.2.3.gemspec
+END
+transaction-simple-1.4.0.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/transaction-simple-1.4.0.gemspec
+END
+tzinfo-0.3.31.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/tzinfo-0.3.31.gemspec
+END
+sass-rails-3.2.4.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/sass-rails-3.2.4.gemspec
+END
+devise-2.0.4.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/devise-2.0.4.gemspec
+END
+rack-cache-1.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/rack-cache-1.1.gemspec
+END
+nested_form-0.2.0.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/nested_form-0.2.0.gemspec
+END
+activesupport-3.2.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/activesupport-3.2.1.gemspec
+END
+rack-test-0.6.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/rack-test-0.6.1.gemspec
+END
+ttfunk-1.0.3.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/ttfunk-1.0.3.gemspec
+END
+actionpack-3.2.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/actionpack-3.2.1.gemspec
+END
+rmagick-2.13.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/rmagick-2.13.1.gemspec
+END
+rake-0.9.2.2.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/rake-0.9.2.2.gemspec
+END
+activeresource-3.2.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/activeresource-3.2.1.gemspec
+END
+polyglot-0.3.3.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/polyglot-0.3.3.gemspec
+END
+rack-ssl-1.3.2.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/rack-ssl-1.3.2.gemspec
+END
+arel-3.0.2.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/arel-3.0.2.gemspec
+END
+activerecord-3.2.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/activerecord-3.2.1.gemspec
+END
+rack-1.4.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/rack-1.4.1.gemspec
+END
+builder-3.0.0.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/builder-3.0.0.gemspec
+END
+execjs-1.3.0.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/execjs-1.3.0.gemspec
+END
+coffee-script-source-1.2.0.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/coffee-script-source-1.2.0.gemspec
+END
+hike-1.2.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/hike-1.2.1.gemspec
+END
+actionmailer-3.2.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/actionmailer-3.2.1.gemspec
+END
+therubyracer-0.9.10.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/therubyracer-0.9.10.gemspec
+END
+less-2.0.9.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/less-2.0.9.gemspec
+END
+i18n-0.6.0.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/i18n-0.6.0.gemspec
+END
+treetop-1.4.10.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/treetop-1.4.10.gemspec
+END
+libv8-3.3.10.4-x86_64-darwin-11.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/libv8-3.3.10.4-x86_64-darwin-11.gemspec
+END
+sprockets-2.1.2.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/sprockets-2.1.2.gemspec
+END
+coffee-rails-3.2.2.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/coffee-rails-3.2.2.gemspec
+END
+rails-3.2.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/rails-3.2.1.gemspec
+END
+warden-1.1.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/warden-1.1.1.gemspec
+END
+color-1.4.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/color-1.4.1.gemspec
+END
+activemodel-3.2.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/activemodel-3.2.1.gemspec
+END
+erubis-2.7.0.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/erubis-2.7.0.gemspec
+END
+mime-types-1.17.2.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/mime-types-1.17.2.gemspec
+END
+twitter-bootstrap-rails-2.0.3.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/twitter-bootstrap-rails-2.0.3.gemspec
+END
+Ascii85-1.0.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/Ascii85-1.0.1.gemspec
+END
+multi_json-1.1.0.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/multi_json-1.1.0.gemspec
+END
+sqlite3-1.3.5.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/sqlite3-1.3.5.gemspec
+END
+coffee-script-2.2.0.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/coffee-script-2.2.0.gemspec
+END
+prawn-0.12.0.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/prawn-0.12.0.gemspec
+END
+json-1.6.5.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/json-1.6.5.gemspec
+END
+sass-3.1.15.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/sass-3.1.15.gemspec
+END
+jquery-rails-2.0.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/jquery-rails-2.0.1.gemspec
+END
+less-rails-2.1.6.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/less-rails-2.1.6.gemspec
+END
+ruby-rc4-0.1.5.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/ruby-rc4-0.1.5.gemspec
+END
+commonjs-0.2.0.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/commonjs-0.2.0.gemspec
+END
+pdf-writer-1.1.8.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/pdf-writer-1.1.8.gemspec
+END
+thor-0.14.6.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/thor-0.14.6.gemspec
+END
+railties-3.2.1.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/railties-3.2.1.gemspec
+END
+rdoc-3.12.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/specifications/rdoc-3.12.gemspec
+END

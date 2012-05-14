@@ -1,0 +1,2 @@
+$("#form-folios").html("<%= escape_javascript(render :partial => 'form') %>") ;
+$("#list-folios").html("<%= escape_javascript(render :partial => 'folios') %>") ;

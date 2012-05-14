@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/deprecation
+END
+method_wrappers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/deprecation/method_wrappers.rb
+END
+reporting.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/deprecation/reporting.rb
+END
+behaviors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/deprecation/behaviors.rb
+END
+proxy_wrappers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/deprecation/proxy_wrappers.rb
+END

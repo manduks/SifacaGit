@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/generators/templates/simple_form_for/registrations
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/generators/templates/simple_form_for/registrations/new.html.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/generators/templates/simple_form_for/registrations/edit.html.erb
+END

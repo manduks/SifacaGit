@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/transaction-simple-1.4.0/lib/transaction/simple
+END
+threadsafe.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/transaction-simple-1.4.0/lib/transaction/simple/threadsafe.rb
+END
+group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/transaction-simple-1.4.0/lib/transaction/simple/group.rb
+END

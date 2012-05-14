@@ -1,0 +1,14 @@
+<%= form_for @resume, :html => {:class => 'form-horizontal'} do |f| %>
+    <label class="offset3">Recibo de Honorarios</label><br>
+
+    <div class="control-group">
+      <%= f.label 'Lugar:', :class => 'control-label' %>
+      <%= text_field :resume, :places, :class => 'input-medium text-field' %>&nbsp;&nbsp;
+
+      <%= f.label 'Concepto:', :class => 'control-label' %>
+      <%= text_field :resume, :concept, :class => 'text-field' %>&nbsp;&nbsp;
+
+      <%= f.label 'Total:', :class => 'control-label' %>
+      <%= text_field :resume, :total, :class => 'input-small number-field' %>
+    </div>
+<% end %>

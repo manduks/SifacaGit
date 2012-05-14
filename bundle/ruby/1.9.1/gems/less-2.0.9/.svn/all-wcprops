@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9
+END
+.gitmodules
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/.gitmodules
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/Rakefile
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/.travis.yml
+END
+less.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/less.gemspec
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/.gitignore
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/README.md
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/Gemfile
+END

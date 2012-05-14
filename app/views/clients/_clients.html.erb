@@ -1,0 +1,35 @@
+<%= hidden_field_tag :direction, params[:direction] %>
+<%= hidden_field_tag :sort, params[:sort] %>
+<table class="table table-bordered">
+    <tr>
+      <th><%=sortable "name" %><i class="icon-resize-vertical"></i></th>
+      <th>RFC</th>
+      <th>Dirección</th>
+      <th>Logo Cliente</th>
+      <th></th>
+    </tr>
+  <% @clients.each do |client| %>
+      <tr>
+        <td><%= client.name %></td>
+        <td><%= client.rfc %></td>
+        <td><%= client.street %>
+          #<%= client.num_ext %>
+          <%= client.num_int %>
+          <%= client.suburb %>
+          <%= client.township %>
+          <%= client.state %>
+          C.P.<%= client.cp %></td>
+        <td><%= image_tag client.logo_emp_url(:thumb).to_s %></td>
+        <td>
+          <%= link_to 'Edit', edit_client_path(client), :remote => true, :class => 'btn btn-mini' %>
+          <%= link_to 'Destroy', client_path(client), :method => :delete, :confirm => 'Are you sure?', :class => 'btn btn-mini btn-danger' %>
+        </td>
+      </tr>
+  <% end %>
+</table>
+<center>
+  <div class="pagination">
+    <%= will_paginate @clients %>
+  </div>
+</center>
+

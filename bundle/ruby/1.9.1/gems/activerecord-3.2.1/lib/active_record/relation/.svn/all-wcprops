@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/relation
+END
+spawn_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/relation/spawn_methods.rb
+END
+query_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/relation/query_methods.rb
+END
+calculations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/relation/calculations.rb
+END
+finder_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/relation/finder_methods.rb
+END
+batches.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/relation/batches.rb
+END
+delegation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/relation/delegation.rb
+END
+predicate_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/relation/predicate_builder.rb
+END

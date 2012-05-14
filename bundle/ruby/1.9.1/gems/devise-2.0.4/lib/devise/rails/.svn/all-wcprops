@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/devise/rails
+END
+warden_compat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/devise/rails/warden_compat.rb
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/devise/rails/routes.rb
+END

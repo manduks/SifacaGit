@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/doc/example
+END
+a.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/doc/example/a.c
+END
+b.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/doc/example/b.c
+END
+Rakefile1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/doc/example/Rakefile1
+END
+Rakefile2
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/doc/example/Rakefile2
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/doc/example/main.c
+END

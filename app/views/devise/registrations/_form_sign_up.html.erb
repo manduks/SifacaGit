@@ -1,0 +1,30 @@
+
+<%= form_for(resource, :as => resource_name, :remote => true,
+             :format => :json, :url => registration_path(resource_name)) do |f| %>
+    <div class="input-prepend">
+      <span class="add-on">
+        <i class="icon-envelope">
+        </i>
+      </span>
+      <%= f.email_field :email, :placeholder => "Introduce tu email" %>
+
+      <span class="add-on">
+        <i class="icon-lock">
+        </i>
+      </span>
+      <%= f.password_field :password, :placeholder => "Introduce tu contraseña" %>
+
+      <span class="add-on">
+        <i class="icon-ok">
+        </i>
+      </span>
+      <%= f.password_field :password_confirmation, :placeholder => "Vuelve escribir tu contraseña" %>
+    </div>
+
+    <%= f.submit "Regístrate", :class => 'btn btn-primary' %>
+    <div align="right" style="margin-right: -20pt">
+      <%= image_tag ("cnz.png"), :size => "50x50" %>
+    </div>
+
+<% end %>
+

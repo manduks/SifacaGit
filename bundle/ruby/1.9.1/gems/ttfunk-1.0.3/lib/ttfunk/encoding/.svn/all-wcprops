@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/encoding
+END
+mac_roman.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/encoding/mac_roman.rb
+END
+windows_1252.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/encoding/windows_1252.rb
+END

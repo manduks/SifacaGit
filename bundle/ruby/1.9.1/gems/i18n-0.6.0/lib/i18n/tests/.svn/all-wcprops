@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/tests
+END
+procs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/tests/procs.rb
+END
+link.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/tests/link.rb
+END
+lookup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/tests/lookup.rb
+END
+localization.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/tests/localization.rb
+END
+basics.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/tests/basics.rb
+END
+interpolation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/tests/interpolation.rb
+END
+defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/tests/defaults.rb
+END
+pluralization.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/tests/pluralization.rb
+END

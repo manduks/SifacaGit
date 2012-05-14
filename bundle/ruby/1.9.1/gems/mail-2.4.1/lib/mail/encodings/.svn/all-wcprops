@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/encodings
+END
+transfer_encoding.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/encodings/transfer_encoding.rb
+END
+7bit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/encodings/7bit.rb
+END
+8bit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/encodings/8bit.rb
+END
+binary.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/encodings/binary.rb
+END
+quoted_printable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/encodings/quoted_printable.rb
+END
+base64.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/encodings/base64.rb
+END

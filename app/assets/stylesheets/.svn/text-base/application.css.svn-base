@@ -1,0 +1,137 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+ *= require_self
+ *= require_tree .
+*/
+.login {
+    background: url(bellas.jpg) repeat;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+
+}
+
+.codetlan{
+
+
+}
+
+body {
+    min-width: 500px;
+    height: 100%;
+}
+
+.dashboard .left {
+    float: left;
+}
+
+.dashboard .right {
+    float: right;
+}
+
+.tbar {
+    margin: 10px;
+}
+
+.main {
+    background: url("dashboard.png") repeat;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+#container {
+    position: absolute;
+    top: 40%;
+    left: 18%
+}
+
+#entry {
+    position: absolute;
+    top: 25%;
+    left: 18%;
+
+}
+
+
+.frame{
+    height: 140px;
+}
+
+#modal-form-users-new{
+    width: 800px;
+    left: 40%;
+}
+
+.button{
+    opacity: 0.3;
+    filter: alpha(opacity=50);
+}
+
+/*#navbar{
+    height: 100%;
+    position: relative;
+} */
+
+/* `Clear Floated Elements
+----------------------------------------------------------------------------------------------------*/
+
+/* http://www.yuiblog.com/blog/2010/09/27/clearfix-reloaded-overflowhidden-demystified */
+
+.clearfix:before,
+.clearfix:after,
+.container_24:before,
+.container_24:after {
+    content: '.';
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    font-size: 0;
+    line-height: 0;
+    width: 0;
+    height: 0;
+}
+
+/*.clearfix:after,
+.container_24:after {
+    clear: both;
+} */
+
+/*
+  The following zoom:1 rule is specifically for IE6 + IE7.
+  Move to separate stylesheet if invalid CSS is a problem.
+*/
+
+/*.clearfix,
+.container_24 {
+    zoom: 1;
+} */
+
+/*application.css
+
+.table th .current {
+    padding-right: 12px;
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+.table th .asc{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url(up.png);
+}
+
+.table th .desc{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url(down.png);
+}   */
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15
+END
+VERSION_NAME
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/VERSION_NAME
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/Rakefile
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/README.md
+END
+.yardopts
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/.yardopts
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/VERSION
+END
+CONTRIBUTING
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/CONTRIBUTING
+END
+REVISION
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/REVISION
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/MIT-LICENSE
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/init.rb
+END

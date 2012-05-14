@@ -1,0 +1,1 @@
+$("#list-resumes").html("<%= escape_javascript(render("resumes/resumes")) %>");

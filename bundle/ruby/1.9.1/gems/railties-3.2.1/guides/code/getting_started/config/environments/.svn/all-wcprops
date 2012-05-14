@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/config/environments
+END
+development.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/config/environments/development.rb
+END
+production.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/config/environments/production.rb
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/config/environments/test.rb
+END

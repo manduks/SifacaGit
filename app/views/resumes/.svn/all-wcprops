@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/58/trunk/app/views/resumes
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/app/views/resumes/new.html.erb
+END
+_resumscul.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/trunk/app/views/resumes/_resumscul.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/app/views/resumes/show.html.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/app/views/resumes/edit.html.erb
+END
+_prof.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/app/views/resumes/_prof.html.erb
+END
+_resumes.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/trunk/app/views/resumes/_resumes.html.erb
+END
+index.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/app/views/resumes/index.js.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/34/trunk/app/views/resumes/_form.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/57/trunk/app/views/resumes/index.html.erb
+END
+_resumprof.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/trunk/app/views/resumes/_resumprof.html.erb
+END

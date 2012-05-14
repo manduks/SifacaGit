@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app
+END
+USAGE
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/USAGE
+END
+app_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/app_generator.rb
+END

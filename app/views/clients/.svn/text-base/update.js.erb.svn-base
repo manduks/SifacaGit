@@ -1,0 +1,3 @@
+//$("#form-clients").html("<= escape_javascript(render 'clients/form') %>");
+//$("#list-clients").html("<= escape_javascript(render 'clients') %>");
+location.href='clients';

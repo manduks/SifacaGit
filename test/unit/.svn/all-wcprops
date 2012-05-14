@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/5/trunk/test/unit
+END
+article_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/test/unit/article_test.rb
+END
+folio_detail_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/test/unit/folio_detail_test.rb
+END
+folio_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/test/unit/folio_test.rb
+END
+client_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/test/unit/client_test.rb
+END
+user_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/test/unit/user_test.rb
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/test/unit/.gitkeep
+END
+resume_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/test/unit/resume_test.rb
+END
+invoice_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/test/unit/invoice_test.rb
+END

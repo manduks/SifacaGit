@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/bin
+END
+pdf_callbacks
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/bin/pdf_callbacks
+END
+pdf_list_callbacks
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/bin/pdf_list_callbacks
+END
+pdf_text
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/bin/pdf_text
+END
+pdf_object
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/bin/pdf_object
+END

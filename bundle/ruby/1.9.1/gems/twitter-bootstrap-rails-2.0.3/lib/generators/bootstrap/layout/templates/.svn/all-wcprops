@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/twitter-bootstrap-rails-2.0.3/lib/generators/bootstrap/layout/templates
+END
+layout.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/twitter-bootstrap-rails-2.0.3/lib/generators/bootstrap/layout/templates/layout.html.erb
+END
+layout.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/twitter-bootstrap-rails-2.0.3/lib/generators/bootstrap/layout/templates/layout.html.haml
+END
+layout.html.slim
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/twitter-bootstrap-rails-2.0.3/lib/generators/bootstrap/layout/templates/layout.html.slim
+END

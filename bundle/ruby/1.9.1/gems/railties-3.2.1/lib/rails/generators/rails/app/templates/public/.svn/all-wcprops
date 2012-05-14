@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/public
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/public/404.html
+END
+500.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/public/500.html
+END
+422.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/public/422.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/public/index.html
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/public/robots.txt
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/public/favicon.ico
+END

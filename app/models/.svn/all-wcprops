@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/58/trunk/app/models
+END
+resume.rb
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/app/models/resume.rb
+END
+invoice.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/57/trunk/app/models/invoice.rb
+END
+client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/58/trunk/app/models/client.rb
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/48/trunk/app/models/user.rb
+END
+student.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/54/trunk/app/models/student.rb
+END
+folio.rb
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/34/trunk/app/models/folio.rb
+END
+folio_detail.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/app/models/folio_detail.rb
+END
+article.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/57/trunk/app/models/article.rb
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/app/models/.gitkeep
+END

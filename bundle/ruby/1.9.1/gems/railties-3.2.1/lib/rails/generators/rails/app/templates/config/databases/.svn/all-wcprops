@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/databases
+END
+sqlite3.yml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/databases/sqlite3.yml
+END
+jdbcmysql.yml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/databases/jdbcmysql.yml
+END
+ibm_db.yml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/databases/ibm_db.yml
+END
+frontbase.yml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/databases/frontbase.yml
+END
+jdbc.yml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/databases/jdbc.yml
+END
+jdbcsqlite3.yml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/databases/jdbcsqlite3.yml
+END
+oracle.yml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/databases/oracle.yml
+END
+jdbcpostgresql.yml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/databases/jdbcpostgresql.yml
+END
+mysql.yml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/databases/mysql.yml
+END
+postgresql.yml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/databases/postgresql.yml
+END

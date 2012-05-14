@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/rails/generators/active_record/session_migration
+END
+session_migration_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/rails/generators/active_record/session_migration/session_migration_generator.rb
+END

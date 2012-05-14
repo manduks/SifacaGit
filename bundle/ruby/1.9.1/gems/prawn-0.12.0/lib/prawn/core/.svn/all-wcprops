@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/core
+END
+document_state.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/core/document_state.rb
+END
+text.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/core/text.rb
+END
+pdf_object.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/core/pdf_object.rb
+END
+reference.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/core/reference.rb
+END
+byte_string.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/core/byte_string.rb
+END
+destinations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/core/destinations.rb
+END
+annotations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/core/annotations.rb
+END
+name_tree.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/core/name_tree.rb
+END
+object_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/core/object_store.rb
+END
+literal_string.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/core/literal_string.rb
+END
+page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/core/page.rb
+END

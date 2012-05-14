@@ -1,0 +1,22 @@
+<h1>Invoice</h1>
+
+<p>
+  <b>Date</b><br>
+  <%= @invoice.date %>
+</p>
+
+<p>
+  <b>Client</b><br>
+  <%= @invoice.client_id %>
+</p>
+
+<p>
+  <b>Folio</b><br>
+  <%= @invoice.folio_id %>
+</p>
+
+<div class="form-actions">
+  <%= link_to 'Back', invoices_path, :class => 'btn'  %>
+  <%= link_to 'Edit', edit_invoice_path(@invoice), :class => 'btn' %>
+  <%= link_to 'Delete', invoice_path(@invoice), :method => 'delete', :confirm => 'Are you sure?', :class => 'btn btn-danger' %>
+</div>

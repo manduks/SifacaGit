@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/fixtures
+END
+test_staleness_check_across_importers.css
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/fixtures/test_staleness_check_across_importers.css
+END
+test_staleness_check_across_importers.scss
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/fixtures/test_staleness_check_across_importers.scss
+END

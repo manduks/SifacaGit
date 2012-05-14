@@ -1,0 +1,35 @@
+<table class="table table-bordered">
+  <tr>
+    <th>Folio</th>
+    <th>Cliente</th>
+    <th>RFC</th>
+    <th>Descripcion del Concepto</th>
+    <th>Fecha de Pago</th>
+    <th>PDF</th>
+    <th>Email</th>
+    <th>Cancelar</th>
+  </tr>
+  <% @resumes.each do |resume| %>
+      <% @folio_detail_id = FolioDetail.find(Invoice.find(resume.invoice_id).folio_detail_id).folio_detail_id %>
+      <% if Invoice.find(resume.invoice_id).status == 0 %>
+          <tr style="background-color: #F5A9A9">
+      <% else %>
+          <tr>
+      <% end %>
+      <td><%= FolioDetail.find(Invoice.find(resume.invoice_id).folio_detail_id).folio_detail_id %></td>
+      <td><%= Client.find(Invoice.find(resume.invoice_id).client_id).name %></td>
+      <td><%= Client.find(Invoice.find(resume.invoice_id).client_id).rfc %></td>
+      <td><%= Article.find(resume.invoice_id).description %></td>
+      <td><%= Invoice.find(resume.invoice_id).date.strftime("%d-%m-%Y") %></td>
+      <td><%= link_to 'PDF', resume_path(resume.id, :format => 'pdf'), :class => 'btn btn-mini btn-info', :target => '_blank' %></td>
+      <% @folio_activo = Folio.find(:all, :conditions => {'user_id' => current_user.id, 'activo' => 1}) %>
+      <% if (@folio_activo[0].initiation <= @folio_detail_id && @folio_detail_id <= @folio_activo[0].finish) && Invoice.find(resume.invoice_id).status != 0 %>
+          <td><%= button_to 'Enviar', resume_path(resume.id), :action => :send_email, :confirm => '¿Estas seguro que deseeas enviar la Factura?', :class => 'btn btn-mini btn-warning' %></td>
+          <td><%= link_to 'Cancelar', invoice_path(Invoice.find(resume.invoice_id)), :method => :delete, :confirm => '¿Estas seguro?', :class => 'btn btn-mini btn-danger' %></td>
+      <% end %>
+      </tr>
+  <% end %>
+</table>
+<div class="pager">
+  <%= will_paginate @resumes %>
+</div>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/app/helpers
+END
+home_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/app/helpers/home_helper.rb
+END
+application_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/app/helpers/application_helper.rb
+END
+posts_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/app/helpers/posts_helper.rb
+END
+comments_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/app/helpers/comments_helper.rb
+END

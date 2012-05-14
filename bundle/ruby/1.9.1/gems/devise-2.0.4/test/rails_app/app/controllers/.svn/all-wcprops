@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/app/controllers
+END
+home_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/app/controllers/home_controller.rb
+END
+application_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/app/controllers/application_controller.rb
+END
+admins_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/app/controllers/admins_controller.rb
+END
+users_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/app/controllers/users_controller.rb
+END

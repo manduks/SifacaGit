@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/version.rb
+END
+loader.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/loader.rb
+END
+defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/defaults.rb
+END
+parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/parser.rb
+END

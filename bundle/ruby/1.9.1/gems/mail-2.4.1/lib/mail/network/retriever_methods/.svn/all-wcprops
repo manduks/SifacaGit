@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/network/retriever_methods
+END
+test_retriever.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/network/retriever_methods/test_retriever.rb
+END
+imap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/network/retriever_methods/imap.rb
+END
+pop3.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/network/retriever_methods/pop3.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/network/retriever_methods/base.rb
+END

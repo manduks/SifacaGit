@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/devise/encryptors
+END
+sha512.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/devise/encryptors/sha512.rb
+END
+clearance_sha1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/devise/encryptors/clearance_sha1.rb
+END
+restful_authentication_sha1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/devise/encryptors/restful_authentication_sha1.rb
+END
+sha1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/devise/encryptors/sha1.rb
+END
+authlogic_sha512.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/devise/encryptors/authlogic_sha512.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/lib/devise/encryptors/base.rb
+END

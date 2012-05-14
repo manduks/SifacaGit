@@ -1,0 +1,33 @@
+<div id="menu_resume">
+  <%= render :partial => "shared/tbar_menu" %>
+</div>
+<center>
+  <div class="row-fluid">
+    <div class="span2">
+      <%= link_to 'Nueva Factura', new_invoice_path, :class => 'btn btn-success' %>
+    </div>
+    <div class="offset8">
+      <%= form_tag 'resumes', :method => 'get', :id => "resumes_search" do %>
+          <div class="input-append">
+            <%= text_field_tag :search, params[:search] %>
+            <span class="add-on">
+                 <i class="icon-search"></i>
+          </span>
+          </div>
+      <% end %>
+    </div>
+  </div>
+  <div id="list-resumes">
+    <% if current_user.tax_regime == 0 %>
+        <%= render :partial => 'resumes/resumes' %>
+    <% end %>
+    <% if current_user.tax_regime == 1 %>
+        <%= render :partial => 'resumes/resumprof' %>
+    <% end %>
+    <% if current_user.tax_regime == 2 %>
+        <%= render :partial => 'resumes/resumscul' %>
+    <% end %>
+  </div>
+</center>
+
+

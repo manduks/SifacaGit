@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/config/initializers
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/config/initializers/mime_types.rb
+END
+secret_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/config/initializers/secret_token.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/config/initializers/session_store.rb
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/config/initializers/inflections.rb
+END
+devise.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/13/trunk/config/initializers/devise.rb
+END
+will_paginate_array_fix.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/config/initializers/will_paginate_array_fix.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/config/initializers/backtrace_silencers.rb
+END
+wrap_parameters.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/config/initializers/wrap_parameters.rb
+END

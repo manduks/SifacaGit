@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/object
+END
+conversions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/object/conversions.rb
+END
+instance_variables.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/object/instance_variables.rb
+END
+inclusion.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/object/inclusion.rb
+END
+to_json.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/object/to_json.rb
+END
+try.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/object/try.rb
+END
+to_param.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/object/to_param.rb
+END
+acts_like.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/object/acts_like.rb
+END
+with_options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/object/with_options.rb
+END
+to_query.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/object/to_query.rb
+END
+blank.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/object/blank.rb
+END
+duplicable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/core_ext/object/duplicable.rb
+END

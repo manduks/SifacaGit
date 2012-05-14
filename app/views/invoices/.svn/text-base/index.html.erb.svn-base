@@ -1,0 +1,29 @@
+<div id="menu_invoice">
+  <%= render :partial => "shared/tbar_menu" %>
+</div>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Date</th>
+      <th>Created at</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @invoices.each do |invoice| %>
+      <tr>
+        <td><%= invoice.id %></td>
+        <td><%= link_to invoice.date, invoice_path(invoice) %></td>
+        <td><%= invoice.created_at %></td>
+        <td>
+          <%= link_to 'Download', invoice_path(invoice.id, :format => 'pdf'), :class => 'btn btn-mini btn-success' %>
+          <%= link_to 'Edit', edit_invoice_path(invoice), :class => 'btn btn-mini' %>
+          <%= link_to 'Destroy', invoice_path(invoice), :method => :delete, :confirm => 'Are you sure?', :class => 'btn btn-mini btn-danger' %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= link_to 'New', new_invoice_path, :class => 'btn btn-primary' %>

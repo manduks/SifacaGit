@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations
+END
+singular_association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/singular_association.rb
+END
+preloader.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/preloader.rb
+END
+association_scope.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/association_scope.rb
+END
+has_and_belongs_to_many_association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/has_and_belongs_to_many_association.rb
+END
+collection_proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/collection_proxy.rb
+END
+has_many_through_association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/has_many_through_association.rb
+END
+alias_tracker.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/alias_tracker.rb
+END
+has_one_through_association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/has_one_through_association.rb
+END
+belongs_to_association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/belongs_to_association.rb
+END
+through_association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/through_association.rb
+END
+has_many_association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/has_many_association.rb
+END
+join_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/join_helper.rb
+END
+has_one_association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/has_one_association.rb
+END
+association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/association.rb
+END
+collection_association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/collection_association.rb
+END
+join_dependency.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/join_dependency.rb
+END
+belongs_to_polymorphic_association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/associations/belongs_to_polymorphic_association.rb
+END

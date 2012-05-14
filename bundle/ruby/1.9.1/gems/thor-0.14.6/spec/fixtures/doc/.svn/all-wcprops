@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/fixtures/doc
+END
+%file_name%.rb.tt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/fixtures/doc/%25file_name%25.rb.tt
+END
+config.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/fixtures/doc/config.rb
+END
+block_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/fixtures/doc/block_helper.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/fixtures/doc/README
+END

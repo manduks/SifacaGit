@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2
+END
+.gemtest
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/.gemtest
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/CHANGES
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/install.rb
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/README.rdoc
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/TODO
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/MIT-LICENSE
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/selector
+END
+simple_sequence.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/selector/simple_sequence.rb
+END
+abstract_sequence.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/selector/abstract_sequence.rb
+END
+comma_sequence.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/selector/comma_sequence.rb
+END
+simple.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/selector/simple.rb
+END
+sequence.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/selector/sequence.rb
+END

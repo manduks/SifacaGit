@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/validations
+END
+uniqueness.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/validations/uniqueness.rb
+END
+associated.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/validations/associated.rb
+END

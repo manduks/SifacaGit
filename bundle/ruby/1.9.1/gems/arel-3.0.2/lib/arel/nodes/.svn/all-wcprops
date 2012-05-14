@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes
+END
+named_function.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/named_function.rb
+END
+sql_literal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/sql_literal.rb
+END
+terminal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/terminal.rb
+END
+delete_statement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/delete_statement.rb
+END
+equality.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/equality.rb
+END
+update_statement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/update_statement.rb
+END
+function.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/function.rb
+END
+string_join.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/string_join.rb
+END
+ascending.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/ascending.rb
+END
+infix_operation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/infix_operation.rb
+END
+descending.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/descending.rb
+END
+and.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/and.rb
+END
+ordering.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/ordering.rb
+END
+inner_join.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/inner_join.rb
+END
+unqualified_column.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/unqualified_column.rb
+END
+join_source.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/join_source.rb
+END
+count.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/count.rb
+END
+unary.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/unary.rb
+END
+outer_join.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/outer_join.rb
+END
+true.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/true.rb
+END
+select_statement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/select_statement.rb
+END
+insert_statement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/insert_statement.rb
+END
+with.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/with.rb
+END
+in.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/in.rb
+END
+false.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/false.rb
+END
+node.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/node.rb
+END
+select_core.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/select_core.rb
+END
+values.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/values.rb
+END
+binary.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/binary.rb
+END
+table_alias.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes/table_alias.rb
+END

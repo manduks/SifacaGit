@@ -1,0 +1,22 @@
+<div class="main">
+  <div class="dashboard">
+    <%= render :partial => "shared/tbar_dashboard" %>
+  </div>
+  <div id="container">
+    <div class="row">
+      <div class="span3">
+             <%= link_to image_tag('clients.png', :border => 0, :rel => "clients"), clients_path %>
+      </div>
+      <div class="span3">
+             <%= link_to image_tag('folder.png', :border => 0, :rel => "folios"), folios_path %>
+      </div>
+      <div class="span3">
+        <% if current_user.active == 1 %>
+            <%= link_to image_tag('invoices.png', :border => 0, :rel => "invoices"), resumes_path %>
+        <% else %>
+            <%= image_tag('invoices.png', :border => 4, :rel => "invoices_nonactive", :class => "button")%>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</div>

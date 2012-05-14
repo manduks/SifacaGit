@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/lib/rack/auth/digest
+END
+md5.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/lib/rack/auth/digest/md5.rb
+END
+params.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/lib/rack/auth/digest/params.rb
+END
+nonce.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/lib/rack/auth/digest/nonce.rb
+END
+request.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/lib/rack/auth/digest/request.rb
+END

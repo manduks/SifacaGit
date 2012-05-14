@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/initializers
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/initializers/mime_types.rb
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/initializers/inflections.rb
+END
+session_store.rb.tt
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/initializers/session_store.rb.tt
+END
+secret_token.rb.tt
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/initializers/secret_token.rb.tt
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/initializers/backtrace_silencers.rb
+END
+wrap_parameters.rb.tt
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/app/templates/config/initializers/wrap_parameters.rb.tt
+END

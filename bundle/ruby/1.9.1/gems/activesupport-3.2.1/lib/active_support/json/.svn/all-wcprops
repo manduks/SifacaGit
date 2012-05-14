@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/json
+END
+variable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/json/variable.rb
+END
+decoding.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/json/decoding.rb
+END
+encoding.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activesupport-3.2.1/lib/active_support/json/encoding.rb
+END

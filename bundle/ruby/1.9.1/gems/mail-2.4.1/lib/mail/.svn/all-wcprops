@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail
+END
+parts_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/parts_list.rb
+END
+field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/field.rb
+END
+indifferent_hash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/indifferent_hash.rb
+END
+fields.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/version.rb
+END
+mail.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/mail.rb
+END
+elements.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/elements.rb
+END
+configuration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/configuration.rb
+END
+part.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/part.rb
+END
+envelope.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/envelope.rb
+END
+network.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/network.rb
+END
+header.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/header.rb
+END
+attachments_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/attachments_list.rb
+END
+utilities.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/utilities.rb
+END
+message.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/message.rb
+END
+field_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/field_list.rb
+END
+patterns.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/patterns.rb
+END
+body.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/body.rb
+END
+multibyte.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/multibyte.rb
+END
+encodings.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/encodings.rb
+END

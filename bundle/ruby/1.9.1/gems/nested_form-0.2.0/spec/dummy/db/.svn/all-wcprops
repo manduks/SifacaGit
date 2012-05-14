@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/spec/dummy/db
+END
+development.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/spec/dummy/db/development.sqlite3
+END
+test.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/spec/dummy/db/test.sqlite3
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/spec/dummy/db/schema.rb
+END

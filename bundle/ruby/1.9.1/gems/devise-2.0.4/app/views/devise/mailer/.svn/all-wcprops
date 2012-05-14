@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/app/views/devise/mailer
+END
+unlock_instructions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/unlock_instructions.html.erb
+END
+confirmation_instructions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/confirmation_instructions.html.erb
+END
+reset_password_instructions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/app/views/devise/mailer/reset_password_instructions.html.erb
+END

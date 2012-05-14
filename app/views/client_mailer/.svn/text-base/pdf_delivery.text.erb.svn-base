@@ -1,0 +1,7 @@
+<%= @client.name %>
+
+
+<% attachments["Folio_#{@folio}.pdf"] = File.read("#{Rails.root}/public/uploads/pdfs/"+"#{@user.id}/"+"Folio_#{@folio}.pdf")%>
+
+
+Gracias por realizar tu facturacion en Sifaca.

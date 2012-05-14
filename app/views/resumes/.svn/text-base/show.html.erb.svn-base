@@ -1,0 +1,42 @@
+<h1>Resume</h1>
+
+<p>
+  <b>Iva</b><br>
+  <%= @resume.iva %>
+</p>
+
+<p>
+  <b>Subtotal</b><br>
+  <%= @resume.subtotal %>
+</p>
+
+<p>
+  <b>Total</b><br>
+  <%= @resume.total %>
+</p>
+
+<p>
+  <b>Invoice</b><br>
+  <%= @resume.invoice_id %>
+</p>
+
+<p>
+  <b>Letter number</b><br>
+  <%= @resume.letter_number %>
+</p>
+
+<p>
+  <b>Payment condition</b><br>
+  <%= @resume.payment_condition %>
+</p>
+
+<p>
+  <b>Receipt</b><br>
+  <%= @resume.receipt %>
+</p>
+
+<div class="form-actions">
+  <%= link_to 'Back', resumes_path, :class => 'btn'  %>
+  <%= link_to 'Edit', edit_resume_path(@resume), :class => 'btn' %>
+  <%= link_to 'Delete', resume_path(@resume), :method => 'delete', :confirm => 'Are you sure?', :class => 'btn btn-danger' %>
+</div>

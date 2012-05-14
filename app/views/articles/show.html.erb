@@ -1,0 +1,32 @@
+<h1>Article</h1>
+
+<p>
+  <b>Quantity</b><br>
+  <%= @article.quantity %>
+</p>
+
+<p>
+  <b>Description</b><br>
+  <%= @article.description %>
+</p>
+
+<p>
+  <b>Unit cost</b><br>
+  <%= @article.unit_cost %>
+</p>
+
+<p>
+  <b>Iva</b><br>
+  <%= @article.iva %>
+</p>
+
+<p>
+  <b>Invoice</b><br>
+  <%= @article.invoice_id %>
+</p>
+
+<div class="form-actions">
+  <%= link_to 'Back', articles_path, :class => 'btn'  %>
+  <%= link_to 'Edit', edit_article_path(@article), :class => 'btn' %>
+  <%= link_to 'Delete', article_path(@article), :method => 'delete', :confirm => 'Are you sure?', :class => 'btn btn-danger' %>
+</div>

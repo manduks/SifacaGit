@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/twitter-bootstrap-rails-2.0.3/lib/generators/bootstrap/install/templates
+END
+application.css
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/twitter-bootstrap-rails-2.0.3/lib/generators/bootstrap/install/templates/application.css
+END
+application.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/twitter-bootstrap-rails-2.0.3/lib/generators/bootstrap/install/templates/application.js
+END
+bootstrap_and_overrides.less
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/twitter-bootstrap-rails-2.0.3/lib/generators/bootstrap/install/templates/bootstrap_and_overrides.less
+END
+bootstrap.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/twitter-bootstrap-rails-2.0.3/lib/generators/bootstrap/install/templates/bootstrap.coffee
+END

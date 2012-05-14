@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/actions
+END
+directory_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/actions/directory_spec.rb
+END
+inject_into_file_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/actions/inject_into_file_spec.rb
+END
+create_file_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/actions/create_file_spec.rb
+END
+file_manipulation_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/actions/file_manipulation_spec.rb
+END
+empty_directory_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/actions/empty_directory_spec.rb
+END

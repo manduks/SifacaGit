@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors
+END
+test_dot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors/test_dot.rb
+END
+test_mssql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors/test_mssql.rb
+END
+test_oracle.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors/test_oracle.rb
+END
+test_sqlite.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors/test_sqlite.rb
+END
+test_bind_visitor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors/test_bind_visitor.rb
+END
+test_to_sql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors/test_to_sql.rb
+END
+test_depth_first.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors/test_depth_first.rb
+END
+test_join_sql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors/test_join_sql.rb
+END
+test_postgres.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors/test_postgres.rb
+END
+test_ibm_db.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors/test_ibm_db.rb
+END
+test_mysql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors/test_mysql.rb
+END
+test_informix.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/test/visitors/test_informix.rb
+END

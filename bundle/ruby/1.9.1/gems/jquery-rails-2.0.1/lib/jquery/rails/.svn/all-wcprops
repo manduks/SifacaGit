@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/jquery-rails-2.0.1/lib/jquery/rails
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/jquery-rails-2.0.1/lib/jquery/rails/version.rb
+END
+engine.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/jquery-rails-2.0.1/lib/jquery/rails/engine.rb
+END

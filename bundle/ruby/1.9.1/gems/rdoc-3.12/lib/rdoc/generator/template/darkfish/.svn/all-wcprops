@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish
+END
+table_of_contents.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/table_of_contents.rhtml
+END
+index.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/index.rhtml
+END
+_sidebar_navigation.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/_sidebar_navigation.rhtml
+END
+class.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/class.rhtml
+END
+_footer.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/_footer.rhtml
+END
+.document
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/.document
+END
+_head.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/_head.rhtml
+END
+_sidebar_in_files.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/_sidebar_in_files.rhtml
+END
+_sidebar_pages.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/_sidebar_pages.rhtml
+END
+_sidebar_classes.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/_sidebar_classes.rhtml
+END
+_sidebar_VCS_info.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/_sidebar_VCS_info.rhtml
+END
+_sidebar_search.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/_sidebar_search.rhtml
+END
+_sidebar_parent.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/_sidebar_parent.rhtml
+END
+rdoc.css
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/rdoc.css
+END
+_sidebar_includes.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/_sidebar_includes.rhtml
+END
+page.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/page.rhtml
+END
+_sidebar_methods.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/_sidebar_methods.rhtml
+END
+_sidebar_sections.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/generator/template/darkfish/_sidebar_sections.rhtml
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object
+END
+fontdescriptor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/fontdescriptor.rb
+END
+image.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/image.rb
+END
+contents.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/contents.rb
+END
+catalog.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/catalog.rb
+END
+action.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/action.rb
+END
+outlines.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/outlines.rb
+END
+font.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/font.rb
+END
+annotation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/annotation.rb
+END
+page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/page.rb
+END
+destination.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/destination.rb
+END
+info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/info.rb
+END
+procset.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/procset.rb
+END
+viewerpreferences.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/viewerpreferences.rb
+END
+pages.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/pages.rb
+END
+encryption.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/encryption.rb
+END
+fontencoding.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/fontencoding.rb
+END
+outline.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-writer-1.1.8/lib/pdf/writer/object/outline.rb
+END

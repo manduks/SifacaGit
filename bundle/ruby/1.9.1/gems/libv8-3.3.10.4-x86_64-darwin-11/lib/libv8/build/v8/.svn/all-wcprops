@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/libv8-3.3.10.4-x86_64-darwin-11/lib/libv8/build/v8
+END
+libv8.a
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/libv8-3.3.10.4-x86_64-darwin-11/lib/libv8/build/v8/libv8.a
+END
+libv8preparser.a
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/libv8-3.3.10.4-x86_64-darwin-11/lib/libv8/build/v8/libv8preparser.a
+END

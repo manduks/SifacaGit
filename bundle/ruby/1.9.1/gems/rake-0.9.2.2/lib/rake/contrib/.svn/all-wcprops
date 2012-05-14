@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/lib/rake/contrib
+END
+sys.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/lib/rake/contrib/sys.rb
+END
+publisher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/lib/rake/contrib/publisher.rb
+END
+ftptools.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/lib/rake/contrib/ftptools.rb
+END
+compositepublisher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/lib/rake/contrib/compositepublisher.rb
+END
+sshpublisher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/lib/rake/contrib/sshpublisher.rb
+END
+rubyforgepublisher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rake-0.9.2.2/lib/rake/contrib/rubyforgepublisher.rb
+END

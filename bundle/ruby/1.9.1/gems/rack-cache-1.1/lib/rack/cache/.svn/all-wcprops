@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/lib/rack/cache
+END
+entitystore.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/lib/rack/cache/entitystore.rb
+END
+options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/lib/rack/cache/options.rb
+END
+metastore.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/lib/rack/cache/metastore.rb
+END
+cachecontrol.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/lib/rack/cache/cachecontrol.rb
+END
+storage.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/lib/rack/cache/storage.rb
+END
+appengine.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/lib/rack/cache/appengine.rb
+END
+response.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/lib/rack/cache/response.rb
+END
+context.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/lib/rack/cache/context.rb
+END
+request.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/lib/rack/cache/request.rb
+END
+key.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/lib/rack/cache/key.rb
+END

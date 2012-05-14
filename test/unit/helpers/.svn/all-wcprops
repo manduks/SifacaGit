@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/test/unit/helpers
+END
+folios_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/test/unit/helpers/folios_helper_test.rb
+END
+users_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/test/unit/helpers/users_helper_test.rb
+END
+clients_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/test/unit/helpers/clients_helper_test.rb
+END
+invoices_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/test/unit/helpers/invoices_helper_test.rb
+END
+resumes_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/test/unit/helpers/resumes_helper_test.rb
+END
+index_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/test/unit/helpers/index_helper_test.rb
+END
+articles_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/test/unit/helpers/articles_helper_test.rb
+END
+client_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/test/unit/helpers/client_helper_test.rb
+END

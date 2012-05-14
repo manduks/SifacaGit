@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/journey-1.0.3/test/nfa
+END
+test_simulator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/journey-1.0.3/test/nfa/test_simulator.rb
+END
+test_transition_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/journey-1.0.3/test/nfa/test_transition_table.rb
+END

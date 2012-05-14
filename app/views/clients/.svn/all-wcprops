@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/58/trunk/app/views/clients
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/app/views/clients/new.html.erb
+END
+create.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9/trunk/app/views/clients/create.js.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/app/views/clients/show.html.erb
+END
+edit.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9/trunk/app/views/clients/edit.js.erb
+END
+_show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/31/trunk/app/views/clients/_show.html.erb
+END
+update.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/34/trunk/app/views/clients/update.js.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/app/views/clients/edit.html.erb
+END
+_forminvoice.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/51/trunk/app/views/clients/_forminvoice.html.erb
+END
+_clients.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/47/trunk/app/views/clients/_clients.html.erb
+END
+modal_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/app/views/clients/modal_form.html.erb
+END
+index.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/30/trunk/app/views/clients/index.js.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/58/trunk/app/views/clients/_form.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/app/views/clients/index.html.erb
+END
+new.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/25/trunk/app/views/clients/new.js.erb
+END

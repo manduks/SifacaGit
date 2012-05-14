@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/locale/tag
+END
+parents.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/locale/tag/parents.rb
+END
+rfc4646.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/locale/tag/rfc4646.rb
+END
+simple.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/lib/i18n/locale/tag/simple.rb
+END

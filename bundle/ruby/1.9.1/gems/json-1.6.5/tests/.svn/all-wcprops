@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/tests
+END
+test_json_encoding.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/tests/test_json_encoding.rb
+END
+test_json_addition.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/tests/test_json_addition.rb
+END
+test_json.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/tests/test_json.rb
+END
+test_json_fixtures.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/tests/test_json_fixtures.rb
+END
+test_json_unicode.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/tests/test_json_unicode.rb
+END
+setup_variant.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/tests/setup_variant.rb
+END
+test_json_string_matching.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/tests/test_json_string_matching.rb
+END
+test_json_generate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/tests/test_json_generate.rb
+END

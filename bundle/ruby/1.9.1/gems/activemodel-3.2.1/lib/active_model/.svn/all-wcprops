@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model
+END
+railtie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/railtie.rb
+END
+test_case.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/test_case.rb
+END
+validations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/validations.rb
+END
+observing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/observing.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/version.rb
+END
+conversion.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/conversion.rb
+END
+validator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/validator.rb
+END
+dirty.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/dirty.rb
+END
+translation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/translation.rb
+END
+serialization.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/serialization.rb
+END
+observer_array.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/observer_array.rb
+END
+attribute_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/attribute_methods.rb
+END
+callbacks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/callbacks.rb
+END
+errors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/errors.rb
+END
+naming.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/naming.rb
+END
+mass_assignment_security.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/mass_assignment_security.rb
+END
+lint.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/lint.rb
+END
+secure_password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activemodel-3.2.1/lib/active_model/secure_password.rb
+END

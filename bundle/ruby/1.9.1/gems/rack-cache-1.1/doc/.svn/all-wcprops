@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/doc
+END
+rack-cache.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/doc/rack-cache.css
+END
+storage.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/doc/storage.markdown
+END
+layout.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/doc/layout.html.erb
+END
+faq.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/doc/faq.markdown
+END
+configuration.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/doc/configuration.markdown
+END
+index.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/doc/index.markdown
+END
+license.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/doc/license.markdown
+END
+server.ru
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-cache-1.1/doc/server.ru
+END

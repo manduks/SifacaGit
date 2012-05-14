@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-rails-3.2.4/lib/sass/rails
+END
+railtie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-rails-3.2.4/lib/sass/rails/railtie.rb
+END
+template_handlers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-rails-3.2.4/lib/sass/rails/template_handlers.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-rails-3.2.4/lib/sass/rails/version.rb
+END
+helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-rails-3.2.4/lib/sass/rails/helpers.rb
+END
+compressor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-rails-3.2.4/lib/sass/rails/compressor.rb
+END
+importer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-rails-3.2.4/lib/sass/rails/importer.rb
+END
+logger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-rails-3.2.4/lib/sass/rails/logger.rb
+END

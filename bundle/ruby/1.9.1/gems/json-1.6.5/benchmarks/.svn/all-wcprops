@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks
+END
+generator2_benchmark.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/generator2_benchmark.rb
+END
+parser_benchmark.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/parser_benchmark.rb
+END
+ohai.json
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/ohai.json
+END
+ohai.ruby
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/ohai.ruby
+END
+generator_benchmark.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/generator_benchmark.rb
+END
+parser2_benchmark.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/parser2_benchmark.rb
+END

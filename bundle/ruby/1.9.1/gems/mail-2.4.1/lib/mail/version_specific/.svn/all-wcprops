@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/version_specific
+END
+ruby_1_9.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/version_specific/ruby_1_9.rb
+END
+ruby_1_8.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/version_specific/ruby_1_8.rb
+END

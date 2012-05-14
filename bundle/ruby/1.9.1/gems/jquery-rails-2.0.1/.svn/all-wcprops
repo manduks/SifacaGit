@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/jquery-rails-2.0.1
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/jquery-rails-2.0.1/LICENSE
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/jquery-rails-2.0.1/CHANGELOG.md
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/jquery-rails-2.0.1/Rakefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/jquery-rails-2.0.1/.gitignore
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/jquery-rails-2.0.1/README.md
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/jquery-rails-2.0.1/Gemfile
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/jquery-rails-2.0.1/Gemfile.lock
+END
+jquery-rails.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/jquery-rails-2.0.1/jquery-rails.gemspec
+END

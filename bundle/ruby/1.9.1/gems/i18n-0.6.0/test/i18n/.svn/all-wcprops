@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/i18n
+END
+exceptions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/i18n/exceptions_test.rb
+END
+load_path_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/i18n/load_path_test.rb
+END
+interpolate_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/i18n-0.6.0/test/i18n/interpolate_test.rb
+END

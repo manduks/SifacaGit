@@ -1,0 +1,73 @@
+<%= nested_form_for @client, :remote => true, :html => {:multipart => true, :class => 'form-inline'} do |f| %>
+
+    <fieldset>
+
+      <div class="control-group">
+        <center>
+          <%= f.label 'Nombre', :class => 'control-label' %>
+
+          <%= f.text_field :name, :class => 'text_field', %>
+
+
+          <%= f.label 'RFC', :class => 'control-label' %>
+
+          <%= f.text_field :rfc, :class => 'input-medium text_field', :id => 'clientrfc' %>
+
+          <%= f.label 'Calle', :class => 'control-label' %>
+
+          <%= f.text_field :street, :class => 'text_field' %>
+          <br><br>
+
+          <%= f.label 'Num_Ext', :class => 'control-label' %>
+
+          <%= f.number_field :num_ext, :class => 'input-small number_field' %>
+
+
+          <%= f.label 'Num_Int', :class => 'control-label' %>
+
+          <%= f.number_field :num_int, :class => 'input-small number_field' %>
+
+
+          <%= f.label 'Colonia', :class => 'control-label' %>
+
+          <%= f.text_field :suburb, :class => 'input-medium text_field' %>
+
+          <%= f.label 'CP', :class => 'control-label' %>
+
+          <%= f.number_field :cp, :class => 'input-small number_field' %>
+          <br><br>
+
+
+          <%= f.label 'Delegación', :class => 'control-label' %>
+
+          <%= f.text_field :township, :class => 'input-medium text_field' %>
+
+
+          <%= f.label 'Estado', :class => 'control-label' %>
+
+          <%= f.text_field :state, :class => 'input-medium text_field' %>
+
+          <%= f.label 'Email', :class => 'control-label' %>
+          <%= f.text_field :email, :class => 'input-medium controls' %>
+
+          <%= f.label 'Logo Empresa', :class => 'control-label' %>
+          <%= f.file_field :logo_emp, :class => 'controls' %>
+          <br><br>
+          <% if @user.tax_regime == 2 %>
+              <div id="students" class="control-group" style="visibility: hidden;">
+                <%= render :partial => "students/form", :locals => {:f => f} %>
+              </div>
+          <% end %>
+        </center>
+      </div>
+
+
+      <center>
+        <div class="form-actions">
+          <%= f.submit 'Crear Cliente', :remote => true, :class => 'btn btn-primary' %>
+          <%= link_to 'Borrar Datos', clients_path, :class => 'btn' %>
+        </div>
+      </center>
+    </fieldset>
+
+<% end %>

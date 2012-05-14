@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates
+END
+expanded.sass
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/expanded.sass
+END
+nested.sass
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/nested.sass
+END
+_imported_charset_ibm866.sass
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/_imported_charset_ibm866.sass
+END
+scss_import.scss
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/scss_import.scss
+END
+mixins.sass
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/mixins.sass
+END
+import_charset_ibm866.sass
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/import_charset_ibm866.sass
+END
+bork5.sass
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/bork5.sass
+END
+units.sass
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/units.sass
+END
+nested_import.sass
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/nested_import.sass
+END
+bork3.sass
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/bork3.sass
+END
+multiline.sass
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/multiline.sass
+END
+nested_mixin_bork.sass
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/nested_mixin_bork.sass
+END
+bork1.sass
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/bork1.sass
+END
+alt.sass
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/alt.sass
+END
+nested_bork5.sass
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/nested_bork5.sass
+END
+warn.sass
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/warn.sass
+END
+import.sass
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/import.sass
+END
+nested_bork3.sass
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/nested_bork3.sass
+END
+mixin_bork.sass
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/mixin_bork.sass
+END
+_double_import_loop2.sass
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/_double_import_loop2.sass
+END
+nested_bork1.sass
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/nested_bork1.sass
+END
+compact.sass
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/compact.sass
+END
+_partial.sass
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/_partial.sass
+END
+double_import_loop1.sass
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/double_import_loop1.sass
+END
+parent_ref.sass
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/parent_ref.sass
+END
+warn_imported.sass
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/warn_imported.sass
+END
+import_charset_1_8.sass
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/import_charset_1_8.sass
+END
+if.sass
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/if.sass
+END
+importee.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/importee.less
+END
+scss_importee.scss
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/scss_importee.scss
+END
+import_charset.sass
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/import_charset.sass
+END
+complex.sass
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/complex.sass
+END
+bork4.sass
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/bork4.sass
+END
+basic.sass
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/basic.sass
+END
+bork2.sass
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/bork2.sass
+END
+script.sass
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/script.sass
+END
+single_import_loop.sass
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/single_import_loop.sass
+END
+nested_bork4.sass
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/nested_bork4.sass
+END
+importee.sass
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/importee.sass
+END
+nested_bork2.sass
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/nested_bork2.sass
+END
+compressed.sass
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/compressed.sass
+END
+_imported_charset_utf8.sass
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/_imported_charset_utf8.sass
+END
+line_numbers.sass
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/line_numbers.sass
+END
+options.sass
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/test/sass/templates/options.sass
+END
