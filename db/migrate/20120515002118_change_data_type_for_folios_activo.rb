@@ -4,6 +4,5 @@ class ChangeDataTypeForFoliosActivo < ActiveRecord::Migration
   end
 
   def down
-    change_column :folios, :status, :string
   end
 end
