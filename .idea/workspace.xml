@@ -26,24 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="20120426001109_change_data_type_for_resumes_total_and_subtotal.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20120426001109_change_data_type_for_resumes_total_and_subtotal.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="86" selection-end="114" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20120515002118_change_data_type_for_folios_activo.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20120515002118_change_data_type_for_folios_activo.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="29" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="folio_detail.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/folio_detail.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -62,17 +44,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20120515043736_remove_activo_from_folios.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20120515043736_remove_activo_from_folios.rb">
+      <file leaf-file-name="20120515044822_add_activo_to_folios.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20120515044822_add_activo_to_folios.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="34" selection-start="98" selection-end="98" vertical-scroll-proportion="0.054607507">
+            <state line="2" column="41" selection-start="104" selection-end="104" vertical-scroll-proportion="0.05079365">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20120427221633_remove_qr_from_users.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20120427221633_remove_qr_from_users.rb">
+      <file leaf-file-name="20120510051007_add_email_from_clients.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20120510051007_add_email_from_clients.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -115,6 +97,7 @@
         <option value="$PROJECT_DIR$/app/models/folio.rb" />
         <option value="$PROJECT_DIR$/app/controllers/invoices_controller.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20120515043736_remove_activo_from_folios.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20120515044822_add_activo_to_folios.rb" />
       </list>
     </option>
   </component>
@@ -777,7 +760,11 @@
       <created>1337056776462</created>
       <updated>1337056776462</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="[ODLG] Se agrega la columna activo a folios.">
+      <created>1337057403142</created>
+      <updated>1337057403142</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -840,7 +827,7 @@
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ODLG] Eliminar la columna activo" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ODLG] Se agrega la columna activo a folios." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -856,25 +843,12 @@
     <MESSAGE value="[ODLG] Cambio de gema sqlite3" />
     <MESSAGE value="[ODLG] Folios activo" />
     <MESSAGE value="[ODLG] Eliminar la columna activo" />
+    <MESSAGE value="[ODLG] Se agrega la columna activo a folios." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/migrate/20120504215346_add_client_id_from_student.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20120502013350_add_curp_from_users.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20120501233739_add_taxregime_from_resumes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -952,13 +926,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20120427221633_remove_qr_from_users.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20120503234025_create_students.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -968,7 +935,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20120515043736_remove_activo_from_folios.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="34" selection-start="98" selection-end="98" vertical-scroll-proportion="0.054607507">
+        <state line="2" column="34" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120427221633_remove_qr_from_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120510051007_add_email_from_clients.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120515044822_add_activo_to_folios.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="41" selection-start="104" selection-end="104" vertical-scroll-proportion="0.05079365">
           <folding />
         </state>
       </provider>
