@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8210c116-3a3f-4a32-b474-1f1f73279c10" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/development.sqlite3" afterPath="$PROJECT_DIR$/db/development.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SifacaGit.iws" />
@@ -46,10 +47,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20120330030336_rename_columns_to_folios.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="20120330030336_rename_columns_to_folios.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20120330030336_rename_columns_to_folios.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="21" selection-start="275" selection-end="275" vertical-scroll-proportion="0.24175824">
+            <state line="9" column="24" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20120515002118_change_data_type_for_folios_activo.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20120515002118_change_data_type_for_folios_activo.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="28" selection-start="188" selection-end="188" vertical-scroll-proportion="0.1978022">
               <folding />
             </state>
           </provider>
@@ -77,6 +87,7 @@
         <option value="$PROJECT_DIR$/db/migrate/20120308191857_change_column_name.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20120315190248_clients_column_name.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20120330030336_rename_columns_to_folios.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20120515002118_change_data_type_for_folios_activo.rb" />
       </list>
     </option>
   </component>
@@ -672,7 +683,11 @@
       <created>1337040465609</created>
       <updated>1337040465609</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[ODLG] Folios activo">
+      <created>1337041440155</created>
+      <updated>1337041440155</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -755,13 +770,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/migrate/20120426001109_change_data_type_for_resumes_total_and_subtotal.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20120427221633_remove_qr_from_users.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -862,7 +870,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20120330030336_rename_columns_to_folios.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="21" selection-start="275" selection-end="275" vertical-scroll-proportion="0.24175824">
+        <state line="9" column="24" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120515002118_change_data_type_for_folios_activo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="28" selection-start="188" selection-end="188" vertical-scroll-proportion="0.1978022">
           <folding />
         </state>
       </provider>
