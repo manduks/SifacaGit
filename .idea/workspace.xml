@@ -35,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20120515002118_change_data_type_for_folios_activo.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="20120515002118_change_data_type_for_folios_activo.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20120515002118_change_data_type_for_folios_activo.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="30" selection-start="133" selection-end="133" vertical-scroll-proportion="0.06593407">
+            <state line="3" column="29" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -47,7 +47,16 @@
       <file leaf-file-name="folio_detail.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/folio_detail.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="57" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
+            <state line="5" column="54" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="invoices_controller.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/invoices_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="58" column="30" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.6002886">
               <folding />
             </state>
           </provider>
@@ -76,6 +85,7 @@
         <option value="$PROJECT_DIR$/db/migrate/20120315190248_clients_column_name.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20120330030336_rename_columns_to_folios.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20120515002118_change_data_type_for_folios_activo.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/invoices_controller.rb" />
       </list>
     </option>
   </component>
@@ -336,6 +346,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SifacaGit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SifacaGit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -709,7 +737,11 @@
       <created>1337049276151</created>
       <updated>1337049276151</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="[ODLG] Folios activo">
+      <created>1337049877174</created>
+      <updated>1337049877174</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -792,13 +824,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/migrate/20120510051007_add_email_from_clients.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20120508005053_add_student_id_from_invoice.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -883,6 +908,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120515002118_change_data_type_for_folios_activo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="29" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20120426001109_change_data_type_for_resumes_total_and_subtotal.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="4" selection-start="86" selection-end="114" vertical-scroll-proportion="0.0">
@@ -892,14 +924,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/folio_detail.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="57" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
+        <state line="5" column="54" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20120515002118_change_data_type_for_folios_activo.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/invoices_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="30" selection-start="133" selection-end="133" vertical-scroll-proportion="0.06593407">
+        <state line="58" column="30" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.6002886">
           <folding />
         </state>
       </provider>
