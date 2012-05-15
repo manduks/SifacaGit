@@ -11,7 +11,7 @@ class Folio < ActiveRecord::Base
   #validates :finish, :presence => true
 
   def self.find_activo_by_user_id(user_id)
-    where('user_id = ? AND activo =?', user_id, 1)
+    where('user_id = ? AND activo = ?', user_id, 1)
   end
 
 
