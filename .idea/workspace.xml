@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8210c116-3a3f-4a32-b474-1f1f73279c10" name="Default" comment="" />
+    <list default="true" id="8210c116-3a3f-4a32-b474-1f1f73279c10" name="Default" comment="[ODLG] Folios activo">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="SifacaGit.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,7 +49,16 @@
       <file leaf-file-name="folio_detail.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/folio_detail.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="54" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+            <state line="8" column="40" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="folio.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/folio.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="35" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -56,7 +67,7 @@
       <file leaf-file-name="invoices_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/invoices_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="30" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.6002886">
+            <state line="50" column="72" selection-start="1345" selection-end="1345" vertical-scroll-proportion="0.41558442">
               <folding />
             </state>
           </provider>
@@ -85,6 +96,7 @@
         <option value="$PROJECT_DIR$/db/migrate/20120315190248_clients_column_name.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20120330030336_rename_columns_to_folios.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20120515002118_change_data_type_for_folios_activo.rb" />
+        <option value="$PROJECT_DIR$/app/models/folio.rb" />
         <option value="$PROJECT_DIR$/app/controllers/invoices_controller.rb" />
       </list>
     </option>
@@ -741,7 +753,11 @@
       <created>1337049877174</created>
       <updated>1337049877174</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="[ODLG] Folios activo">
+      <created>1337050419746</created>
+      <updated>1337050419746</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -824,13 +840,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/migrate/20120508005053_add_student_id_from_invoice.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20120507185558_add_status_to_invoice.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -908,13 +917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20120515002118_change_data_type_for_folios_activo.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="29" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20120426001109_change_data_type_for_resumes_total_and_subtotal.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="4" selection-start="86" selection-end="114" vertical-scroll-proportion="0.0">
@@ -924,14 +926,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/folio_detail.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="54" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+        <state line="8" column="40" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120515002118_change_data_type_for_folios_activo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="29" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/folio.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="35" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/invoices_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="30" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.6002886">
+        <state line="50" column="72" selection-start="1345" selection-end="1345" vertical-scroll-proportion="0.41558442">
           <folding />
         </state>
       </provider>
