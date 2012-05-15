@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120515002118) do
+ActiveRecord::Schema.define(:version => 20120515044822) do
 
   create_table "articles", :force => true do |t|
     t.integer  "quantity"
@@ -52,14 +52,14 @@ ActiveRecord::Schema.define(:version => 20120515002118) do
   create_table "folios", :force => true do |t|
     t.integer  "user_id"
     t.integer  "finish"
-    t.integer  "activo",          :limit => 255
-    t.datetime "created_at",                     :null => false
-    t.datetime "updated_at",                     :null => false
+    t.datetime "created_at",      :null => false
+    t.datetime "updated_at",      :null => false
     t.integer  "initiation"
     t.string   "qr"
     t.date     "date_initiation"
     t.date     "date_finish"
     t.integer  "approval"
+    t.integer  "activo"
   end
 
   create_table "invoices", :force => true do |t|
