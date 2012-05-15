@@ -48,7 +48,7 @@ class InvoicesController < ApplicationController
     1.times { @invoice.articles.build }
 
     @folio = Folio.find_activo_by_user_id(current_user.id)
-    @availableFolios = FolioDetail.find_by_folio_id_and_status(@folio, 1)
+    @availableFolios = FolioDetail.find_by_folio_id_and_status(@folio, 1.0)
 
 
     respond_to do |format|
