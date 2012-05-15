@@ -1,7 +1,7 @@
 class ChangeDataTypeForFoliosActivo < ActiveRecord::Migration
   def up
     change_table :folios do |t|
-      t.change :activo, :string
+      t.change :activo, :float
     end
   end
 
