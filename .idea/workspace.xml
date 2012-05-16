@@ -1,7 +1,569 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8210c116-3a3f-4a32-b474-1f1f73279c10" name="Default" comment="" />
+    <list default="true" id="8210c116-3a3f-4a32-b474-1f1f73279c10" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/clients.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/edif.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/invoice2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/person.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/rails.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/wall.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/wtc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/.svn/prop-base/IMG_0130.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/.svn/prop-base/enjoy_your_life_iphone.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/.svn/prop-base/thumb_IMG_0130.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/.svn/prop-base/thumb_enjoy_your_life_iphone.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/.svn/text-base/IMG_0130.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/.svn/text-base/enjoy_your_life_iphone.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/.svn/text-base/thumb_IMG_0130.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/.svn/text-base/thumb_enjoy_your_life_iphone.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/IMG_0130.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/codetlan.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/enjoy_your_life_iphone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/thumb_IMG_0130.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/thumb_codetlan.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/1/thumb_enjoy_your_life_iphone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/10/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/10/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/10/.svn/prop-base/IMG_0268.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/10/.svn/prop-base/thumb_IMG_0268.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/10/.svn/text-base/IMG_0268.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/10/.svn/text-base/thumb_IMG_0268.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/10/IMG_0268.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/10/codetlan.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/10/thumb_IMG_0268.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/10/thumb_codetlan.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/11/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/11/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/11/.svn/prop-base/IMG_0244.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/11/.svn/prop-base/thumb_IMG_0244.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/11/.svn/text-base/IMG_0244.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/11/.svn/text-base/thumb_IMG_0244.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/11/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/11/IMG_0244.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/11/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/11/thumb_IMG_0244.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/12/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/12/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/12/.svn/prop-base/IMG_0219.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/12/.svn/prop-base/thumb_IMG_0219.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/12/.svn/text-base/IMG_0219.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/12/.svn/text-base/thumb_IMG_0219.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/12/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/12/IMG_0219.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/12/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/12/thumb_IMG_0219.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/13/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/13/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/14/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/14/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/15/IMG_0315.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/15/thumb_IMG_0315.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/16/loogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/16/thumb_loogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/17/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/17/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/18/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/18/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/19/codetlan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/19/thumb_codetlan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/2/codetlan.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/2/thumb_codetlan.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/20/loogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/20/thumb_loogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/21/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/21/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/23/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/23/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/24/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/24/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/25/PCY_PAIR_PATO_PCY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/25/thumb_PCY_PAIR_PATO_PCY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/26/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/26/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/27/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/27/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/28/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/28/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/28/.svn/prop-base/IMG_0130.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/28/.svn/prop-base/thumb_IMG_0130.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/28/.svn/text-base/IMG_0130.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/28/.svn/text-base/thumb_IMG_0130.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/28/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/28/IMG_0130.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/28/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/28/thumb_IMG_0130.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/29/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/29/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/29/.svn/prop-base/IMG_0306.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/29/.svn/prop-base/thumb_IMG_0306.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/29/.svn/text-base/IMG_0306.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/29/.svn/text-base/thumb_IMG_0306.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/29/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/29/IMG_0306.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/29/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/29/thumb_IMG_0306.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/3/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/3/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/30/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/30/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/30/.svn/prop-base/IMG_0294.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/30/.svn/prop-base/thumb_IMG_0294.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/30/.svn/text-base/IMG_0294.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/30/.svn/text-base/thumb_IMG_0294.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/30/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/30/IMG_0294.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/30/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/30/thumb_IMG_0294.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/31/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/31/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/31/.svn/prop-base/IMG_0320.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/31/.svn/prop-base/thumb_IMG_0320.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/31/.svn/text-base/IMG_0320.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/31/.svn/text-base/thumb_IMG_0320.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/31/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/31/IMG_0320.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/31/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/31/thumb_IMG_0320.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/32/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/32/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/32/.svn/prop-base/IMG_0297.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/32/.svn/prop-base/thumb_IMG_0297.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/32/.svn/text-base/IMG_0297.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/32/.svn/text-base/thumb_IMG_0297.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/32/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/32/IMG_0297.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/32/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/32/thumb_IMG_0297.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/33/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/33/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/33/.svn/prop-base/Iphone_004.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/33/.svn/prop-base/thumb_Iphone_004.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/33/.svn/text-base/Iphone_004.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/33/.svn/text-base/thumb_Iphone_004.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/33/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/33/Iphone_004.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/33/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/33/thumb_Iphone_004.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/34/gabriela.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/34/thumb_gabriela.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/35/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/35/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/35/.svn/prop-base/IMG_0302.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/35/.svn/prop-base/thumb_IMG_0302.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/35/.svn/text-base/IMG_0302.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/35/.svn/text-base/thumb_IMG_0302.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/35/IMG_0302.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/35/thumb_IMG_0302.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/36/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/36/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/36/.svn/prop-base/DSC04619.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/36/.svn/prop-base/thumb_DSC04619.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/36/.svn/text-base/DSC04619.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/36/.svn/text-base/thumb_DSC04619.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/36/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/36/DSC04619.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/36/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/36/thumb_DSC04619.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/37/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/37/IMG_0077.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/37/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/37/thumb_IMG_0077.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/38/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/38/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/39/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/39/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/4/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/4/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/40/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/40/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/41/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/41/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/42/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/42/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/43/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/43/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/44/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/44/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/45/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/45/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/46/codetlan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/46/thumb_codetlan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/47/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/47/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/48/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/48/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/49/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/49/IMG_0322.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/49/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/49/thumb_IMG_0322.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/5/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/5/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/50/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/50/IMG_0262.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/50/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/50/thumb_IMG_0262.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/51/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/51/IMG_0305.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/51/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/51/thumb_IMG_0305.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/52/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/52/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/53/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/53/thumb_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/54/gabriela.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/54/thumb_gabriela.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/55/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/55/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/6/419838_362596877105520_100000656314898_1186166_393916063_n_1_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/6/thumb_419838_362596877105520_100000656314898_1186166_393916063_n_1_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/7/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/7/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/7/.svn/prop-base/fail1.png.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/7/.svn/prop-base/thumb_fail1.png.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/7/.svn/text-base/fail1.png.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/7/.svn/text-base/thumb_fail1.png.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/7/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/7/IMG_0284.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/7/fail1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/7/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/7/thumb_IMG_0284.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/7/thumb_fail1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/.svn/prop-base/IMG_0078.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/.svn/prop-base/IMG_0128.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/.svn/prop-base/thumb_IMG_0078.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/.svn/prop-base/thumb_IMG_0128.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/.svn/text-base/IMG_0078.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/.svn/text-base/IMG_0128.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/.svn/text-base/thumb_IMG_0078.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/.svn/text-base/thumb_IMG_0128.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/IMG_0078.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/IMG_0128.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/IMG_0255.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/thumb_IMG_0078.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/thumb_IMG_0128.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/8/thumb_IMG_0255.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/9/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/9/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/9/.svn/prop-base/IMG022.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/9/.svn/prop-base/thumb_IMG022.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/9/.svn/text-base/IMG022.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/9/.svn/text-base/thumb_IMG022.jpg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/9/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/9/IMG022.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/9/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/logo_emp/9/thumb_IMG022.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/10/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/10/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/10/.svn/prop-base/IMG_0100.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/10/.svn/prop-base/thumb_IMG_0100.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/10/.svn/text-base/IMG_0100.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/10/.svn/text-base/thumb_IMG_0100.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/10/IMG_0100.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/10/thumb_IMG_0100.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/11/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/11/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/11/.svn/prop-base/IMG_0201.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/11/.svn/prop-base/thumb_IMG_0201.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/11/.svn/text-base/IMG_0201.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/11/.svn/text-base/thumb_IMG_0201.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/11/IMG_0201.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/11/thumb_IMG_0201.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/12/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/12/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/12/.svn/prop-base/IMG_0203.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/12/.svn/prop-base/thumb_IMG_0203.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/12/.svn/text-base/IMG_0203.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/12/.svn/text-base/thumb_IMG_0203.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/12/IMG_0203.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/12/thumb_IMG_0203.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/28/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/28/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/28/.svn/prop-base/IMG_0129.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/28/.svn/prop-base/thumb_IMG_0129.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/28/.svn/text-base/IMG_0129.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/28/.svn/text-base/thumb_IMG_0129.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/28/IMG_0129.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/28/thumb_IMG_0129.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/29/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/29/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/29/.svn/prop-base/IMG_0243.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/29/.svn/prop-base/thumb_IMG_0243.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/29/.svn/text-base/IMG_0243.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/29/.svn/text-base/thumb_IMG_0243.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/29/IMG_0243.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/29/thumb_IMG_0243.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/30/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/30/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/30/.svn/prop-base/IMG_0273.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/30/.svn/prop-base/thumb_IMG_0273.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/30/.svn/text-base/IMG_0273.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/30/.svn/text-base/thumb_IMG_0273.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/30/IMG_0273.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/30/thumb_IMG_0273.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/31/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/31/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/31/.svn/prop-base/IMG_0239.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/31/.svn/prop-base/thumb_IMG_0239.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/31/.svn/text-base/IMG_0239.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/31/.svn/text-base/thumb_IMG_0239.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/31/IMG_0239.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/31/thumb_IMG_0239.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/32/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/32/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/32/.svn/prop-base/IMG_0168.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/32/.svn/prop-base/thumb_IMG_0168.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/32/.svn/text-base/IMG_0168.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/32/.svn/text-base/thumb_IMG_0168.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/32/IMG_0168.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/32/thumb_IMG_0168.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/33/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/33/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/33/.svn/prop-base/Iphone_002.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/33/.svn/prop-base/thumb_Iphone_002.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/33/.svn/text-base/Iphone_002.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/33/.svn/text-base/thumb_Iphone_002.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/33/Iphone_002.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/33/thumb_Iphone_002.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/35/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/35/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/35/.svn/prop-base/IMG_0315.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/35/.svn/prop-base/thumb_IMG_0315.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/35/.svn/text-base/IMG_0315.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/35/.svn/text-base/thumb_IMG_0315.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/35/IMG_0315.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/35/thumb_IMG_0315.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/36/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/36/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/36/.svn/prop-base/DSC04629.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/36/.svn/prop-base/thumb_DSC04629.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/36/.svn/text-base/DSC04629.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/36/.svn/text-base/thumb_DSC04629.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/36/DSC04629.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/36/thumb_DSC04629.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/7/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/7/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/7/.svn/prop-base/fail.png.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/7/.svn/prop-base/thumb_fail.png.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/7/.svn/text-base/fail.png.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/7/.svn/text-base/thumb_fail.png.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/7/fail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/7/thumb_fail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/8/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/8/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/8/.svn/prop-base/DSC04653-.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/8/.svn/prop-base/thumb_DSC04653-.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/8/.svn/text-base/DSC04653-.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/8/.svn/text-base/thumb_DSC04653-.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/8/DSC04653-" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/8/thumb_DSC04653-" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/9/.svn/all-wcprops" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/9/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/9/.svn/prop-base/IMG_0085.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/9/.svn/prop-base/thumb_IMG_0085.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/9/.svn/text-base/IMG_0085.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/9/.svn/text-base/thumb_IMG_0085.JPG.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/9/IMG_0085.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/client/qr/9/thumb_IMG_0085.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/1/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/1/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/10/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/10/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/11/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/11/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/12/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/12/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/13/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/13/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/14/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/14/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/15/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/15/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/16/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/16/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/17/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/17/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/18/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/18/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/19/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/19/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/2/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/2/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/20/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/20/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/21/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/21/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/22/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/22/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/23/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/23/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/24/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/24/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/25/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/25/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/26/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/26/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/27/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/27/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/28/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/28/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/3/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/3/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/30/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/30/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/4/IMG_0130.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/4/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/4/thumb_IMG_0130.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/4/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/5/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/5/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/5/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/5/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/6/DSC04637.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/6/IMG_0420.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/6/thumb_DSC04637.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/6/thumb_IMG_0420.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/7/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/7/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/8/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/8/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/9/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/folio/qr/9/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/22/Folio_6.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/24-Folio_1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/24-Folio_2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/28-Folio_100.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/29-Folio_100.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/29/29-Folio_1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/29/29-Folio_100.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/29/Folio_1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/29/Folio_100.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/29/Folio_2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/29/Folio_3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/30/Folio_100.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/31/Folio_1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/31/Folio_2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/33/Folio_1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/33/Folio_2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/33/Folio_4.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/33/Folio_50.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/34/Folio_2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/34/Folio_3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/Folio-2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/Honorarios-Folio-1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/Honorarios-Folio-2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/Honorarios-Folio_2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/pdfs/x.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1354-336-2305/DSC04619.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1354-336-2305/thumb_DSC04619.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1355-336-1198/DSC04619.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1355-336-1198/thumb_DSC04619.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1358-336-8740/DSC04653-" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1358-336-8740/thumb_DSC04653-" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1359-336-5708/DSC04653-" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1359-336-5708/thumb_DSC04653-" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1401-336-3450/419838_362596877105520_100000656314898_1186166_393916063_n_1_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1401-336-3450/thumb_419838_362596877105520_100000656314898_1186166_393916063_n_1_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1811-698-5370/DSC046761" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1811-698-5370/thumb_DSC046761" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1914-698-7833/IMG_0322.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120402-1914-698-7833/thumb_IMG_0322.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120405-0207-340-1056/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120405-0207-340-1056/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120405-0207-340-4298/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120405-0207-340-4298/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120410-1714-1106-5642/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120410-1714-1106-5642/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120410-1716-1106-1408/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120410-1716-1106-1408/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120410-1722-1106-1322/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120410-1722-1106-1322/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120416-0131-1352-9443/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120416-0131-1352-9443/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120417-1737-310-9950/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120417-1737-310-9950/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120418-1751-375-0471/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120418-1751-375-0471/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120418-1752-375-1781/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120418-1752-375-1781/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120501-2051-1413-8973/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120501-2051-1413-8973/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120504-1435-294-0464/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120504-1435-294-0464/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120504-1436-294-7730/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/tmp/20120504-1436-294-7730/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/10/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/10/thumb_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/11/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/11/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/12/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/12/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/13/qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/13/thumb_qr_fac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/14/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/14/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/15/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/15/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/16/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/16/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/17/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/17/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/18/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/18/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/19/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/19/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/2/DSC04619.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/2/thumb_DSC04619.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/20/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/20/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/21/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/21/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/22/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/22/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/23/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/23/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/24/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/24/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/25/gabriela.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/25/thumb_gabriela.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/26/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/26/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/27/codetlan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/27/thumb_codetlan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/28/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/28/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/29/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/29/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/30/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/30/thumb_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/31/codetlan-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/31/thumb_codetlan-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/32/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/32/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/33/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/33/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/34/gabriela.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/34/thumb_gabriela.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/35/Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/35/thumb_Auto_Audi_Audi_concept_car_005130_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/6/codetlan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/6/thumb_codetlan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/8/Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/8/thumb_Coca-cola.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/9/clients.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/9/thumb_clients.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="SifacaGit.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,7 +627,8 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="476" />
+    <option name="y" value="43" />
     <option name="width" value="1280" />
     <option name="height" value="774" />
   </component>
@@ -146,248 +709,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="initializers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="environments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clients" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pdfs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SifacaGit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -739,7 +1060,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="774" extended-state="0" />
+    <frame x="476" y="43" width="1280" height="774" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -822,33 +1143,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/environment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="45" selection-start="471" selection-end="471" vertical-scroll-proportion="-1.5107692" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20120510051007_add_email_from_clients.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/invoices_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="52" selection-start="1054" selection-end="1054" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="54" selection-start="626" selection-end="626" vertical-scroll-proportion="0.16158536">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -920,6 +1214,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/images/invoices5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/delete.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/delete1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/invoice1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/invoices3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/wtc.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
