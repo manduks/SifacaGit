@@ -6,21 +6,21 @@
     <div class="row">
       <div class="span3">
         <center>    
-           <%= link_to image_tag('clients1.png', :border => 0, :rel => "clients", :size => "200x200"), clients_path %>
+           <%= link_to image_tag('users.png', :border => 0, :rel => "clients", :size => "185x185"), clients_path %>
           <h3><font color="white">CLIENTES</font></h3></center>
       </div>
       <div class="span3">
         <center>
-               <%= link_to image_tag('folder1.png', :border => 0, :rel => "folios", :size => "200x200"), folios_path %>
+               <%= link_to image_tag('folder2.png', :border => 0, :rel => "folios", :size => "185x185"), folios_path %>
           <h3><font color="white">FOLIOS</font></h3></center>
       </div>
       <div class="span3">
         <center>
           <% if current_user.active == 1 %>
-              <%= link_to image_tag('invoices5.png', :border => 0, :rel => "invoices", :size => "200x200"), resumes_path %>
+              <%= link_to image_tag('invoice.png', :border => 0, :rel => "invoices", :size => "185x185"), resumes_path %>
               <h3><font color="white">FACTURAS</font></h3>
           <% else %>
-              <%= image_tag('invoices5.png', :border => 4, :rel => "invoices_nonactive", :class => "button", :size => "200x200") %>
+              <%= image_tag('invoice.png', :border => 4, :rel => "invoices_nonactive", :class => "button", :size => "200x200") %>
               <h3><font color="white">FACTURAS</font></h3>
           <% end %>
         </center>

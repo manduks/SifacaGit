@@ -1,35 +1,41 @@
 <%= hidden_field_tag :direction, params[:direction] %>
 <%= hidden_field_tag :sort, params[:sort] %>
-<table class="table table-bordered">
-    <tr>
-      <th><%=sortable "name" %><i class="icon-resize-vertical"></i></th>
-      <th>RFC</th>
-      <th>Dirección</th>
-      <th>Logo Cliente</th>
-      <th></th>
-    </tr>
-  <% @clients.each do |client| %>
-      <tr>
-        <td><%= client.name %></td>
-        <td><%= client.rfc %></td>
-        <td><%= client.street %>
-          #<%= client.num_ext %>
-          <%= client.num_int %>
-          <%= client.suburb %>
-          <%= client.township %>
-          <%= client.state %>
-          C.P.<%= client.cp %></td>
-        <td><%= image_tag client.logo_emp_url(:thumb).to_s %></td>
-        <td>
-          <%= link_to 'Edit', edit_client_path(client), :remote => true, :class => 'btn btn-mini' %>
-          <%= link_to 'Destroy', client_path(client), :method => :delete, :confirm => 'Are you sure?', :class => 'btn btn-mini btn-danger' %>
-        </td>
-      </tr>
-  <% end %>
-</table>
-<center>
-  <div class="pagination">
-    <%= will_paginate @clients %>
-  </div>
-</center>
+<div class="span12" xmlns="http://www.w3.org/1999/html">
+  <font face="courier" color="#6D6968" size="6">Clientes</font><br><br>
+  <ul class="thumbnails">
+    <% @clients.each do |client| %>
+        <li class="span4">
+          <div class="thumbnail" style="height: 150px;">
+            <div class="row-fluid">
+              <div class="span3"><%= image_tag client.logo_emp_url(:thumb).to_s %></div>
+              <div class="span9" style="height: 125px;">
+                <center>
+                  <p><b><font face="roman"><%= client.name %>
+                    <h5>RFC: <%= client.rfc %></h5></font></b></p>
+                </center>
+                <p><font face="roman"><%= client.street %> No. <%= client.num_int %> int. <%= client.num_ext %>
+                  Col. <%= client.suburb %>, Del. <%= client.township %>, <%= client.state %>,
+                  C.P.<%= client.cp %></font></p>
+              </div>
+            </div>
+            <div>
+              <center>
+                <%= link_to 'Editar', edit_client_path(client), :remote => true, :class => 'btn btn-mini btn-info' %>
+                <%= link_to 'Eliminar', client_path(client), :method => :delete, :confirm => 'Are you sure?', :class => 'btn btn-mini btn-danger' %>
+              </center>
+            </div>
+          </div>
+        </li>
+    <% end %>
+  </ul>
+</div>
+<div>
+  <center>
+    <div class="pagination">
+      <%= will_paginate @clients %>
+    </div>
+  </center>
+</div>
+
+
 
