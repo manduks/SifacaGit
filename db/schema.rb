@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120515044822) do
+ActiveRecord::Schema.define(:version => 20120522160353) do
 
   create_table "articles", :force => true do |t|
     t.integer  "quantity"
@@ -123,7 +123,7 @@ ActiveRecord::Schema.define(:version => 20120515044822) do
     t.integer  "cp"
     t.string   "logo_emp"
     t.string   "username"
-    t.integer  "tax_regime"
+    t.integer  "tax_regime",             :default => 0
     t.integer  "active",                 :default => 0
     t.string   "curp"
   end

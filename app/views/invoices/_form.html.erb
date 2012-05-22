@@ -8,8 +8,6 @@
         <legend>
           <div class="offset2">Capturar Factura</div>
         </legend>
-
-
         <div class="control-group">
           <div class="span9 offset2">
             <%= f.label 'Fecha', :class => 'control-label' %>
@@ -17,7 +15,7 @@
             <%= @invoice.errors.messages[:date][0] %>
 
             <%= f.label 'Folio', :class => 'control-label' %>
-            <%= f.collection_select :folio_detail_id, @availableFolios, :id, :folio_detail_id, {:prompt => 'Selecciona un folio'}, :class => 'input-medium' %>&nbsp;
+            <%= f.collection_select :folio_detail_id, @availableFolios, :id, :folio_detail_id, {:prompt => 'Selecciona un folio'}, :class => 'checkbox' %>&nbsp;
             <%= @invoice.errors.messages[:folio_detail_id][0] %>
 
             <%= f.label 'Cliente', :class => 'control-label' %>

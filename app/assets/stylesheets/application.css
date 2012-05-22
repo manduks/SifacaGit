@@ -19,8 +19,7 @@
 
 }
 
-.codetlan{
-
+.codetlan {
 
 }
 
@@ -29,8 +28,10 @@ body {
     height: 100%;
 }
 
-.dashboard .left {
-    float: left;
+.image {
+    position: absolute;
+    bottom: 0px;
+    right: 47%;
 }
 
 .dashboard .right {
@@ -65,30 +66,20 @@ body {
 
 }
 
-
-.frame{
+.frame {
     height: 140px;
 }
 
-#modal-form-users-new{
+#modal-form-users-new {
     width: 800px;
     left: 40%;
 }
 
-.button{
+.button {
     opacity: 0.3;
-    filter: alpha(opacity=50);
+    filter: alpha(opacity = 50);
 }
 
-/*#navbar{
-    height: 100%;
-    position: relative;
-} */
-
-/* `Clear Floated Elements
-----------------------------------------------------------------------------------------------------*/
-
-/* http://www.yuiblog.com/blog/2010/09/27/clearfix-reloaded-overflowhidden-demystified */
 
 .clearfix:before,
 .clearfix:after,
@@ -104,38 +95,4 @@ body {
     height: 0;
 }
 
-/*.clearfix:after,
-.container_24:after {
-    clear: both;
-} */
-
-/*
-  The following zoom:1 rule is specifically for IE6 + IE7.
-  Move to separate stylesheet if invalid CSS is a problem.
-*/
-
-/*.clearfix,
-.container_24 {
-    zoom: 1;
-} */
-
-/*application.css
-
-.table th .current {
-    padding-right: 12px;
-    background-repeat: no-repeat;
-    background-position: right center;
-}
-
-.table th .asc{
-    background-repeat: no-repeat;
-    background-position: right;
-    background-image: url(up.png);
-}
-
-.table th .desc{
-    background-repeat: no-repeat;
-    background-position: right;
-    background-image: url(down.png);
-}   */
 

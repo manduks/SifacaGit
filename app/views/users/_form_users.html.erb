@@ -1,13 +1,14 @@
-<h2>&nbsp;Información del Usuario</h2><br>
-<%= form_for(resource, :as => resource_name, :url => registration_path(resource_name),
-             :html => {:method => :put, :class => 'form-inline'}) do |f| %>
-
+<script type="text/javascript">
+    data = <%="#{current_user.tax_regime}"%>
+            $("#tax").val(data);
+</script>
+<br><%= form_for(resource, :as => resource_name, :url => registration_path(resource_name),
+                 :html => {:method => :put, :class => 'form-inline'}) do |f| %>
     <fieldset>
       <div class="control-group">
-
         &nbsp;&nbsp;<%= f.label 'Regimen Fiscal:', :class => 'control-label' %>
 
-        <%= f.select :tax_regime, [['General',0],['Honorarios Profesionales',1],['Escuelas',2],['Arrendamiento',3]], {:include_blank => false}, :value => current_user.tax_regime, :class => 'input-medium' %>&nbsp;&nbsp;
+        <%= f.select :tax_regime, [['General', 0], ['Honorarios Profesionales', 1], ['Escuelas', 2], ['Arrendamiento', 3]], {:include_blank => false}, :id => "tax", :class => 'input-medium' %>&nbsp;&nbsp;
 
         <%= f.label 'Nombre:', :class => 'control-label' %>
 
@@ -58,12 +59,10 @@
 
         <%= f.file_field :logo_emp, :value => current_user.logo_emp.to_s, :class => 'controls' %>
         <center>
-        <div class="form-actions">
-          <%= f.submit "Actualizar",  :class => 'btn btn-primary' %>
-        </div>
+          <div class="form-actions">
+            <%= f.submit "Actualizar", :class => 'btn btn-primary' %>
+          </div>
         </center>
-
-
       </div>
     </fieldset>
 <% end %>
