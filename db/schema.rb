@@ -11,16 +11,16 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120522160353) do
+ActiveRecord::Schema.define(:version => 20120523153849) do
 
   create_table "articles", :force => true do |t|
     t.integer  "quantity"
     t.string   "description"
-    t.decimal  "unit_cost",   :precision => 8, :scale => 2, :default => 0.0
     t.integer  "iva"
     t.integer  "invoice_id"
     t.datetime "created_at",                                                 :null => false
     t.datetime "updated_at",                                                 :null => false
+    t.decimal  "unit_cost",   :precision => 8, :scale => 2, :default => 0.0
   end
 
   create_table "clients", :force => true do |t|
@@ -37,7 +37,6 @@ ActiveRecord::Schema.define(:version => 20120522160353) do
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
     t.integer  "user_id"
-    t.string   "curp"
     t.string   "email"
   end
 
@@ -68,26 +67,26 @@ ActiveRecord::Schema.define(:version => 20120522160353) do
     t.integer  "folio_detail_id"
     t.datetime "created_at",      :null => false
     t.datetime "updated_at",      :null => false
-    t.integer  "student_id"
     t.integer  "status"
+    t.integer  "student_id"
   end
 
   create_table "resumes", :force => true do |t|
-    t.decimal  "subtotal",          :precision => 8, :scale => 2, :default => 0.0
-    t.decimal  "total",             :precision => 8, :scale => 2, :default => 0.0
     t.integer  "invoice_id"
     t.string   "letter_number"
+    t.string   "payment_condition"
     t.string   "receipt"
     t.datetime "created_at",                                                       :null => false
     t.datetime "updated_at",                                                       :null => false
-    t.string   "payment_condition"
-    t.decimal  "iva",               :precision => 8, :scale => 2, :default => 0.0
     t.string   "places"
-    t.decimal  "quantity",          :precision => 8, :scale => 2, :default => 0.0
+    t.integer  "tax_regime"
     t.string   "concept"
+    t.decimal  "quantity",          :precision => 8, :scale => 2, :default => 0.0
     t.decimal  "ret_isr",           :precision => 8, :scale => 2, :default => 0.0
     t.decimal  "ret_iva",           :precision => 8, :scale => 2, :default => 0.0
-    t.integer  "tax_regime"
+    t.decimal  "subtotal",          :precision => 8, :scale => 2, :default => 0.0
+    t.decimal  "total",             :precision => 8, :scale => 2, :default => 0.0
+    t.decimal  "iva",               :precision => 8, :scale => 2, :default => 0.0
   end
 
   create_table "students", :force => true do |t|
