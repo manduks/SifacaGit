@@ -3,8 +3,9 @@ class ClientsController < ApplicationController
   # GET /clients
   # GET /clients.json
   def index
-    @clients = current_user.clients.search(params[:search]).order(sort_column + " " + sort_direction).paginate(:per_page => 5, :page => params[:page])
+    @clients = current_user.clients.search(params[:search]).order(sort_column + " " + sort_direction).paginate(:per_page => 6, :page => params[:page])
     @client = Client.new
+    @user = current_user
 
 
     respond_to do |format|
@@ -33,10 +34,10 @@ class ClientsController < ApplicationController
     @user = current_user
     @user = User.find(@user.id)
     @list_students = []
-   # @list_students = Student.all
+    # @list_students = Student.all
 
 
-   # 1.times { @client.students.build }
+    # 1.times { @client.students.build }
 
     respond_to do |format|
       format.html # new.html.erb
@@ -63,7 +64,8 @@ class ClientsController < ApplicationController
     @client = Client.new(params[:client])
     @student = Student.new(params[:student])
     @client.user = current_user
-    @clients = current_user.clients.paginate(:per_page => 2, :page => params[:page])
+    @user = current_user
+    @clients = current_user.clients.paginate(:per_page => 6, :page => params[:page])
 
     respond_to do |format|
       if @client.save
@@ -82,16 +84,17 @@ class ClientsController < ApplicationController
   # PUT /clients/1.json
   def update
     @client = Client.find(params[:id])
-    @clients = current_user.clients.paginate(:per_page => 2, :page => params[:page])
+    @clients = current_user.clients.paginate(:per_page => 6, :page => params[:page])
 
     respond_to do |format|
       if @client.update_attributes(params[:client])
-        format.html { redirect_to clients_path, notice: 'Client was successfully updated.' }
-        #format.json { head :no_content }
+        format.html { redirect_to clients_path, notice: 'El cliente fue actualizado satisfactoriamente' }
+        format.json { head :no_content }
         format.js
       else
         format.html { redirect_to }
         format.json { render json: @client.errors, status: :unprocessable_entity }
+        format.js
       end
     end
   end

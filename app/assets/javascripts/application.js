@@ -15,6 +15,7 @@
 //= require jquery-ui
 //= require twitter/bootstrap
 //= require_tree .
+//= require jquery.remotipart
 
 $(function () {
     $("#select-clientess").live('change', function () {
@@ -35,18 +36,6 @@ $(function () {
                 }).popover('show');
                 $("#select-alumnos").css({visibility: 'visible'});
                 $("#select-alumno").css({visibility: 'visible'});
-                /*var rfc = o.rfc;
-                str = rfc.substring(3,4);
-                if(isNaN(str)){
-                    $("#select-alumnos").css({visibility: 'visible'});
-                    $("#select-alumno").css({visibility: 'visible'});
-                    $("#articles").css({visibility: 'hidden'});
-                }
-                else{
-                    $("#select-alumnos").css({visibility: 'hidden'});
-                    $("#select-alumno").css({visibility: 'hidden'});
-                    $("#articles").css({visibility: 'visible'});
-                }*/
             });
             return false;
         } else {
@@ -119,8 +108,7 @@ $(function () {
         });
     $("[rel=usuario]")
         .popover({
-            placement:"bottom",
-            title:"Usuario",
+            placement:"left",
             content:"Aquí puedes editar la información del usuario",
             trigger:"hover",
             delay:{ show:500, hide:100 }
@@ -133,11 +121,6 @@ $(function () {
         $.getScript(this.href);
         return false;
     });
-
-    /*$("#list-folios .pagination a").live("click", function () {
-        $.getScript(this.href);
-        return false;
-    });*/
 });
 
 $(function () {

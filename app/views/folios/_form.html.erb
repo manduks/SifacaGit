@@ -7,27 +7,22 @@
         <%= f.file_field :qr, :class => "controls" %>
 
         <%= f.label 'Del:', :class => 'control-label' %>
-        <%= @folio.errors.messages[:initiation].nil? ? @folio.errors.messages[:initiation] : @folio.errors.messages[:initiation][0] %>
         <%= f.number_field :initiation, :class => 'span1 number_field' %>
 
         <%= f.label 'Al:', :class => 'control-label' %>
-        <%= @folio.errors.messages[:finish].nil? ? @folio.errors.messages[:finish] : @folio.errors.messages[:finish][0] %>
         <%= f.number_field :finish, :class => 'span1 number_field' %>
         <br><br>
         <%= f.label 'Valido desde:', :class => 'control-label' %>
         <%= f.text_field :date_initiation, :id => "folios_date1", :class => 'input-small datepicker' %>
-        <%= @folio.errors.messages[:date_initiation][0] %>
 
         <%= f.label 'Valido hasta:', :class => 'control-label' %>
         <%= f.text_field :date_finish, :id => "folios_date2", :class => 'input-small datepicker' %>
-        <%= @folio.errors.messages[:date_finish][0] %>
 
         <%= f.label 'Aprobación SICOFI:', :class => 'control-label' %>
-        <%= @folio.errors.messages[:approval].nil? ? @folio.errors.messages[:approval] : @folio.errors.messages[:approval][0] %>
         <%= f.number_field :approval, :class => 'span1 number_field' %>
 
         <div class="form-actions">
-          <%= f.submit 'Generar Folios', :class => 'btn btn-primary' %>
+          <%= f.submit 'Generar Folios', :remote => true, :class => 'btn btn-primary' %>
           <%= link_to 'Cancel', folios_path, :class => 'btn' %>
         </div>
 

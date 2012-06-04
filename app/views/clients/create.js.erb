@@ -1,2 +1,25 @@
-$("#form-clients").html("<%= escape_javascript(render :partial => 'form') %>");
-$("#list-clients").html("<%= escape_javascript(render :partial => 'clients') %>") ;
+//$("#form-clients").html("<= escape_javascript(render :partial => 'form') %>");
+//$("#list-clients").html("<= escape_javascript(render :partial => 'clients') %>") ;
+//location.href = 'clients';
+<% if remotipart_submitted? %>
+<% if !@client.errors.messages.empty? %>
+<% @client.errors.full_messages.each do |msg| %>
+data = "<%= msg %>";
+$("#msg-error").append("<div class='alert alert-error'><a class='close' data-dismiss='alert'>×</a><ul><h4 class='alert-heading'>Warning!</h4><li>" + data + "</li></ul></div>");
+<% end %>
+<% else %>
+location.href = 'clients';
+<% end %>
+<% else %>
+<% if !@client.errors.messages.empty? %>
+<% @client.errors.full_messages.each do |msg| %>
+data = "<%= msg %>";
+$("#msg-error").append("<div class='alert alert-error'><a class='close' data-dismiss='alert'>×</a><ul><h4 class='alert-heading'>Warning!</h4><li>" + data + "</li></ul></div>");
+<% end %>
+<% else %>
+location.href = 'clients';
+<% end %>
+<% end %>
+setTimeout(function () {
+    $(".alert-error").remove();
+}, 2500);

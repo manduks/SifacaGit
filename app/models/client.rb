@@ -10,14 +10,16 @@ class Client < ActiveRecord::Base
   attr_accessible :students_attributes, :name, :rfc, :street, :num_ext, :num_int, :suburb, :township, :state,
                   :cp, :logo_emp, :email
 
-  #validates :name, :rfc, :street, :num_ext, :num_int, :suburb, :township, :state, :cp, :presence => true
+  validates :email, :format => { :with => /\A([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})\z/i, :message => "No es un email valido" }
 
-  #validates_presence_of :name, :message => "No puede estar Vacio"
+  validates_presence_of :name, :rfc, :street, :num_ext, :num_int, :suburb, :township, :state, :cp, :logo_emp, :message => "No puede estar Vacio"
 
+  validates_uniqueness_of :rfc, :scope => :user_id, :message => "Este RFC ya se dio de alta"
   #validates :logo_emp, :format => {
-   #       :with => %r{\.(gif|jpg|png)$}i,
-    #      :message => 'must be a URL for GIF, JPG or PNG image.'
-     # }
+  #       :with => %r{\.(gif|jpg|png)$}i,
+  #      :message => 'must be a URL for GIF, JPG or PNG image.'
+  # }
+
 
   def self.search(search)
     if search

@@ -4,6 +4,7 @@ class Folio < ActiveRecord::Base
 
   mount_uploader :qr, LogoEmpUploader
 
+
   #validates :qr, :initiation, :finish, :presence => true
   #validates :initiation, :presence => true,
   #:numericality => {:only_integer => true,
@@ -11,7 +12,7 @@ class Folio < ActiveRecord::Base
   #validates :finish, :presence => true
 
   def self.find_activo_by_user_id(user_id)
-    where('user_id = ? AND activo = ?', user_id, 1)
+    where('user_id = ? AND activo =?', user_id, 1)
   end
 
 

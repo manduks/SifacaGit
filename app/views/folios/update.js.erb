@@ -1,4 +1,25 @@
-/*$("#form-folios").html("") ;
-$("#new-folio").html("<%#= escape_javascript(link_to 'Nuevos Folios', new_folio_path, :class => 'btn btn-warning', :remote => true) %>");
-$("#list-folios").html("<%#= escape_javascript(render :partial => 'folios') %>") ;*/
-location.href='folios';
+//$("#form-folios").html("<= escape_javascript(render :partial => 'form') %>") ;
+//$("#list-folios").html("<= escape_javascript(render :partial => 'folios') %>") ;
+<% if remotipart_submitted? %>
+<% if !@folio.errors.messages.empty? %>
+<% @folio.errors.full_messages.each do |msg| %>
+data = "<%= msg %>";
+$("#msg-error").append("<div class='alert alert-error'><a class='close' data-dismiss='alert'>×</a><ul><h4 class='alert-heading'>Warning!</h4><li>" + data + "</li></ul></div>");
+<% end %>
+<% else %>
+location.href = 'folios';
+<% end %>
+<% else %>
+<% if !@folio.errors.messages.empty? %>
+<% @folio.errors.full_messages.each do |msg| %>
+data = "<%= msg %>";
+$("#msg-error").append("<div class='alert alert-error'><a class='close' data-dismiss='alert'>×</a><ul><h4 class='alert-heading'>Warning!</h4><li>" + data + "</li></ul></div>");
+<% end %>
+<% else %>
+location.href = 'folios';
+<% end %>
+<% end %>
+setTimeout(function () {
+    $(".alert-error").remove();
+}, 2500);
+

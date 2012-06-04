@@ -95,4 +95,9 @@ body {
     height: 0;
 }
 
+.error{
+    position: fixed;
+    right: 5px;
+}
+
 

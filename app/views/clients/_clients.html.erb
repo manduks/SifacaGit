@@ -1,6 +1,7 @@
 <%= hidden_field_tag :direction, params[:direction] %>
 <%= hidden_field_tag :sort, params[:sort] %>
-<div class="span12" xmlns="http://www.w3.org/1999/html">
+
+<div class="span12" >
   <font face="courier" color="#6D6968" size="6">Clientes</font><br><br>
   <ul class="thumbnails">
     <% @clients.each do |client| %>

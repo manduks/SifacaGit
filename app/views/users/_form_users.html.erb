@@ -8,7 +8,7 @@
       <div class="control-group">
         &nbsp;&nbsp;<%= f.label 'Regimen Fiscal:', :class => 'control-label' %>
 
-        <%= f.select :tax_regime, [['General', 0], ['Honorarios Profesionales', 1], ['Escuelas', 2], ['Arrendamiento', 3]], {:include_blank => false}, :id => "tax", :class => 'input-medium' %>&nbsp;&nbsp;
+        <%= f.select :tax_regime, [['General', 0], ['Honorarios Profesionales', 1], ['Escuelas', 2], ['Arrendamiento', 3]], {:include_blank => false}, :id => "tax", :class => 'checkbox' %>&nbsp;&nbsp;
 
         <%= f.label 'Nombre:', :class => 'control-label' %>
 
@@ -28,7 +28,7 @@
         <br><br>
         &nbsp;&nbsp;<%= f.label 'Num_ext:', :class => 'control-label' %>
 
-        <%= f.number_field :num_ext, :value => current_user.num_ext, :class => 'input-small number_field' %>
+        <%= f.text_field :num_ext, :value => current_user.num_ext, :class => 'input-small text_field' %>
 
         <%= f.label 'Num_int:', :class => 'control-label' %>
 

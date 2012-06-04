@@ -37,6 +37,7 @@ gem 'nested_form'
 gem 'prawn', '1.0.0.rc1'
 gem 'number_to_words'
 gem 'bootstrap-will_paginate'
+gem 'remotipart'
 
 
 
