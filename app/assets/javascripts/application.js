@@ -17,6 +17,7 @@
 //= require_tree .
 //= require jquery.remotipart
 
+
 $(function () {
     $("#select-clientess").live('change', function () {
         var valor = $(this).val();
@@ -24,23 +25,28 @@ $(function () {
             var a = $(this);
             a.attr('data-content', '<div id="clientes"></div>');
             $.get('/clients/' + valor + ".json", function (o) {
-                var html = ['<img src="..' + o.logo_emp.url + '" height="100" width="100" align="middle">&nbsp;', '<div>' +
+                if (!o.logo_emp.url==""){
+                    var img = ['<br><img src="..' + o.logo_emp.url + '" height="100" width="100" align="middle">&nbsp;' + '</div><div>'];
+                } else {
+                    var img = ['</div><div>'];
+                }
+                var html = ['<div>' +
                     '<font face="Comic Sans MS" size="1" >' + '<b>Nombre: </b>' + o.name + '<br>' + '<b>RFC: </b>' + o.rfc + '<br>' + '<b>Dirección: </b>' + o.street + ' #' + o.num_ext + ' ' + o.num_int + ' Col. ' +
                     o.suburb + ' C.P. ' + o.cp + ' Del. ' + o.township + ' Edo. ' + o.state + '</font>'
                 ].join('</div><div>') + '</div>';
-                a.attr('data-content', '<div id="clientes">' + '<div class="row-fluid"><div class="span4" ><br>' + html + '</div>&nbsp;' + '</div>' + '</div>');
+                a.attr('data-content', '<div id="clientes">' + '<div class="row-fluid"><div class="span4" >' + img + html + '</div>&nbsp;' + '</div>' + '</div>');
                 $('#select-clientess').popover({
                     html:true,
                     delay:{show:500, hide:300}
 
                 }).popover('show');
-                $("#select-alumnos").css({visibility: 'visible'});
-                $("#select-alumno").css({visibility: 'visible'});
+                $("#select-alumnos").css({visibility:'visible'});
+                $("#select-alumno").css({visibility:'visible'});
             });
             return false;
         } else {
-            $("#select-alumnos").css({visibility: 'hidden'});
-            $("#select-alumno").css({visibility: 'hidden'});
+            $("#select-alumnos").css({visibility:'hidden'});
+            $("#select-alumno").css({visibility:'hidden'});
         }
     });
 });
@@ -64,11 +70,11 @@ $(function () {
 
     $("#invoice_dates").datepicker({dateFormat:"dd-mm-yy"});
 
-    $("#folios_date1").live('focus', function(){
+    $("#folios_date1").live('focus', function () {
         $("#folios_date1").datepicker({dateFormat:"dd-mm-yy"});
     });
 
-    $("#folios_date2").live('focus', function(){
+    $("#folios_date2").live('focus', function () {
         $("#folios_date2").datepicker({dateFormat:"dd-mm-yy"});
     });
 });
@@ -126,15 +132,23 @@ $(function () {
 $(function () {
     $("#clientrfc").live('blur', function () {
         var valor = $(this).val();
-        str = valor.substring(3,4);
-        if(isNaN(str)){
-            $("#students").css({visibility: 'visible'});
+        str = valor.substring(3, 4);
+        if (isNaN(str)) {
+            $("#students").css({visibility:'visible'});
         }
-        else{
-            $("#students").css({visibility: 'hidden'});
+        else {
+            $("#students").css({visibility:'hidden'});
         }
     });
 });
+
+
+
+
+
+
+
+
 
 
 

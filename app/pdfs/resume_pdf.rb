@@ -1,5 +1,6 @@
 class ResumePdf < Prawn::Document
   include ActionView::Helpers::NumberHelper
+
   def initialize (resume, user, view)
     super()
     @resume = resume
@@ -25,9 +26,12 @@ class ResumePdf < Prawn::Document
 
 
   def logo
-    @logo_emp = "#{@user.logo_emp}"
-    image "#{Rails.root}/public"+@logo_emp+"", :width => 140, :height => 100
-    move_down 3
+    bounding_box([0, cursor - 0], :width => 200, :height => 100) do
+      if !@user.logo_emp.url.nil?
+        @logo_emp = "#{@user.logo_emp}"
+        image "#{Rails.root}/public"+@logo_emp+"", :width => 140, :height => 100
+      end
+    end
   end
 
   def title
@@ -37,14 +41,14 @@ class ResumePdf < Prawn::Document
                            :width => 350,
                            :height => 50,
                            :overflow => :truncate,
-                           :at => [130, y_position],
-                           :size => 13,
+                           :at => [150, y_position],
+                           :size => 15,
                            :style => :bold
 
     text_box excess_text,
              :width => 300,
              :at => [100, y_position - 50]
-    move_down 7
+
   end
 
   def users
@@ -76,7 +80,7 @@ class ResumePdf < Prawn::Document
             [[[cell_2, cell_4]]]]
 
     data2 = [[cell_3], [cell_5]]
-    bounding_box([425, cursor - -120], :width => 200, :height => 100) do
+    bounding_box([425, cursor - -109], :width => 200, :height => 100) do
       table(data)
       move_down 4
       table(data2)

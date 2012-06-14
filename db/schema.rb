@@ -16,7 +16,7 @@ ActiveRecord::Schema.define(:version => 20120523153849) do
   create_table "articles", :force => true do |t|
     t.integer  "quantity"
     t.string   "description"
-    t.integer  "iva"
+    t.integer  "iva",                                       :default => 16
     t.integer  "invoice_id"
     t.datetime "created_at",                                                 :null => false
     t.datetime "updated_at",                                                 :null => false

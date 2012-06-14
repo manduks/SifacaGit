@@ -1,4 +1,5 @@
 class ClientsController < ApplicationController
+  before_filter :authenticate_user!
   helper_method :sort_column, :sort_direction
   # GET /clients
   # GET /clients.json
@@ -37,7 +38,7 @@ class ClientsController < ApplicationController
     # @list_students = Student.all
 
 
-    # 1.times { @client.students.build }
+    1.times { @client.students.build }
 
     respond_to do |format|
       format.html # new.html.erb
@@ -88,7 +89,7 @@ class ClientsController < ApplicationController
 
     respond_to do |format|
       if @client.update_attributes(params[:client])
-        format.html { redirect_to clients_path, notice: 'El cliente fue actualizado satisfactoriamente' }
+        format.html { redirect_to clients_path, notice: 'Client was successfully updated.' }
         format.json { head :no_content }
         format.js
       else

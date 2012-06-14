@@ -74,8 +74,6 @@ class InvoicesController < ApplicationController
     @invoice = Invoice.new(params[:invoice])
     @article = Article.new(params[:article])
     @resume = Resume.new(params[:resume])
-    @rfc = Client.find(params[:invoice][:client_id]).rfc.to_s
-
 
 
     @regime = User.find(current_user.id).tax_regime
@@ -92,17 +90,40 @@ class InvoicesController < ApplicationController
       @invoice.errors.add 'client_id', 'Debes de seleccionar un cliente'
     end
 
-    if @regime.eql? 0
+
+    if @regime == 0
       if !params[:invoice][:articles_attributes]["0"].nil? &&
           (params[:invoice][:articles_attributes]["0"][:quantity].nil? ||
               params[:invoice][:articles_attributes]["0"][:quantity].empty?)
         @invoice.errors.add 'articles', 'Debes agregar al menos un articulo'
+      end
+      #!params[:invoice][:articles_attributes]["0"].nil? &&
+      #if (params[:invoice][:articles_attributes][""][:quantity].nil? || params[:invoice][:articles_attributes][""][:quantity].empty?)
+      # @invoice.errors.add 'articles', 'No pueden estar vacios los campos'
+      #end
+      if params[:resume][:receipt].nil? || params[:resume][:receipt].empty?
+        @invoice.errors.add 'receipt', 'No puede estar vacio el campo'
+      end
+    end
+
+    if @regime == 1
+      if params[:resume][:places].nil? || params[:resume][:places].empty?
+        @invoice.errors.add 'places', 'No puede estar vacio el campo'
+      end
+
+      if params[:resume][:concept].nil? || params[:resume][:concept].empty?
+        @invoice.errors.add 'concept', 'No puede estar vacio el campo'
+      end
+
+      if params[:resume][:total].nil? || params[:resume][:total].empty?
+        @invoice.errors.add 'concept', 'No puede estar vacio el campo'
       end
     end
 
     #params[:invoice][:articules_attributes][0][:description]]
     respond_to do |format|
       if @invoice.errors.empty? && @invoice.save
+        @rfc = Client.find(params[:invoice][:client_id]).rfc.to_s
         @folioDetail = FolioDetail.find(params[:invoice][:folio_detail_id])
         @folioDetail.status = 0
         @folioDetail.save
@@ -140,6 +161,7 @@ class InvoicesController < ApplicationController
         format.json { render json: @invoice, status: :created, location: @invoice }
         format.js
       else
+        logger.debug("else entro")
         @folio = Folio.find_activo_by_user_id(current_user.id)
         @availableFolios = FolioDetail.find_by_folio_id_and_status(@folio, 1)
 

@@ -12,7 +12,7 @@ class Client < ActiveRecord::Base
 
   validates :email, :format => { :with => /\A([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})\z/i, :message => "No es un email valido" }
 
-  validates_presence_of :name, :rfc, :street, :num_ext, :num_int, :suburb, :township, :state, :cp, :logo_emp, :message => "No puede estar Vacio"
+  validates_presence_of :name, :rfc, :street, :num_ext, :num_int, :suburb, :township, :state, :cp, :message => "No puede estar Vacio"
 
   validates_uniqueness_of :rfc, :scope => :user_id, :message => "Este RFC ya se dio de alta"
   #validates :logo_emp, :format => {

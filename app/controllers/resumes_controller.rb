@@ -6,6 +6,7 @@ class ResumesController < ApplicationController
   def index
     @clients = current_user.clients.search(params[:search])
     @resumes = []
+    logger.debug(@resumes)
     @withoutClients = false
 
     if (@clients.nil? || @clients.empty?) && params[:search]

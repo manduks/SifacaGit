@@ -24,9 +24,10 @@ class UsersController < Devise::RegistrationsController
     @tax_regime = (params[:tax_regime].nil? || params[:tax_regime].empty?) ? user.tax_regime : params[:tax_regime]
     @tax_regime = Integer(@tax_regime)
     if @tax_regime == 0 || @tax_regime == 2
-      if (user.logo_emp.nil? && (params[:logo_emp].nil? || params[:logo_emp].empty?))
-        @valid = false
-      end
+      #if (user.logo_emp.nil? && (params[:logo_emp].nil? || params[:logo_emp].empty?))
+      # @valid = false
+      #end
+      logger.debug("no tiene foto")
 
     elsif @tax_regime == 1
       if params[:curp].nil? || params[:curp].empty?

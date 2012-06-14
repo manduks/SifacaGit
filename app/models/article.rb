@@ -1,9 +1,10 @@
 class Article < ActiveRecord::Base
   belongs_to :invoice
 
-  #validates_presence_of :quantity, :message => " Ingresa una cantidad"
-  #validates_presence_of :description, :message => " Ingresa una descripcion"
-  #validates_presence_of :unit_cost, :message => " Ingresa el costo unitaario"
+  validates_presence_of :quantity, :message => " Ingresa una cantidad"
+  validates_presence_of :description, :message => " Ingresa una descripcion"
+  validates_presence_of :unit_cost, :message => " Ingresa el costo unitaario"
+  validates_presence_of :iva, :message => " Ingresa el I.V.A"
   #validates_numericality_of :unit_cost
   #validate :unit_cost_must_be_at_least_a_cent
 
@@ -23,8 +24,8 @@ class Article < ActiveRecord::Base
 
   protected
   def unit_cost_must_be_at_least_a_cent
-      errors.add(:unit_cost, 'Debe ser mayor a 0.01') if unit_cost.nil? ||
-          unit_cost < 0.01
+    errors.add(:unit_cost, 'Debe ser mayor a 0.01') if unit_cost.nil? ||
+        unit_cost < 0.01
   end
 
 end

@@ -4,6 +4,7 @@ class Resume < ActiveRecord::Base
 
   attr_accessible :concept, :iva, :letter_number, :places, :quantity, :ret_isr, :ret_iva, :subtotal, :total, :payment_condition, :receipt
 
+
   def self.search(search)
     if search
       Client.where('name LIKE ?', "%#{search}%")

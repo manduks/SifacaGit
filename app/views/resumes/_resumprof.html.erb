@@ -22,24 +22,24 @@
       <% else %>
           <tr>
       <% end %>
-        <td><%= @folio_detail_id %></td>
-        <td><%= Client.find(Invoice.find(resume.invoice_id).client_id).name %></td>
-        <td><%= Client.find(Invoice.find(resume.invoice_id).client_id).rfc %></td>
-        <td><%= Resume.find_by_invoice_id(resume.invoice_id).concept %></td>
-        <td><%= number_to_currency(Resume.find_by_invoice_id(resume.invoice_id).quantity, :unit => "$") %></td>
-        <td><%= number_to_currency(Resume.find_by_invoice_id(resume.invoice_id).iva, :unit => "$") %></td>
-        <td><%= number_to_currency(Resume.find_by_invoice_id(resume.invoice_id).subtotal, :unit => "$") %></td>
-        <td><%= number_to_currency(Resume.find_by_invoice_id(resume.invoice_id).ret_isr, :unit => "$") %></td>
-        <td><%= number_to_currency(Resume.find_by_invoice_id(resume.invoice_id).ret_iva, :unit => "$") %></td>
-        <td><%= number_to_currency(Resume.find_by_invoice_id(resume.invoice_id).total, :unit => "$") %></td>
-        <td><%= Invoice.find(resume.invoice_id).date.strftime("%d-%m-%Y") %></td>
-        <td><%= link_to 'PDF', resume_path(resume.id, :format => 'pdf'), :class => 'btn btn-mini btn-info', :target => '_blank' %></td>
-            <% @folio_activo = Folio.find(:all, :conditions => {'user_id' => current_user.id, 'activo' => 1}) %>
-            <% if (@folio_activo[0].initiation <= @folio_detail_id && @folio_detail_id <= @folio_activo[0].finish) && Invoice.find(resume.invoice_id).status != 0 %>
+      <td><%= @folio_detail_id %></td>
+      <td><%= Client.find(Invoice.find(resume.invoice_id).client_id).name %></td>
+      <td><%= Client.find(Invoice.find(resume.invoice_id).client_id).rfc %></td>
+      <td><%= Resume.find_by_invoice_id(resume.invoice_id).concept %></td>
+      <td><%= number_to_currency(Resume.find_by_invoice_id(resume.invoice_id).quantity, :unit => "$") %></td>
+      <td><%= number_to_currency(Resume.find_by_invoice_id(resume.invoice_id).iva, :unit => "$") %></td>
+      <td><%= number_to_currency(Resume.find_by_invoice_id(resume.invoice_id).subtotal, :unit => "$") %></td>
+      <td><%= number_to_currency(Resume.find_by_invoice_id(resume.invoice_id).ret_isr, :unit => "$") %></td>
+      <td><%= number_to_currency(Resume.find_by_invoice_id(resume.invoice_id).ret_iva, :unit => "$") %></td>
+      <td><%= number_to_currency(Resume.find_by_invoice_id(resume.invoice_id).total, :unit => "$") %></td>
+      <td><%= Invoice.find(resume.invoice_id).date.strftime("%d-%m-%Y") %></td>
+      <td><%= link_to 'PDF', resume_path(resume.id, :format => 'pdf'), :class => 'btn btn-mini btn-info', :target => '_blank' %></td>
+      <% @folio_activo = Folio.find(:all, :conditions => {'user_id' => current_user.id, 'activo' => 1}) %>
+      <% if (@folio_activo[0].initiation <= @folio_detail_id && @folio_detail_id <= @folio_activo[0].finish) && Invoice.find(resume.invoice_id).status != 0 %>
           <td><%= button_to 'Enviar', resume_path(resume.id), :action => :send_email, :confirm => '¿Estas seguro que deseeas enviar la Factura?', :class => 'btn btn-mini btn-warning' %></td>
-                <td><%= link_to 'Cancelar', invoice_path(Invoice.find(resume.invoice_id)), :method => :delete, :confirm => '¿Estas seguro?', :class => 'btn btn-mini btn-danger' %></td>
-            <% end %>
-        </td>
+          <td><%= link_to 'Cancelar', invoice_path(Invoice.find(resume.invoice_id)), :method => :delete, :confirm => '¿Estas seguro?', :class => 'btn btn-mini btn-danger' %></td>
+      <% end %>
+      </td>
       </tr>
   <% end %>
 </table>

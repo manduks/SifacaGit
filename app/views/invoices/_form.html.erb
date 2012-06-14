@@ -1,10 +1,10 @@
 <div id="menu_resume">
   <%= render :partial => "shared/tbar_menu" %>
 </div>
-<%= nested_form_for @invoice, :html => {:class => 'form-inline'} do |f| %>
+<div id="msg-error" class="error span3"></div> <br>
+<%= nested_form_for @invoice, :remote => true, :html => {:class => 'form-inline'} do |f| %>
     <div>
       <fieldset>
-
         <legend>
           <div class="offset2">Capturar Factura</div>
         </legend>
@@ -15,7 +15,7 @@
             <%= @invoice.errors.messages[:date][0] %>
 
             <%= f.label 'Folio', :class => 'control-label' %>
-            <%= f.collection_select :folio_detail_id, @availableFolios, :id, :folio_detail_id, {:prompt => 'Selecciona un folio'}, :class => 'checkbox' %>&nbsp;
+            <%= f.collection_select :folio_detail_id, @availableFolios, :id, :folio_detail_id, {:prompt => 'Selecciona un folio'}, :class => 'input-medium' %>&nbsp;
             <%= @invoice.errors.messages[:folio_detail_id][0] %>
 
             <%= f.label 'Cliente', :class => 'control-label' %>
@@ -33,8 +33,7 @@
         <br><br>
         <%= @invoice.errors.messages[:articles].nil? ? @invoice.errors.messages[:articles] : @invoice.errors.messages[:articles][0] %>
 
-        <!--<div id="form-client">
-        </div>-->
+
         <% if current_user.tax_regime == 1 %>
             <div class="control-group offset2">
               <%= render :partial => "resumes/prof", :locals => {:f => f} %>
@@ -71,7 +70,7 @@
 
         <center>
           <div class="form-actions">
-            <%= f.submit 'Generar Factura', :class => 'btn btn-primary' %>
+            <%= f.submit 'Generar Factura', :remote => true, :class => 'btn btn-primary' %>
             <%= link_to 'Cancelar', resumes_path, :class => 'btn' %>
           </div>
         </center>

@@ -1,14 +1,18 @@
 <%= hidden_field_tag :direction, params[:direction] %>
 <%= hidden_field_tag :sort, params[:sort] %>
 
-<div class="span12" >
+<div class="span12">
   <font face="courier" color="#6D6968" size="6">Clientes</font><br><br>
   <ul class="thumbnails">
     <% @clients.each do |client| %>
         <li class="span4">
           <div class="thumbnail" style="height: 150px;">
             <div class="row-fluid">
-              <div class="span3"><%= image_tag client.logo_emp_url(:thumb).to_s %></div>
+              <% if !client.logo_emp_url(:thumb).to_s.empty? %>
+                  <div class="span3"><br><br><%= image_tag client.logo_emp_url(:thumb).to_s %></div>
+              <% else %>
+                  <div class="span2">&nbsp;</div>
+              <% end %>
               <div class="span9" style="height: 125px;">
                 <center>
                   <p><b><font face="roman"><%= client.name %>
