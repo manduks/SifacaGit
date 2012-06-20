@@ -1,30 +1,21 @@
-<label class="offset3">Articulos</label><br>
-
+<font face="courier" color="#020001" size="4">Articulos</font><br><br>
+<div style="text-align: left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font face="courier" color="#020001" size="2">Cantidad</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font face="courier" color="#020001" size="2">Descripción</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font face="courier" color="#020001" size="2">Costo Unitario</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font face="courier" color="#020001" size="2">I.V.A.</font></div>
 <%= f.fields_for :articles, :html => {:class => 'form-inline'} do |article_form| %>
-    <div class="control-group">
-      <%= article_form.label 'Cantidad', :class => 'control-label' %>
+    <div class="control-group info">
+      <%= article_form.number_field :quantity, :class => 'input-small number-field' %>&nbsp;&nbsp;&nbsp;
 
-      <%= article_form.number_field :quantity, :class => 'input-small number-field' %>&nbsp;
+      <%= article_form.text_field :description, :class => 'text-field' %>&nbsp;&nbsp;&nbsp;
 
+      <%= article_form.text_field :unit_cost, :class => 'input-small number-field' %>&nbsp;&nbsp;&nbsp;&nbsp;
 
-      <%= article_form.label 'Descripción', :class => 'control-label' %>
-
-      <%= article_form.text_field :description, :class => 'text-field' %>&nbsp;
-
-
-      <%= article_form.label 'Costo Unitario', :class => 'control-label' %>
-
-      <%= article_form.text_field :unit_cost, :class => 'input-small number-field' %>&nbsp;
-
-
-      <%= article_form.label 'iva', :class => 'control-label' %>
-
-      <%= article_form.number_field :iva, :class => 'input-small number-field' %>&nbsp;
+      <%= article_form.number_field :iva, :class => 'span1 number-field' %>&nbsp;
 
       <%= article_form.link_to_remove 'X', :class => 'btn btn-danger' %>
-
     </div>
-
 <% end %>
-<%= f.link_to_add 'Agregar', :articles, :class => 'btn btn-success' %> 
-
+<%= f.link_to_add 'Agregar Articulos', :articles, :class => 'btn btn-success' %>
+<hr>

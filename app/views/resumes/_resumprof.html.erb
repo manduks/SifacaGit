@@ -1,3 +1,4 @@
+<div class="span1"><font face="courier" color="#6D6968" size="6">Facturas</font></div><br><br>
 <table class="table table-bordered">
   <tr>
     <th>Folios</th>
@@ -11,9 +12,7 @@
     <th>Ret. I.V.A</th>
     <th>Total</th>
     <th>Fecha de Pago</th>
-    <th>PDF</th>
-    <th>Email</th>
-    <th>Cancelar</th>
+    <th colspan="3"><center>Acciones</center></th>
   </tr>
   <% @resumes.each do |resume| %>
       <% @folio_detail_id = FolioDetail.find(Invoice.find(resume.invoice_id).folio_detail_id).folio_detail_id %>

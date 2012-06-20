@@ -1,5 +1,3 @@
-//$("#form-folios").html("<= escape_javascript(render :partial => 'form') %>") ;
-//$("#list-folios").html("<= escape_javascript(render :partial => 'folios') %>") ;
 <% if remotipart_submitted? %>
 <% if !@folio.errors.messages.empty? %>
 <% @folio.errors.full_messages.each do |msg| %>
@@ -22,4 +20,5 @@ location.href = 'folios';
 setTimeout(function () {
     $(".alert-error").remove();
 }, 2500);
+
 

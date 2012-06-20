@@ -8,7 +8,7 @@
   <%= link_to 'Nuevos Clientes', new_client_path, :class => 'btn btn-success', :remote => true %>
 </div>
 
-<div class="offset8">
+<div class="pull-right" style="margin-right: 20px;">
   <%= form_tag 'clients', :method => 'get', :id => "clients_search" do %>
       <div class="input-append">
         <%= text_field_tag :search, params[:search] %>
@@ -17,10 +17,11 @@
           </span>
       </div>
   <% end %>
-</div>
+</div> <br><br>
 <div id="list-clients">
   <%= render :partial => 'clients/clients' %>
 </div>
+
 
 
 

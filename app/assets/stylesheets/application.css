@@ -100,4 +100,20 @@ body {
     right: 5px;
 }
 
+.customfile-feedback {
+    font-size: 1.1em;
+    font-style: italic;
+    cursor: pointer;
+}
+
+
+.formcontainer{
+    position: relative;
+    width: 700px;
+
+}
+
+
+
+
 

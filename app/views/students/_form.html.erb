@@ -1,15 +1,16 @@
+<font face="courier" color="#020001" size="4">Estudiantes</font>
+<br>
 <%= f.fields_for :students, :html => {:class => 'form-inline'} do |s| %>
-    <div class="control-group">
-      <%= s.label 'Nombre', :class => 'control-label' %>
-      <%= s.text_field :name, :class => 'text-field' %>
-
-      <%= s.label 'Grado', :class => 'control-label' %>
-      <%= s.text_field :grade, :class => 'input-medium text-field' %>
-
-      <%= s.label 'Curp', :class => 'control-label' %>
-      <%= s.text_field :curp, :class => 'input-medium number-field' %>
-
-      <%= s.link_to_remove 'X', :class => 'btn btn-danger' %>
+    <div class="control-group info">
+      <div class="row-fluid">
+        <center>
+          <%= s.text_field :name, :class => 'span2 text-field', :placeholder => "Nombre" %>
+          <%= s.text_field :grade, :class => 'span2 text-field', :placeholder => "Grado" %>
+          <%= s.text_field :curp, :class => 'span2 number-field', :placeholder => "CURP" %>&nbsp;
+          <%= s.link_to_remove 'X', :class => 'btn btn-danger' %>
+        </center>
+      </div>
     </div>
 <% end %>
-<%= f.link_to_add 'Agregar', :students, :class => 'btn btn-success' %>
+
+<%= f.link_to_add 'Agregar Estudiantes', :students, :class => 'btn btn-success' %>

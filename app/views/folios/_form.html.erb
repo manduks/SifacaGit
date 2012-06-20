@@ -1,32 +1,31 @@
 <%= form_for @folio, :remote => true, :html => {:multipart => true, :class => 'form-inline'} do |f| %>
-    <center>
-      <div class="control-group">
+    <center><font face="courier" color="#020001" size="5">Formulario de Folios</font></center>
+    <br>
+    <div class="control-group info">
+      <center>
+        <div class="well formcontainer">
+          <div class="row">
+            <center>
+              <%= f.text_field :date_initiation, :id => "folios_date1", :class => 'input-medium datepicker', :placeholder => "Valido Desde" %>
+              <%= f.text_field :date_finish, :id => "folios_date2", :class => 'input-medium datepicker', :placeholder => "Valido Hasta" %>
+              <%= f.number_field :approval, :class => 'span2 number_field', :placeholder => "Aprobación SICOFI" %>
 
-        <%= f.label :qr, :class => 'control-label' %>
-        <%= @folio.errors.messages[:qr][0] %>
-        <%= f.file_field :qr, :class => "controls" %>
+              <br><br>
 
-        <%= f.label 'Del:', :class => 'control-label' %>
-        <%= f.number_field :initiation, :class => 'span1 number_field' %>
 
-        <%= f.label 'Al:', :class => 'control-label' %>
-        <%= f.number_field :finish, :class => 'span1 number_field' %>
-        <br><br>
-        <%= f.label 'Valido desde:', :class => 'control-label' %>
-        <%= f.text_field :date_initiation, :id => "folios_date1", :class => 'input-small datepicker' %>
-
-        <%= f.label 'Valido hasta:', :class => 'control-label' %>
-        <%= f.text_field :date_finish, :id => "folios_date2", :class => 'input-small datepicker' %>
-
-        <%= f.label 'Aprobación SICOFI:', :class => 'control-label' %>
-        <%= f.number_field :approval, :class => 'span1 number_field' %>
-
-        <div class="form-actions">
-          <%= f.submit 'Generar Folios', :remote => true, :class => 'btn btn-primary' %>
-          <%= link_to 'Cancel', folios_path, :class => 'btn' %>
+              <%= f.number_field :initiation, :class => 'input-medium number_field', :placeholder => "Del" %>
+              <%= f.number_field :finish, :class => 'input-medium number_field', :placeholder => "Al" %>
+              <%= f.file_field :qr, :class => "span40" %>
+            </center>
+          </div>
         </div>
-
-
+      </center>
+    </div>
+    <center>
+      <div class="well formcontainer">
+        <%= f.submit 'Generar Folios', :remote => true, :class => 'btn btn-primary' %>
+        <%= link_to 'Cancelar', folios_path, :class => 'btn' %>
       </div>
     </center>
+
 <% end %>
