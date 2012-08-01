@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/57/trunk/app/assets/stylesheets
+END
+users.css.scss
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/app/assets/stylesheets/users.css.scss
+END
+bootstrap_and_overrides.css.less
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/app/assets/stylesheets/bootstrap_and_overrides.css.less
+END
+application.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/57/trunk/app/assets/stylesheets/application.css
+END
+index.css.scss
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/app/assets/stylesheets/index.css.scss
+END
+scaffolds.css.scss
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/29/trunk/app/assets/stylesheets/scaffolds.css.scss
+END
+client.css.scss
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/app/assets/stylesheets/client.css.scss
+END

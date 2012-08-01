@@ -1,0 +1,1139 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex
+END
+texturefill.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/texturefill.rb
+END
+edge.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/edge.rb
+END
+transpose.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/transpose.rb
+END
+arcpath.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/arcpath.rb
+END
+qbezierpath.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/qbezierpath.rb
+END
+solarize.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/solarize.rb
+END
+wet_floor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/wet_floor.rb
+END
+circle.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/circle.rb
+END
+rvg_opacity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/rvg_opacity.rb
+END
+rectangle.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/rectangle.rb
+END
+cbezier1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/cbezier1.rb
+END
+mosaic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/mosaic.rb
+END
+preview.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/preview.rb
+END
+chop.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/chop.rb
+END
+color_floodfill.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/color_floodfill.rb
+END
+mono.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/mono.rb
+END
+rotate_f.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/rotate_f.rb
+END
+stroke_dasharray.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/stroke_dasharray.rb
+END
+polyline.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/polyline.rb
+END
+ellipse01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/ellipse01.rb
+END
+affine.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/affine.rb
+END
+resize_to_fill.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/resize_to_fill.rb
+END
+unsharp_mask.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/unsharp_mask.rb
+END
+OrigCoordSys.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/OrigCoordSys.rb
+END
+get_multiline_type_metrics.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/get_multiline_type_metrics.rb
+END
+stroke_linecap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/stroke_linecap.rb
+END
+text_styles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/text_styles.rb
+END
+roundrect.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/roundrect.rb
+END
+cbezier4.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/cbezier4.rb
+END
+colorize.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/colorize.rb
+END
+bounding_box.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/bounding_box.rb
+END
+text01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/text01.rb
+END
+transverse.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/transverse.rb
+END
+border.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/border.rb
+END
+cubic01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/cubic01.rb
+END
+triangle01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/triangle01.rb
+END
+baseline_shift01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/baseline_shift01.rb
+END
+Use01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/Use01.rb
+END
+writing_mode02.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/writing_mode02.rb
+END
+rect02.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/rect02.rb
+END
+crop_with_gravity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/crop_with_gravity.rb
+END
+hatchfill.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/hatchfill.rb
+END
+InitialCoords.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/InitialCoords.rb
+END
+reduce_noise.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/reduce_noise.rb
+END
+equalize.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/equalize.rb
+END
+tspan01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/tspan01.rb
+END
+stegano.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/stegano.rb
+END
+ellipse.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/ellipse.rb
+END
+roll.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/roll.rb
+END
+polygon01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/polygon01.rb
+END
+wave.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/wave.rb
+END
+random_threshold_channel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/random_threshold_channel.rb
+END
+gradientfill.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/gradientfill.rb
+END
+cycle_colormap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/cycle_colormap.rb
+END
+transparent.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/transparent.rb
+END
+arc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/arc.rb
+END
+crop.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/crop.rb
+END
+frame.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/frame.rb
+END
+flip.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/flip.rb
+END
+color_histogram.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/color_histogram.rb
+END
+quad01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/quad01.rb
+END
+flop.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/flop.rb
+END
+ViewBox.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/ViewBox.rb
+END
+negate_channel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/negate_channel.rb
+END
+rubyname.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/rubyname.rb
+END
+fonts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/fonts.rb
+END
+to_blob.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/to_blob.rb
+END
+shear.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/shear.rb
+END
+composite_tiled.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/composite_tiled.rb
+END
+texture_floodfill.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/texture_floodfill.rb
+END
+add_noise.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/add_noise.rb
+END
+vignette.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/vignette.rb
+END
+polygon.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/polygon.rb
+END
+rvg_linejoin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/rvg_linejoin.rb
+END
+modulate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/modulate.rb
+END
+get_pixels.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/get_pixels.rb
+END
+line.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/line.rb
+END
+rvg_pattern.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/rvg_pattern.rb
+END
+matte_floodfill.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/matte_floodfill.rb
+END
+quantize-m.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/quantize-m.rb
+END
+circle01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/circle01.rb
+END
+cbezier2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/cbezier2.rb
+END
+drop_shadow.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/drop_shadow.rb
+END
+colors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/colors.rb
+END
+enhance.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/enhance.rb
+END
+skewx.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/skewx.rb
+END
+median_filter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/median_filter.rb
+END
+raise.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/raise.rb
+END
+mask.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/mask.rb
+END
+level_colors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/level_colors.rb
+END
+Skew.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/Skew.rb
+END
+stroke_fill.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/stroke_fill.rb
+END
+sepiatone.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/sepiatone.rb
+END
+get_type_metrics.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/get_type_metrics.rb
+END
+stroke_linejoin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/stroke_linejoin.rb
+END
+blur_image.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/blur_image.rb
+END
+arcs01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/arcs01.rb
+END
+trim.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/trim.rb
+END
+polyline01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/polyline01.rb
+END
+grav.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/grav.rb
+END
+stroke_width.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/stroke_width.rb
+END
+rvg_stroke_dasharray.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/rvg_stroke_dasharray.rb
+END
+texture_fill_to_border.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/texture_fill_to_border.rb
+END
+fill_pattern.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/fill_pattern.rb
+END
+cbezier5.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/cbezier5.rb
+END
+text_align.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/text_align.rb
+END
+color_reset.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/color_reset.rb
+END
+spread.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/spread.rb
+END
+oil_paint.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/oil_paint.rb
+END
+motion_blur.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/motion_blur.rb
+END
+text.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/text.rb
+END
+shade.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/shade.rb
+END
+cubic02.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/cubic02.rb
+END
+polaroid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/polaroid.rb
+END
+threshold.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/threshold.rb
+END
+Use02.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/Use02.rb
+END
+posterize.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/posterize.rb
+END
+path.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/path.rb
+END
+axes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/axes.rb
+END
+negate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/negate.rb
+END
+contrast.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/contrast.rb
+END
+pattern1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/pattern1.rb
+END
+tspan02.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/tspan02.rb
+END
+average.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/average.rb
+END
+image.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/image.rb
+END
+nested_rvg.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/nested_rvg.rb
+END
+rotate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/rotate.rb
+END
+shave.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/shave.rb
+END
+composite_layers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/composite_layers.rb
+END
+resize_to_fit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/resize_to_fit.rb
+END
+ordered_dither.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/ordered_dither.rb
+END
+NewCoordSys.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/NewCoordSys.rb
+END
+emboss.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/emboss.rb
+END
+clip_path.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/clip_path.rb
+END
+drawcomp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/drawcomp.rb
+END
+rvg_clippath.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/rvg_clippath.rb
+END
+normalize.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/normalize.rb
+END
+sketch.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/sketch.rb
+END
+matte_fill_to_border.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/matte_fill_to_border.rb
+END
+adaptive_threshold.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/adaptive_threshold.rb
+END
+shadow.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/shadow.rb
+END
+text_antialias.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/text_antialias.rb
+END
+compose_mask.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/compose_mask.rb
+END
+viewex.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/viewex.rb
+END
+nonzero.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/nonzero.rb
+END
+line01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/line01.rb
+END
+segment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/segment.rb
+END
+font_styles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/font_styles.rb
+END
+dissolve.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/dissolve.rb
+END
+cbezier3.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/cbezier3.rb
+END
+color_fill_to_border.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/color_fill_to_border.rb
+END
+implode.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/implode.rb
+END
+skewy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/skewy.rb
+END
+gravity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/gravity.rb
+END
+translate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/translate.rb
+END
+charcoal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/charcoal.rb
+END
+affine_transform.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/affine_transform.rb
+END
+gaussian_blur.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/gaussian_blur.rb
+END
+smile.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/smile.rb
+END
+morph.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/morph.rb
+END
+coalesce.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/coalesce.rb
+END
+writing_mode01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/writing_mode01.rb
+END
+matte_replace.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/matte_replace.rb
+END
+rect01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/rect01.rb
+END
+sparse_color.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/sparse_color.rb
+END
+level.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/level.rb
+END
+arcs02.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/arcs02.rb
+END
+rvg_linecap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/rvg_linecap.rb
+END
+bilevel_channel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/bilevel_channel.rb
+END
+text_undercolor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/text_undercolor.rb
+END
+splice.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/splice.rb
+END
+evenodd.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/evenodd.rb
+END
+cbezier6.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/cbezier6.rb
+END
+flatten_images.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/flatten_images.rb
+END
+RotateScale.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/RotateScale.rb
+END
+remap_images.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/remap_images.rb
+END
+opacity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/opacity.rb
+END
+Use03.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/Use03.rb
+END
+remap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/remap.rb
+END
+radial_blur.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/radial_blur.rb
+END
+PreserveAspectRatio.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/PreserveAspectRatio.rb
+END
+composite.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/composite.rb
+END
+watermark.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/watermark.rb
+END
+channel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/channel.rb
+END
+pattern2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/pattern2.rb
+END
+tspan03.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/tspan03.rb
+END
+tref01.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/tref01.rb
+END
+group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/group.rb
+END
+swirl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/doc/ex/swirl.rb
+END

@@ -1,0 +1,4 @@
+/*$("#form-folios").html("") ;
+$("#new-folio").html("<%#= escape_javascript(link_to 'Nuevos Folios', new_folio_path, :class => 'btn btn-warning', :remote => true) %>");
+$("#list-folios").html("<%#= escape_javascript(render :partial => 'folios') %>") ;*/
+location.href='folios';

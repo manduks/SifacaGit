@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields
+END
+bcc_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/bcc_field.rb
+END
+content_transfer_encoding_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/content_transfer_encoding_field.rb
+END
+received_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/received_field.rb
+END
+content_id_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/content_id_field.rb
+END
+content_type_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/content_type_field.rb
+END
+content_description_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/content_description_field.rb
+END
+comments_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/comments_field.rb
+END
+message_id_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/message_id_field.rb
+END
+structured_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/structured_field.rb
+END
+reply_to_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/reply_to_field.rb
+END
+date_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/date_field.rb
+END
+mime_version_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/mime_version_field.rb
+END
+subject_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/subject_field.rb
+END
+from_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/from_field.rb
+END
+keywords_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/keywords_field.rb
+END
+unstructured_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/unstructured_field.rb
+END
+resent_message_id_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/resent_message_id_field.rb
+END
+resent_date_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/resent_date_field.rb
+END
+optional_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/optional_field.rb
+END
+cc_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/cc_field.rb
+END
+resent_from_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/resent_from_field.rb
+END
+to_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/to_field.rb
+END
+content_location_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/content_location_field.rb
+END
+sender_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/sender_field.rb
+END
+resent_cc_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/resent_cc_field.rb
+END
+return_path_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/return_path_field.rb
+END
+content_disposition_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/content_disposition_field.rb
+END
+resent_to_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/resent_to_field.rb
+END
+resent_bcc_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/resent_bcc_field.rb
+END
+in_reply_to_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/in_reply_to_field.rb
+END
+resent_sender_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/resent_sender_field.rb
+END
+references_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mail-2.4.1/lib/mail/fields/references_field.rb
+END

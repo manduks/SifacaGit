@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less
+END
+mixins-important.less
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/mixins-important.less
+END
+import.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/import.less
+END
+media.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/media.less
+END
+css.less
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/css.less
+END
+strings.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/strings.less
+END
+mixins-closure.less
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/mixins-closure.less
+END
+whitespace.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/whitespace.less
+END
+functions.less
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/functions.less
+END
+mixins-args.less
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/mixins-args.less
+END
+variables.less
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/variables.less
+END
+mixins-pattern.less
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/mixins-pattern.less
+END
+lazy-eval.less
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/lazy-eval.less
+END
+comments.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/comments.less
+END
+selectors.less
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/selectors.less
+END
+scope.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/scope.less
+END
+mixins-nested.less
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/mixins-nested.less
+END
+mixins.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/mixins.less
+END
+colors.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/colors.less
+END
+rulesets.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/rulesets.less
+END
+javascript.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/javascript.less
+END
+operations.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/operations.less
+END
+ie-filters.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/ie-filters.less
+END
+css-3.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/css-3.less
+END
+parens.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/parens.less
+END
+mixins-guards.less
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/mixins-guards.less
+END
+css-escapes.less
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-2.0.9/lib/less/js/test/less/css-escapes.less
+END

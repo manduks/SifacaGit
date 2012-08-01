@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1
+END
+post-install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/post-install.rb
+END
+setup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/setup.rb
+END
+post-clean.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/post-clean.rb
+END
+build_tarball.rake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/build_tarball.rake
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/ChangeLog
+END
+metaconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/metaconfig
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/Doxyfile
+END
+README-Mac-OSX.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/README-Mac-OSX.txt
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/README.html
+END
+rmagick.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/rmagick.gemspec
+END
+uninstall.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/uninstall.rb
+END
+post-setup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/post-setup.rb
+END

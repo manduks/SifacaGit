@@ -1,0 +1,12 @@
+<div id="menu_folio">
+  <%= render :partial => "shared/tbar_menu" %>
+</div>
+<div class="row-fluid">
+  <div id="form-folios"></div>
+  <div class="span5" id="new-folio">
+    <%= link_to 'Nuevos Folios', new_folio_path, :class => 'btn btn-success', :remote => true %>
+  </div>
+</div>
+<div id="list-folios">
+  <%= render :partial => 'folios' %>
+</div>

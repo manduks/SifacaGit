@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/lib/builder
+END
+xchar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/lib/builder/xchar.rb
+END
+xmlbase.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/lib/builder/xmlbase.rb
+END
+blankslate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/lib/builder/blankslate.rb
+END
+xmlevents.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/lib/builder/xmlevents.rb
+END
+xmlmarkup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/lib/builder/xmlmarkup.rb
+END

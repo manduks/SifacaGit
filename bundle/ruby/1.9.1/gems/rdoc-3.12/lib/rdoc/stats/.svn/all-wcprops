@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/stats
+END
+normal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/stats/normal.rb
+END
+quiet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/stats/quiet.rb
+END
+verbose.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/lib/rdoc/stats/verbose.rb
+END

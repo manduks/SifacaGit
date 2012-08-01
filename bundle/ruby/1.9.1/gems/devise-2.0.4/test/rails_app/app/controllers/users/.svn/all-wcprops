@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/app/controllers/users
+END
+omniauth_callbacks_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/app/controllers/users/omniauth_callbacks_controller.rb
+END

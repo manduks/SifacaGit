@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors
+END
+oracle.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/oracle.rb
+END
+join_sql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/join_sql.rb
+END
+informix.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/informix.rb
+END
+where_sql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/where_sql.rb
+END
+postgresql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/postgresql.rb
+END
+depth_first.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/depth_first.rb
+END
+order_clauses.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/order_clauses.rb
+END
+visitor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/visitor.rb
+END
+sqlite.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/sqlite.rb
+END
+bind_visitor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/bind_visitor.rb
+END
+to_sql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/to_sql.rb
+END
+dot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/dot.rb
+END
+ibm_db.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/ibm_db.rb
+END
+mssql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/mssql.rb
+END
+mysql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors/mysql.rb
+END

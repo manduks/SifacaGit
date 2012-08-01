@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/lib/nested_form
+END
+builder_mixin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/lib/nested_form/builder_mixin.rb
+END
+view_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/lib/nested_form/view_helper.rb
+END
+builders.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/lib/nested_form/builders.rb
+END
+engine.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/lib/nested_form/engine.rb
+END

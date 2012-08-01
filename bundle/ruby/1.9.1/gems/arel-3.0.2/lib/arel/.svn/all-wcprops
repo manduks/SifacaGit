@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel
+END
+crud.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/crud.rb
+END
+sql_literal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/sql_literal.rb
+END
+factory_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/factory_methods.rb
+END
+relation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/relation.rb
+END
+expressions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/expressions.rb
+END
+predications.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/predications.rb
+END
+delete_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/delete_manager.rb
+END
+expression.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/expression.rb
+END
+attributes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/attributes.rb
+END
+update_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/update_manager.rb
+END
+deprecated.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/deprecated.rb
+END
+nodes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/nodes.rb
+END
+table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/table.rb
+END
+tree_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/tree_manager.rb
+END
+alias_predication.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/alias_predication.rb
+END
+order_predications.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/order_predications.rb
+END
+select_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/select_manager.rb
+END
+math.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/math.rb
+END
+insert_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/insert_manager.rb
+END
+visitors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/arel-3.0.2/lib/arel/visitors.rb
+END

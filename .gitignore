@@ -1,0 +1,63 @@
+<<<<<<< HEAD
+Last login: Mon May 14 01:32:08 on ttys000
+MacBook-Pro-de-Oswaldo:~ Waldix$ ls
+Desktop			Movies			Public
+Documents		Music			pgadmin.log
+Downloads		NetBeansProjects	uploader
+Library			Pictures
+MacBook-Pro-de-Oswaldo:~ Waldix$ cd Documents/
+MacBook-Pro-de-Oswaldo:Documents Waldix$ cd ruby/
+MacBook-Pro-de-Oswaldo:ruby Waldix$ cd SifacaGit/
+MacBook-Pro-de-Oswaldo:SifacaGit Waldix$ ls
+Gemfile				lib
+Gemfile.lock			log
+README.rdoc			public
+Rakefile			script
+app				sqlite-jdbc-3.7.2.jar
+bundle				test
+config				tmp
+config.ru			vendor
+db				x.pdf
+doc				xerial-sqlite-license.txt
+MacBook-Pro-de-Oswaldo:SifacaGit Waldix$ git init
+Reinitialized existing Git repository in /Users/Waldix/Documents/ruby/SifacaGit/.git/
+MacBook-Pro-de-Oswaldo:SifacaGit Waldix$ textedit .gitignore
+-bash: textedit: command not found
+MacBook-Pro-de-Oswaldo:SifacaGit Waldix$ text .gitignore
+-bash: text: command not found
+MacBook-Pro-de-Oswaldo:SifacaGit Waldix$ gedit .gitignore
+-bash: gedit: command not found
+MacBook-Pro-de-Oswaldo:SifacaGit Waldix$ touch .gitignore
+MacBook-Pro-de-Oswaldo:SifacaGit Waldix$ nano .gitignore
+
+  GNU nano 2.0.6              File: .gitignore                        Modified  
+
+.DS_Store
+log/*.log
+tmp/**/*
+config/database.yml
+db/*.sqilite3
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
+=======
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+>>>>>>> 3d915b064cd2b52a044fa6c967fe3f6687bd8e61
+tmp

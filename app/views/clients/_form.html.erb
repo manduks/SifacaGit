@@ -1,0 +1,62 @@
+<%= nested_form_for @client, :remote => true, :html => {:multipart => true, :class => 'form-inline'} do |f| %>
+
+    <fieldset>
+      <center><font face="courier" color="#020001" size="5">Formulario de Clientes</font></center>
+      <br>
+
+      <div class="control-group info">
+        <center>
+          <div class="well formcontainer">
+            <center>
+              <div class="row">
+                <%= f.text_field :name, :class => 'span2 text_field', :placeholder => "Nombre" %>
+                <%= f.text_field :rfc, :class => 'span2 text_field', :id => 'clientrfc', :placeholder => "RFC" %>
+                <%= f.text_field :email, :class => 'span2 controls', :placeholder => "Email" %>
+              </div>
+              <br>
+
+              <div class="row">
+                <%= f.text_field :street, :class => 'span2 text_field', :placeholder => "Calle" %>
+                <%= f.text_field :num_ext, :class => 'spanform input-form number_field', :placeholder => "No. Ext." %>
+                <%= f.text_field :num_int, :class => 'spanform input-form number_field', :placeholder => "No. Int." %>
+                <%= f.text_field :suburb, :class => 'span2 input-small text_field', :placeholder => "Colonia" %>
+              </div>
+              <br>
+
+              <div class="row">
+                <%= f.number_field :cp, :class => 'span2 input-small number_field', :placeholder => "C.P." %>
+                <%= f.text_field :township, :class => 'span2 text_field', :placeholder => "Delegación" %>
+                <%= f.text_field :state, :class => 'span2 input-small text_field', :placeholder => "Estado" %>
+              </div>
+              <br>
+
+              <div class="row" style="text-align: left">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <%= f.file_field :logo_emp, :class => 'customfile-feedback' %>
+              </div>
+            </center>
+          </div>
+        </center>
+
+
+        <% if @user.tax_regime == 2 %>
+            <div id="students" class="control-group" style="visibility: hidden;">
+              <center>
+                <div class="well formcontainer">
+                  <%= render :partial => "students/form", :locals => {:f => f} %>
+                </div>
+              </center>
+            </div>
+        <% end %>
+      </diV>
+
+
+      <center>
+        <div class="well formcontainer">
+          <%= f.submit 'Crear Cliente', :remote => true, :class => 'btn btn-primary' %>
+          <%= link_to 'Cancelar', clients_path, :class => 'btn' %>
+        </div>
+      </center>
+    </fieldset>
+
+<% end %>

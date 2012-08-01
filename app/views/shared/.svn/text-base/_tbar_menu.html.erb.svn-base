@@ -1,0 +1,39 @@
+<div class="navbar">
+  <div class="navbar-inner">
+    <div class="container">
+      <ul class="nav">
+        <li>
+          <a href="/index/dashboard">Dashboard</a>
+        </li>
+        <li <%= ' class=active' if is_active?('clients') %> >
+          <a href="/clients">Clientes</a>
+        </li>
+        <li <%= ' class=active' if is_active?('folios') %> >
+          <a href="/folios">Folios</a>
+        </li>
+        <% if current_user.active != 0 %>
+            <li <%= ' class=active' if is_active?('resumes') %> >
+              <a href="/resumes">Facturas</a>
+            </li>
+        <% end %>
+        <li class="dropdown offset6">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            <%= current_user.email %>
+            <b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu">
+            <li>
+              <a rel="nofollow" data-method="delete" href="/users/sign_out">Salir</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div style="width: 300pt; margin: 0 auto;" align="center">
+  <% flash.each do |name, msg| %>
+      <a class="close" data-dismiss="alert">×</a>
+      <%= content_tag :div, msg, :id => "flash_#{name}", :class => "alert alert-success" %>
+  <% end %>
+</div>

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs
+END
+nested_pages.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs/nested_pages.pdf
+END
+resources_as_indirect_object.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs/resources_as_indirect_object.pdf
+END
+page_without_mediabox.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs/page_without_mediabox.pdf
+END
+hexagon.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs/hexagon.pdf
+END
+version_1_6.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs/version_1_6.pdf
+END
+multipage_template.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs/multipage_template.pdf
+END
+encrypted.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs/encrypted.pdf
+END
+form.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs/form.pdf
+END
+two_hexagons.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs/two_hexagons.pdf
+END
+contains_ttf_font.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs/contains_ttf_font.pdf
+END
+complex_template.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs/complex_template.pdf
+END
+indirect_reference.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/pdfs/indirect_reference.pdf
+END

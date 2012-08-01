@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5
+END
+GPL
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/GPL
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/CHANGES
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/install.rb
+END
+json-java.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/json-java.gemspec
+END
+json.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/json.gemspec
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/README.rdoc
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/TODO
+END
+json_pure.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/json_pure.gemspec
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/Gemfile
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/COPYING
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/.travis.yml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/.gitignore
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/VERSION
+END
+COPYING-json-jruby
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/COPYING-json-jruby
+END
+README-json-jruby.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/README-json-jruby.markdown
+END

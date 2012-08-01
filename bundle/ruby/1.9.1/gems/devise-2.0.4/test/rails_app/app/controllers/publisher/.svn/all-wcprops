@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/app/controllers/publisher
+END
+sessions_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/app/controllers/publisher/sessions_controller.rb
+END
+registrations_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/devise-2.0.4/test/rails_app/app/controllers/publisher/registrations_controller.rb
+END

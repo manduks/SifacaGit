@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/warden
+END
+authenticated_data_store_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/warden/authenticated_data_store_spec.rb
+END
+manager_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/warden/manager_spec.rb
+END
+proxy_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/warden/proxy_spec.rb
+END
+hooks_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/warden/hooks_spec.rb
+END
+strategies_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/warden/strategies_spec.rb
+END
+config_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/warden/config_spec.rb
+END
+errors_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/warden/errors_spec.rb
+END
+session_serializer_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/warden/session_serializer_spec.rb
+END

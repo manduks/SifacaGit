@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/ext/json/ext/json/ext
+END
+parser.bundle
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/ext/json/ext/json/ext/parser.bundle
+END
+generator.bundle
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/ext/json/ext/json/ext/generator.bundle
+END

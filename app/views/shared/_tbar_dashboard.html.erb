@@ -1,0 +1,25 @@
+<br>
+<div class="dashboard right">
+  <%= render :partial => "users/modal_form" %>
+  <br>
+  <button data-controls-modal="modal-form-users-new"
+          data-backdrop="false"
+          data-keyboard="true"
+          class="btn btn-inverse" rel="usuario"
+          onclick="$('#users-form').html(' ').load('');">
+    <% if current_user.active != 0 %>
+        <% if !current_user.logo_emp_url.nil? %>
+            <%= image_tag current_user.logo_emp_url(:thum).to_s %>&nbsp;<%= current_user.name %>
+        <% else %>
+            <%= current_user.name %>
+        <% end %>
+    <% else %>
+        Actualiza tu perfil
+    <% end %>
+  </button>
+
+  <a rel="nofollow" data-method="delete" class="btn btn-danger" href="/users/sign_out"><i class="icon-off icon-white"></i></a>
+</div>
+<div class="image">
+  <%= image_tag 'codetlan.png', :size => "100x100" %>
+</div>

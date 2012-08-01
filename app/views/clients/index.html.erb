@@ -1,0 +1,30 @@
+<div id="menu_client">
+  <%= render :partial => "shared/tbar_menu" %>
+</div>
+
+<div id="msg-error" class="error span3"></div> <br>
+<div id="form-clients"></div>
+<div class="span2" id="new-client">
+  <%= link_to 'Nuevos Clientes', new_client_path, :class => 'btn btn-success', :remote => true %>
+</div>
+
+<div class="pull-right" style="margin-right: 20px;">
+  <%= form_tag 'clients', :method => 'get', :id => "clients_search" do %>
+      <div class="input-append">
+        <%= text_field_tag :search, params[:search] %>
+        <span class="add-on">
+                 <i class="icon-search"></i>
+          </span>
+      </div>
+  <% end %>
+</div> <br><br>
+<div id="list-clients">
+  <%= render :partial => 'clients/clients' %>
+</div>
+
+
+
+
+
+
+

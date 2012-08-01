@@ -1,0 +1,25 @@
+<script type="text/javascript">
+
+    var student = new Array();
+    <% for student in @students %>
+        student.push(new Array('<%= student.client_id %>', '<%= escape_javascript(student.name) %>', <%= student.id %>));
+    <% end %>
+
+    $('#select-clientess').live('change', function () {
+        menuSelected('#select-clientess', '#select-alumno', student)
+    });
+
+    function menuSelected(orig_menu, new_menu, item_array) {
+
+        orig_value = $('#select-clientess :selected').val();
+
+        $(new_menu).empty();
+        $.each(item_array, function (i, val) {
+            if (orig_value == val[0]) {
+                $(new_menu).append($("<option></option>").attr("value", val[2]).text(val[1]));
+            }
+        });
+    }
+</script>
+<%= render :partial => 'form' %>
+

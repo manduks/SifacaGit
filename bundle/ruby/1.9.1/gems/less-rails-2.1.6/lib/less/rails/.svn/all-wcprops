@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/lib/less/rails
+END
+railtie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/lib/less/rails/railtie.rb
+END
+template_handlers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/lib/less/rails/template_handlers.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/lib/less/rails/version.rb
+END
+import_processor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/lib/less/rails/import_processor.rb
+END
+helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/lib/less/rails/helpers.rb
+END

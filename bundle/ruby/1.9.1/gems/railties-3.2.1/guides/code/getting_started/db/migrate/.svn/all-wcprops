@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/db/migrate
+END
+20110901012815_create_comments.rb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/db/migrate/20110901012815_create_comments.rb
+END
+20110901013701_create_tags.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/db/migrate/20110901013701_create_tags.rb
+END
+20110901012504_create_posts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/guides/code/getting_started/db/migrate/20110901012504_create_posts.rb
+END

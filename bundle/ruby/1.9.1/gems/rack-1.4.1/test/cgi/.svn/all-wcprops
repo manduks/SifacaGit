@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/test/cgi
+END
+lighttpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/test/cgi/lighttpd.conf
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/test/cgi/test
+END
+rackup_stub.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/test/cgi/rackup_stub.rb
+END
+sample_rackup.ru
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/test/cgi/sample_rackup.ru
+END
+test.fcgi
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/test/cgi/test.fcgi
+END
+test.ru
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-1.4.1/test/cgi/test.ru
+END

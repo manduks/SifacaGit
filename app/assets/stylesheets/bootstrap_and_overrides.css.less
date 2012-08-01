@@ -1,0 +1,76 @@
+@import "twitter/bootstrap/bootstrap";
+@import "twitter/bootstrap/responsive";
+
+// Set the correct sprite paths
+@iconSpritePath: asset-path('twitter/bootstrap/glyphicons-halflings.png');
+@iconWhiteSpritePath: asset-path('twitter/bootstrap/glyphicons-halflings-white.png');
+
+// Your custom LESS stylesheets goes here
+//
+// Since bootstrap was imported above you have access to its mixins which
+// you may use and inherit here
+//
+// If you'd like to override bootstrap's own variables, you can do so here as well
+// See http://twitter.github.com/bootstrap/less.html for their names and documentation
+//
+// Example:
+// @linkColor: #ff0000;
+
+.hero-unit {
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.14, rgb(235, 235, 235)), color-stop(0.57, rgb(209, 209, 209)), color-stop(0.79, rgb(201, 201, 201)));
+    opacity: .9;
+}
+
+.hero-unit form {
+    opacity: 1;
+}
+
+.container-fluid {
+    background: url(dashboard.png) repeat;
+    height: 685px;
+}
+
+.modal {
+    border: 8px solid rgba(0, 0, 0, 0.9);
+    display: block;
+}
+
+.control-group.info input,
+.control-group.info select,
+.control-group.info textarea {
+    color: #020001;
+//border-color: #006DCC;
+    border-color: #020001;
+}
+
+.row-fluid > .spanform {
+    width: 5.6249997615%;
+    width: 5.6249997615%;
+}
+
+.offsetform {
+    margin-left: 300px;
+}
+
+hr{
+    margin: 18px 0;
+    border: 0;
+    border-top: 1px solid #D5CFCF;
+    border-bottom: 1px solid #ffffff;
+}
+
+input.span40,
+textarea.span40,
+.uneditable-input.span40 {
+    width: 174px;
+    font-size: 1.1em;
+    font-style: italic;
+}
+
+.input-form {
+    width: 73px;
+}
+
+
+
+

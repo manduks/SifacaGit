@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg
+END
+stylable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/stylable.rb
+END
+paint.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/paint.rb
+END
+text.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/text.rb
+END
+embellishable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/embellishable.rb
+END
+misc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/misc.rb
+END
+transformable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/transformable.rb
+END
+clippath.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/clippath.rb
+END
+describable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/describable.rb
+END
+rvg.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/rvg.rb
+END
+container.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/container.rb
+END
+deep_equal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/deep_equal.rb
+END
+stretchable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/stretchable.rb
+END
+units.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/units.rb
+END
+pathdata.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/lib/rvg/pathdata.rb
+END

@@ -1,0 +1,31 @@
+<%= form_for @folio, :remote => true, :html => {:multipart => true, :class => 'form-inline'} do |f| %>
+    <center><font face="courier" color="#020001" size="5">Formulario de Folios</font></center>
+    <br>
+    <div class="control-group info">
+      <center>
+        <div class="well formcontainer">
+          <div class="row">
+            <center>
+              <%= f.text_field :date_initiation, :id => "folios_date1", :class => 'input-medium datepicker', :placeholder => "Valido Desde" %>
+              <%= f.text_field :date_finish, :id => "folios_date2", :class => 'input-medium datepicker', :placeholder => "Valido Hasta" %>
+              <%= f.number_field :approval, :class => 'span2 number_field', :placeholder => "Aprobación SICOFI" %>
+
+              <br><br>
+
+
+              <%= f.number_field :initiation, :class => 'input-medium number_field', :placeholder => "Del" %>
+              <%= f.number_field :finish, :class => 'input-medium number_field', :placeholder => "Al" %>
+              <%= f.file_field :qr, :class => "span40" %>
+            </center>
+          </div>
+        </div>
+      </center>
+    </div>
+    <center>
+      <div class="well formcontainer">
+        <%= f.submit 'Generar Folios', :remote => true, :class => 'btn btn-primary' %>
+        <%= link_to 'Cancelar', folios_path, :class => 'btn' %>
+      </div>
+    </center>
+
+<% end %>

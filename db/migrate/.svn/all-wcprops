@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/58/trunk/db/migrate
+END
+20120427191349_add_tax_regime_to_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/44/trunk/db/migrate/20120427191349_add_tax_regime_to_users.rb
+END
+20120505022554_add_columns_to_folio2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/52/trunk/db/migrate/20120505022554_add_columns_to_folio2.rb
+END
+20120329235949_add_qr_to_folios.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/db/migrate/20120329235949_add_qr_to_folios.rb
+END
+20120329235757_remove_qr_to_clients.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/db/migrate/20120329235757_remove_qr_to_clients.rb
+END
+20120301073552_create_folios.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/db/migrate/20120301073552_create_folios.rb
+END
+20120315190248_clients_column_name.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/db/migrate/20120315190248_clients_column_name.rb
+END
+20120301074132_create_invoices.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/db/migrate/20120301074132_create_invoices.rb
+END
+20120301074608_create_resumes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/db/migrate/20120301074608_create_resumes.rb
+END
+20120507185558_add_status_to_invoice.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/56/trunk/db/migrate/20120507185558_add_status_to_invoice.rb
+END
+20120301074401_create_articles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/db/migrate/20120301074401_create_articles.rb
+END
+20120420194233_add_tax_regime_to_clients.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/35/trunk/db/migrate/20120420194233_add_tax_regime_to_clients.rb
+END
+20120307193717_add_columns_to_client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/db/migrate/20120307193717_add_columns_to_client.rb
+END
+20120308191857_change_column_name.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/db/migrate/20120308191857_change_column_name.rb
+END
+20120502013350_add_curp_from_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/49/trunk/db/migrate/20120502013350_add_curp_from_users.rb
+END
+20120426001109_change_data_type_for_resumes_total_and_subtotal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/44/trunk/db/migrate/20120426001109_change_data_type_for_resumes_total_and_subtotal.rb
+END
+20120501233739_add_taxregime_from_resumes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/47/trunk/db/migrate/20120501233739_add_taxregime_from_resumes.rb
+END
+20120503234025_create_students.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/51/trunk/db/migrate/20120503234025_create_students.rb
+END
+20120330030336_rename_columns_to_folios.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/db/migrate/20120330030336_rename_columns_to_folios.rb
+END
+20120330033656_create_folio_details.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/db/migrate/20120330033656_create_folio_details.rb
+END
+20120420075304_remove_iva_from_resumes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/35/trunk/db/migrate/20120420075304_remove_iva_from_resumes.rb
+END
+20120429082007_add_iva_from_resumes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/44/trunk/db/migrate/20120429082007_add_iva_from_resumes.rb
+END
+20120508005053_add_student_id_from_invoice.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/57/trunk/db/migrate/20120508005053_add_student_id_from_invoice.rb
+END
+20120322185537_foliochange_column_name.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/db/migrate/20120322185537_foliochange_column_name.rb
+END
+20120330233400_change_column_to_resume.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/db/migrate/20120330233400_change_column_to_resume.rb
+END
+20120428055012_add_active_from_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/44/trunk/db/migrate/20120428055012_add_active_from_users.rb
+END
+20120429235655_change_data_type_for_resumes_iva.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/44/trunk/db/migrate/20120429235655_change_data_type_for_resumes_iva.rb
+END
+20120323183113_resume_remove_column_name.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/db/migrate/20120323183113_resume_remove_column_name.rb
+END
+20120323184836_resume_add_column_name.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/db/migrate/20120323184836_resume_add_column_name.rb
+END
+20120307194258_devise_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/db/migrate/20120307194258_devise_create_users.rb
+END
+20120307191743_create_clients.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/db/migrate/20120307191743_create_clients.rb
+END
+20120504215346_add_client_id_from_student.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/53/trunk/db/migrate/20120504215346_add_client_id_from_student.rb
+END
+20120308185708_add_columns_to_user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/db/migrate/20120308185708_add_columns_to_user.rb
+END
+20120427221633_remove_qr_from_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/44/trunk/db/migrate/20120427221633_remove_qr_from_users.rb
+END
+20120429234435_change_data_type_for_resumes_quantity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/44/trunk/db/migrate/20120429234435_change_data_type_for_resumes_quantity.rb
+END
+20120510051007_add_email_from_clients.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/58/trunk/db/migrate/20120510051007_add_email_from_clients.rb
+END
+20120322185340_add_columns_to_folio.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/db/migrate/20120322185340_add_columns_to_folio.rb
+END
+20120330034108_rename_columns_to_invoices.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/db/migrate/20120330034108_rename_columns_to_invoices.rb
+END

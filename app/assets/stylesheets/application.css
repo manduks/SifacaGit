@@ -1,0 +1,119 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+ *= require_self
+ *= require_tree .
+*/
+.login {
+    background: url(bellas.jpg) repeat;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+
+}
+
+.codetlan {
+
+}
+
+body {
+    min-width: 500px;
+    height: 100%;
+}
+
+.image {
+    position: absolute;
+    bottom: 0px;
+    right: 47%;
+}
+
+.dashboard .right {
+    float: right;
+}
+
+.tbar {
+    margin: 10px;
+}
+
+.main {
+    background: url("dashboard.png") repeat;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+#container {
+    position: absolute;
+    width: 1000px;
+    top: 50%;
+    left: 50%;
+    margin-left: -450px;
+    margin-top: -100px;
+
+}
+
+#entry {
+    position: absolute;
+    top: 25%;
+    left: 18%;
+
+}
+
+.frame {
+    height: 140px;
+}
+
+#modal-form-users-new {
+    width: 800px;
+    left: 40%;
+}
+
+.button {
+    opacity: 0.3;
+    filter: alpha(opacity = 50);
+}
+
+
+.clearfix:before,
+.clearfix:after,
+.container_24:before,
+.container_24:after {
+    content: '.';
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    font-size: 0;
+    line-height: 0;
+    width: 0;
+    height: 0;
+}
+
+.error{
+    position: fixed;
+    right: 5px;
+}
+
+.customfile-feedback {
+    font-size: 1.1em;
+    font-style: italic;
+    cursor: pointer;
+}
+
+
+.formcontainer{
+    position: relative;
+    width: 700px;
+
+}
+
+
+
+
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/plugin_new/templates/lib/%25name%25
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/plugin_new/templates/lib/%25name%25/version.rb
+END
+engine.rb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/railties-3.2.1/lib/rails/generators/rails/plugin_new/templates/lib/%25name%25/engine.rb
+END

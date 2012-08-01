@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/processing
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/processing/mime_types.rb
+END
+mini_magick.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/processing/mini_magick.rb
+END
+rmagick.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/processing/rmagick.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/test/dummy_app/app/assets/stylesheets
+END
+basics.css.less
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/test/dummy_app/app/assets/stylesheets/basics.css.less
+END
+helpers.css.less
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/test/dummy_app/app/assets/stylesheets/helpers.css.less
+END

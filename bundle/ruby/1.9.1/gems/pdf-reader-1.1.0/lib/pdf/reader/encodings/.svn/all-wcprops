@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/encodings
+END
+zapf_dingbats.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/encodings/zapf_dingbats.txt
+END
+win_ansi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/encodings/win_ansi.txt
+END
+symbol.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/encodings/symbol.txt
+END
+mac_expert.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/encodings/mac_expert.txt
+END
+pdf_doc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/encodings/pdf_doc.txt
+END
+mac_roman.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/encodings/mac_roman.txt
+END
+standard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/encodings/standard.txt
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table
+END
+os2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table/os2.rb
+END
+hhea.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table/hhea.rb
+END
+maxp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table/maxp.rb
+END
+name.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table/name.rb
+END
+cmap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table/cmap.rb
+END
+hmtx.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table/hmtx.rb
+END
+kern.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table/kern.rb
+END
+simple.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table/simple.rb
+END
+glyf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table/glyf.rb
+END
+loca.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table/loca.rb
+END
+post.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table/post.rb
+END
+head.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/table/head.rb
+END

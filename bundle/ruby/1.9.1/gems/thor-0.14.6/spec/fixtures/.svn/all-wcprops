@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/fixtures
+END
+task.thor
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/fixtures/task.thor
+END
+group.thor
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/fixtures/group.thor
+END
+script.thor
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/fixtures/script.thor
+END
+path with spaces
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/fixtures/path%20with%20spaces
+END
+invoke.thor
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/fixtures/invoke.thor
+END
+application.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/thor-0.14.6/spec/fixtures/application.rb
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6
+END
+Guardfile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/Guardfile
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/CHANGELOG.md
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/Rakefile
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/.travis.yml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/.gitignore
+END
+Gemfile.rails-3.1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/Gemfile.rails-3.1
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/README.md
+END
+Gemfile.rails-3.2
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/Gemfile.rails-3.2
+END
+less-rails.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/less-rails.gemspec
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/Gemfile
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/MIT-LICENSE
+END

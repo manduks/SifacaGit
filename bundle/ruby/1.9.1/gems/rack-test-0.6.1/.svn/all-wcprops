@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1
+END
+Thorfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/Thorfile
+END
+rack-test.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/rack-test.gemspec
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/Rakefile
+END
+History.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/History.txt
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/README.rdoc
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/.gitignore
+END
+.document
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/.document
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/Gemfile
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/Gemfile.lock
+END
+MIT-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rack-test-0.6.1/MIT-LICENSE.txt
+END

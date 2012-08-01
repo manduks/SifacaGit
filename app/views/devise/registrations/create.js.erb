@@ -1,0 +1,5 @@
+<% if !devise_error_messages!.empty? %>
+    $('#error').html('<%= j render :partial => "shared/error"%>');
+<% else%>
+      location.href='index/dashboard';
+<% end %>

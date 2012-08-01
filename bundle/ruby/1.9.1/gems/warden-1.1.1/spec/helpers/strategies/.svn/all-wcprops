@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/helpers/strategies
+END
+pass_with_message.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/helpers/strategies/pass_with_message.rb
+END
+failz.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/helpers/strategies/failz.rb
+END
+password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/helpers/strategies/password.rb
+END
+single.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/helpers/strategies/single.rb
+END
+invalid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/helpers/strategies/invalid.rb
+END
+pass.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/warden-1.1.1/spec/helpers/strategies/pass.rb
+END

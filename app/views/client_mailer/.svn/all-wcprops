@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/59/trunk/app/views/client_mailer
+END
+pdf_delivery.text.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/59/trunk/app/views/client_mailer/pdf_delivery.text.erb
+END

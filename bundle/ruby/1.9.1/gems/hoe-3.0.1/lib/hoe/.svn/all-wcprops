@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe
+END
+flog.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/flog.rb
+END
+flay.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/flay.rb
+END
+inline.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/inline.rb
+END
+rcov.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/rcov.rb
+END
+debug.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/debug.rb
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/test.rb
+END
+publish.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/publish.rb
+END
+racc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/racc.rb
+END
+gemcutter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/gemcutter.rb
+END
+rubyforge.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/rubyforge.rb
+END
+rake.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/rake.rb
+END
+clean.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/clean.rb
+END
+gem_prelude_sucks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/gem_prelude_sucks.rb
+END
+package.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/package.rb
+END
+signing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/signing.rb
+END
+deps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/deps.rb
+END
+newb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/newb.rb
+END
+compiler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/lib/hoe/compiler.rb
+END

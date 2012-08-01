@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/type-lists
+END
+application.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/type-lists/application.txt
+END
+audio.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/type-lists/audio.txt
+END
+message.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/type-lists/message.txt
+END
+model.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/type-lists/model.txt
+END
+image.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/type-lists/image.txt
+END
+video.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/type-lists/video.txt
+END
+multipart.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/type-lists/multipart.txt
+END
+text.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/type-lists/text.txt
+END

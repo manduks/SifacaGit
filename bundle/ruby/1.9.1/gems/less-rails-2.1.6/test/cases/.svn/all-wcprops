@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/test/cases
+END
+railtie_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/test/cases/railtie_spec.rb
+END
+generators_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/test/cases/generators_spec.rb
+END
+basics_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/test/cases/basics_spec.rb
+END
+helpers_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/less-rails-2.1.6/test/cases/helpers_spec.rb
+END

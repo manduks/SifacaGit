@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples
+END
+find_similar_region.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/find_similar_region.rb
+END
+import_export.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/import_export.rb
+END
+thumbnail.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/thumbnail.rb
+END
+identify.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/identify.rb
+END
+describe.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/describe.rb
+END
+vignette.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/vignette.rb
+END
+spinner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/spinner.rb
+END
+constitute.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/constitute.rb
+END
+image_opacity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/image_opacity.rb
+END
+histogram.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/histogram.rb
+END
+crop_with_gravity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/crop_with_gravity.rb
+END
+rotating_text.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/rotating_text.rb
+END
+demo.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/demo.rb
+END
+pattern_fill.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rmagick-2.13.1/examples/pattern_fill.rb
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12
+END
+History.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/History.rdoc
+END
+Manifest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/Manifest.txt
+END
+.gemtest
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/.gemtest
+END
+LICENSE.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/LICENSE.rdoc
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/README.rdoc
+END
+.document
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/.document
+END
+LEGAL.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/LEGAL.rdoc
+END
+DEVELOPERS.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/DEVELOPERS.rdoc
+END
+RI.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/RI.rdoc
+END
+TODO.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/TODO.rdoc
+END
+.autotest
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/rdoc-3.12/.autotest
+END

@@ -1,0 +1,22 @@
+<%= form_for(resource, :as => resource_name, :remote => true,
+             :format => :json, :url => session_path(resource_name)) do |f| %>
+    <div class="input-prepend">
+      <span class="add-on">
+        <i class="icon-envelope">
+        </i>
+      </span>
+      <%= f.email_field :email, :placeholder => "Introduce tu email", :id => 'login' %>
+      <span class="add-on">
+        <i class="icon-lock">
+        </i>
+      </span>
+      <%= f.password_field :password, :placeholder => "Contraseña", :id => 'pass' %>
+    </div>
+    <div><%= f.check_box :remember_me %>&nbsp;Recuerdame</div>
+
+    <%= f.submit "Ingresa", :class => 'btn btn-primary' %><br><br>
+    <div style="margin-top: -5pt; margin-right: -20pt" align="right">
+      <%= image_tag ("codetlan.png"), :size => "50x50" %>
+    </div><br>
+
+<% end %>

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/attribute_methods
+END
+query.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/attribute_methods/query.rb
+END
+time_zone_conversion.rb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/attribute_methods/time_zone_conversion.rb
+END
+read.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/attribute_methods/read.rb
+END
+before_type_cast.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/attribute_methods/before_type_cast.rb
+END
+primary_key.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/attribute_methods/primary_key.rb
+END
+dirty.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/attribute_methods/dirty.rb
+END
+serialization.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/attribute_methods/serialization.rb
+END
+deprecated_underscore_read.rb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/attribute_methods/deprecated_underscore_read.rb
+END
+write.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/activerecord-3.2.1/lib/active_record/attribute_methods/write.rb
+END

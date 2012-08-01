@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/subset
+END
+unicode.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/subset/unicode.rb
+END
+mac_roman.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/subset/mac_roman.rb
+END
+windows_1252.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/subset/windows_1252.rb
+END
+unicode_8bit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/subset/unicode_8bit.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/ttfunk-1.0.3/lib/ttfunk/subset/base.rb
+END

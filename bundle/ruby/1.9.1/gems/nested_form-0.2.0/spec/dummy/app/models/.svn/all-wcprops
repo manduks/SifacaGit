@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/spec/dummy/app/models
+END
+project.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/spec/dummy/app/models/project.rb
+END
+task.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/spec/dummy/app/models/task.rb
+END
+milestone.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/nested_form-0.2.0/spec/dummy/app/models/milestone.rb
+END

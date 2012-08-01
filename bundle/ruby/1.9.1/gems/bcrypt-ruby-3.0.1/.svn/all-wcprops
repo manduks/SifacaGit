@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/bcrypt-ruby-3.0.1
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/bcrypt-ruby-3.0.1/CHANGELOG
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/bcrypt-ruby-3.0.1/Rakefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/bcrypt-ruby-3.0.1/.gitignore
+END
+bcrypt-ruby.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/bcrypt-ruby-3.0.1/bcrypt-ruby.gemspec
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/bcrypt-ruby-3.0.1/README.md
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/bcrypt-ruby-3.0.1/Gemfile
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/bcrypt-ruby-3.0.1/COPYING
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/bcrypt-ruby-3.0.1/Gemfile.lock
+END
+.rspec
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/bcrypt-ruby-3.0.1/.rspec
+END

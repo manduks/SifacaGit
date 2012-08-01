@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/table/cell
+END
+subtable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/table/cell/subtable.rb
+END
+text.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/table/cell/text.rb
+END
+in_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/prawn-0.12.0/lib/prawn/table/cell/in_table.rb
+END

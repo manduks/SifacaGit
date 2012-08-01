@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/58/trunk/app/helpers
+END
+application_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/58/trunk/app/helpers/application_helper.rb
+END
+index_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/app/helpers/index_helper.rb
+END
+invoices_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/app/helpers/invoices_helper.rb
+END
+resumes_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/app/helpers/resumes_helper.rb
+END
+users_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/app/helpers/users_helper.rb
+END
+clients_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/app/helpers/clients_helper.rb
+END
+folios_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/app/helpers/folios_helper.rb
+END
+articles_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/app/helpers/articles_helper.rb
+END

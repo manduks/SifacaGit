@@ -1,0 +1,30 @@
+<br><font face="courier" color="#6D6968" size="6">Folios</font><br><br>
+<table class="table table-striped table-condensed">
+  <thead>
+  <tr>
+    <th><font face="courier" color="black" size="5">Qr</font></th>
+    <th><font face="courier" color="black" size="5">Del</font></th>
+    <th><font face="courier" color="black" size="5">Al</font></th>
+  </tr>
+  </thead>
+  <tbody>
+  <% @folios.each do |folio| %>
+      <tr>
+        <td><%= image_tag folio.qr_url(:thumbs).to_s %></td>
+        <td><h1><font color="red" face="comic sans"><%= folio.initiation %></font></h1></td>
+        <td><h1><font color="red" face="comic sans"><%= folio.finish %></font></h1></td>
+        <td>
+          <% if folio.activo? %>
+              <%= link_to 'Edit', edit_folio_path(folio), :remote => true, :class => 'btn btn-mini' %>
+              <%= link_to 'Destroy', folio_path(folio), :method => :delete, :confirm => 'Are you sure?', :class => 'btn btn-mini btn-danger' %>
+          <% end %>
+        </td>
+      </tr>
+  <% end %>
+  </tbody>
+</table>
+<center>
+  <div class="pagination">
+    <%= will_paginate @folios %>
+  </div>
+</center>

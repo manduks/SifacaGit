@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18
+END
+ParserBenchmarkExt#parser.dat
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkExt%23parser.dat
+END
+ParserBenchmarkRails#parser.dat
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkRails%23parser.dat
+END
+GeneratorBenchmarkPure#generator_safe-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure%23generator_safe-autocorrelation.dat
+END
+GeneratorBenchmarkComparison.log
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkComparison.log
+END
+GeneratorBenchmarkPure#generator_pretty.dat
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure%23generator_pretty.dat
+END
+ParserBenchmarkYAML#parser-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkYAML%23parser-autocorrelation.dat
+END
+GeneratorBenchmarkRails.log
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkRails.log
+END
+GeneratorBenchmarkExt.log
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt.log
+END
+GeneratorBenchmarkExt#generator_safe-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt%23generator_safe-autocorrelation.dat
+END
+ParserBenchmarkPure#parser.dat
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkPure%23parser.dat
+END
+GeneratorBenchmarkRails#generator-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkRails%23generator-autocorrelation.dat
+END
+GeneratorBenchmarkExt#generator_pretty.dat
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt%23generator_pretty.dat
+END
+GeneratorBenchmarkPure#generator_fast-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure%23generator_fast-autocorrelation.dat
+END
+ParserBenchmarkRails.log
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkRails.log
+END
+ParserBenchmarkExt.log
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkExt.log
+END
+GeneratorBenchmarkExt#generator_fast-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt%23generator_fast-autocorrelation.dat
+END
+GeneratorBenchmarkPure#generator_safe.dat
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure%23generator_safe.dat
+END
+ParserBenchmarkYAML#parser.dat
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkYAML%23parser.dat
+END
+ParserBenchmarkPure.log
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkPure.log
+END
+ParserBenchmarkRails#parser-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkRails%23parser-autocorrelation.dat
+END
+ParserBenchmarkExt#parser-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkExt%23parser-autocorrelation.dat
+END
+GeneratorBenchmarkExt#generator_safe.dat
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt%23generator_safe.dat
+END
+GeneratorBenchmarkRails#generator.dat
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkRails%23generator.dat
+END
+GeneratorBenchmarkPure#generator_fast.dat
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure%23generator_fast.dat
+END
+GeneratorBenchmarkPure#generator_pretty-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure%23generator_pretty-autocorrelation.dat
+END
+.keep
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/.keep
+END
+GeneratorBenchmarkPure.log
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkPure.log
+END
+ParserBenchmarkYAML.log
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkYAML.log
+END
+ParserBenchmarkPure#parser-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkPure%23parser-autocorrelation.dat
+END
+GeneratorBenchmarkExt#generator_fast.dat
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt%23generator_fast.dat
+END
+ParserBenchmarkComparison.log
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/ParserBenchmarkComparison.log
+END
+GeneratorBenchmarkExt#generator_pretty-autocorrelation.dat
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/benchmarks/data-p4-3GHz-ruby18/GeneratorBenchmarkExt%23generator_pretty-autocorrelation.dat
+END

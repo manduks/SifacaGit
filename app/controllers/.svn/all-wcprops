@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/58/trunk/app/controllers
+END
+articles_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/25/trunk/app/controllers/articles_controller.rb
+END
+application_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/app/controllers/application_controller.rb
+END
+index_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/app/controllers/index_controller.rb
+END
+invoices_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/57/trunk/app/controllers/invoices_controller.rb
+END
+resumes_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/trunk/app/controllers/resumes_controller.rb
+END
+clients_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/58/trunk/app/controllers/clients_controller.rb
+END
+users_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/52/trunk/app/controllers/users_controller.rb
+END
+students_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/54/trunk/app/controllers/students_controller.rb
+END
+folios_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/56/trunk/app/controllers/folios_controller.rb
+END

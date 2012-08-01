@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types
+END
+message.obsolete
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/message.obsolete
+END
+message
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/message
+END
+multipart.nonstandard
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/multipart.nonstandard
+END
+text.nonstandard
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/text.nonstandard
+END
+model
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/model
+END
+video.obsolete
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/video.obsolete
+END
+multipart
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/multipart
+END
+other.nonstandard
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/other.nonstandard
+END
+image.obsolete
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/image.obsolete
+END
+application.nonstandard
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/application.nonstandard
+END
+text
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/text
+END
+application
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/application
+END
+application.mac
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/application.mac
+END
+audio.obsolete
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/audio.obsolete
+END
+audio.nonstandard
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/audio.nonstandard
+END
+audio
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/audio
+END
+video.nonstandard
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/video.nonstandard
+END
+image.nonstandard
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/image.nonstandard
+END
+application.obsolete
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/application.obsolete
+END
+text.obsolete
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/text.obsolete
+END
+image
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/image
+END
+text.vms
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/text.vms
+END
+multipart.obsolete
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/multipart.obsolete
+END
+video
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/mime-types-1.17.2/lib/mime/types/video
+END

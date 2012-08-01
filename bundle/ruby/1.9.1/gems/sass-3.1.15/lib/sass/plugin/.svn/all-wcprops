@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/plugin
+END
+merb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/plugin/merb.rb
+END
+rack.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/plugin/rack.rb
+END
+generic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/plugin/generic.rb
+END
+staleness_checker.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/plugin/staleness_checker.rb
+END
+configuration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/plugin/configuration.rb
+END
+rails.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/plugin/rails.rb
+END
+compiler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-3.1.15/lib/sass/plugin/compiler.rb
+END

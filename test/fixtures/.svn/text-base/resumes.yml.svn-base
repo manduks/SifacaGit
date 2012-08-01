@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  iva: 1
+  subtotal: 1.5
+  total: 1.5
+  invoice_id: 1
+  letter_number: MyString
+  payment_condition: MyString
+  receipt: MyString
+
+two:
+  iva: 1
+  subtotal: 1.5
+  total: 1.5
+  invoice_id: 1
+  letter_number: MyString
+  payment_condition: MyString
+  receipt: MyString

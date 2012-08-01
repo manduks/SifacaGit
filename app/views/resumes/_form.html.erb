@@ -1,0 +1,53 @@
+<%= form_for @resume, :html => { :class => 'form-horizontal' } do |f| %>
+  <fieldset>
+    <legend><%= controller.action_name.capitalize %> Resume</legend>
+
+
+    <div class="control-group">
+      <%= f.label :subtotal, :class => 'control-label' %>
+      <div class="controls">
+        <%= f.text_field :subtotal, :class => 'text_field' %>
+      </div>
+    </div>
+
+    <div class="control-group">
+      <%= f.label :total, :class => 'control-label' %>
+      <div class="controls">
+        <%= f.text_field :total, :class => 'text_field' %>
+      </div>
+    </div>
+
+    <div class="control-group">
+      <%= f.label :invoice_id, :class => 'control-label' %>
+      <div class="controls">
+        <%= f.number_field :invoice_id, :class => 'number_field' %>
+      </div>
+    </div>
+
+    <div class="control-group">
+      <%= f.label :letter_number, :class => 'control-label' %>
+      <div class="controls">
+        <%= f.text_field :letter_number, :class => 'text_field' %>
+      </div>
+    </div>
+
+    <div class="control-group">
+      <%= f.label :payment_condition, :class => 'control-label' %>
+      <div class="controls">
+        <%= f.text_field :payment_condition, :class => 'text_field' %>
+      </div>
+    </div>
+
+    <div class="control-group">
+      <%= f.label :receipt, :class => 'control-label' %>
+      <div class="controls">
+        <%= f.text_field :receipt, :class => 'text_field' %>
+      </div>
+    </div>
+
+    <div class="form-actions">
+      <%= f.submit nil, :class => 'btn btn-primary' %>
+      <%= link_to 'Cancel', resumes_path, :class => 'btn' %>
+    </div>
+  </fieldset>
+<% end %>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/app/views/devise/sessions
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/app/views/devise/sessions/new.html.erb
+END
+create.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/app/views/devise/sessions/create.js.erb
+END
+_form_sign_in.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/57/trunk/app/views/devise/sessions/_form_sign_in.html.erb
+END
+new.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13/trunk/app/views/devise/sessions/new.js.erb
+END

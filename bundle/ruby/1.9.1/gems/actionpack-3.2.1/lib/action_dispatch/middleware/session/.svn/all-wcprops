@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/session
+END
+mem_cache_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/session/mem_cache_store.rb
+END
+cookie_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/session/cookie_store.rb
+END
+abstract_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/session/abstract_store.rb
+END
+cache_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/actionpack-3.2.1/lib/action_dispatch/middleware/session/cache_store.rb
+END

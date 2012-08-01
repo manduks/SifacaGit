@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-rails-3.2.4/test/fixtures/scss_project/app/assets/stylesheets/subfolder
+END
+second_level.css.scss
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-rails-3.2.4/test/fixtures/scss_project/app/assets/stylesheets/subfolder/second_level.css.scss
+END
+another_plain.css
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-rails-3.2.4/test/fixtures/scss_project/app/assets/stylesheets/subfolder/another_plain.css
+END
+plain.css
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/sass-rails-3.2.4/test/fixtures/scss_project/app/assets/stylesheets/subfolder/plain.css
+END

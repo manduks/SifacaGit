@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader
+END
+form_xobject.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/form_xobject.rb
+END
+xref.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/xref.rb
+END
+cmap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/cmap.rb
+END
+token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/token.rb
+END
+filter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/filter.rb
+END
+encoding.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/encoding.rb
+END
+glyphlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/glyphlist.txt
+END
+page_text_receiver.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/page_text_receiver.rb
+END
+abstract_strategy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/abstract_strategy.rb
+END
+font.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/font.rb
+END
+page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/page.rb
+END
+pages_strategy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/pages_strategy.rb
+END
+object_hash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/object_hash.rb
+END
+standard_security_handler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/standard_security_handler.rb
+END
+reference.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/reference.rb
+END
+register_receiver.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/register_receiver.rb
+END
+lzw.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/lzw.rb
+END
+error.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/error.rb
+END
+metadata_strategy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/metadata_strategy.rb
+END
+object_cache.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/object_cache.rb
+END
+print_receiver.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/print_receiver.rb
+END
+glyph_hash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/glyph_hash.rb
+END
+text_receiver.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/text_receiver.rb
+END
+resource_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/resource_methods.rb
+END
+page_state.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/page_state.rb
+END
+object_stream.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/object_stream.rb
+END
+stream.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/stream.rb
+END
+buffer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/buffer.rb
+END
+parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/pdf-reader-1.1.0/lib/pdf/reader/parser.rb
+END

@@ -1,0 +1,1 @@
+$("#list-folios").html("<%= escape_javascript(render("folios/folios")) %>");

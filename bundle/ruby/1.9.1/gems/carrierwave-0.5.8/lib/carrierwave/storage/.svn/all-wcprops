@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/storage
+END
+fog.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/storage/fog.rb
+END
+cloud_files.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/storage/cloud_files.rb
+END
+file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/storage/file.rb
+END
+right_s3.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/storage/right_s3.rb
+END
+abstract.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/storage/abstract.rb
+END
+s3.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/carrierwave-0.5.8/lib/carrierwave/storage/s3.rb
+END

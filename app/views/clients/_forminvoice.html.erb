@@ -1,0 +1,29 @@
+<label class="offset3">Estudiantes</label><br>
+
+<%= f.fields_for :clients, :html => {:class => 'form-inline'} do |article_form| %>
+    <div class="control-group">
+      <%= article_form.label 'Cantidad', :class => 'control-label' %>
+
+      <%= article_form.number_field :quantity, :class => 'input-small number-field' %>&nbsp;
+
+
+      <%= article_form.label 'Descripción', :class => 'control-label' %>
+
+      <%= article_form.text_field :description, :class => 'text-field' %>&nbsp;
+
+
+      <%= article_form.label 'Costo Unitario', :class => 'control-label' %>
+
+      <%= article_form.text_field :unit_cost, :class => 'input-small number-field' %>&nbsp;
+
+
+      <%= article_form.label 'iva', :class => 'control-label' %>
+
+      <%= article_form.number_field :iva, :class => 'input-small number-field' %>&nbsp;
+
+      <%= article_form.link_to_remove 'X', :class => 'btn btn-danger' %>
+
+    </div>
+
+<% end %>
+<%= f.link_to_add 'Agregar', :articles, :class => 'btn btn-success' %> 

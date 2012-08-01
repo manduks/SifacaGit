@@ -1,0 +1,83 @@
+<div id="menu_resume">
+  <%= render :partial => "shared/tbar_menu" %>
+</div>
+<%= nested_form_for @invoice, :html => {:class => 'form-inline'} do |f| %>
+    <div>
+      <fieldset>
+
+        <legend>
+          <div class="offset2">Capturar Factura</div>
+        </legend>
+
+
+        <div class="control-group">
+          <div class="span9 offset2">
+            <%= f.label 'Fecha', :class => 'control-label' %>
+            <%= f.text_field :date, :id => 'invoice_dates', :class => 'input-small datepicker' %>&nbsp;
+            <%= @invoice.errors.messages[:date][0] %>
+
+            <%= f.label 'Folio', :class => 'control-label' %>
+            <%= f.collection_select :folio_detail_id, @availableFolios, :id, :folio_detail_id, {:prompt => 'Selecciona un folio'}, :class => 'input-medium' %>&nbsp;
+            <%= @invoice.errors.messages[:folio_detail_id][0] %>
+
+            <%= f.label 'Cliente', :class => 'control-label' %>
+
+            <%= f.collection_select :client_id, Client.find_by_user_id(current_user.id), :id, :name,
+                                    {:prompt => 'Selecciona un cliente'}, :id => 'select-clientess', :class => 'input-medium' %>&nbsp;
+            <% if current_user.tax_regime == 2 %>
+                <%= f.label 'Alumnos', :class => 'control-label', :id => 'select-alumnos', :style => 'visibility: hidden' %>
+                <%= f.collection_select :student_id, Student.find(:all), :client_id, :name,
+                                        {:prompt => 'Selecciona un alumno'}, :id => 'select-alumno', :class => 'input-medium', :style => 'visibility: hidden' %>
+            <% end %>
+            <%= @invoice.errors.messages[:client_id][0] %>
+          </div>
+        </div>
+        <br><br>
+        <%= @invoice.errors.messages[:articles].nil? ? @invoice.errors.messages[:articles] : @invoice.errors.messages[:articles][0] %>
+
+        <!--<div id="form-client">
+        </div>-->
+        <% if current_user.tax_regime == 1 %>
+            <div class="control-group offset2">
+              <%= render :partial => "resumes/prof", :locals => {:f => f} %>
+            </div>
+        <% end %>
+
+        <% if current_user.tax_regime == 0 || current_user.tax_regime == 2  %>
+            <div class="control-group offset2">
+              <%= render :partial => "articles/form", :locals => {:f => f} %>
+            </div>
+
+            <br>
+
+            <div class="control-group">
+              <div class="span7 offset3">
+                <h4><label for="pago" class="label label-important">Forma de Pago: </label>&nbsp;&nbsp;&nbsp;&nbsp;
+                  Una sola
+                  exhibición:   <%= radio_button :resume, 'payment_condition', 'Una sola exhibición', :checked => true %>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  Parcialidades:   <%= radio_button :resume, 'payment_condition', 'Parcialidades' %>&nbsp; </h4>
+              </div>
+            </div>
+            <br/><br/>
+        <% end %>
+        <% if current_user.tax_regime == 0 %>
+            <div class="control-group">
+              <div class="span7 offset3">
+                <%= f.label 'Recibi de Conformidad:', :class => 'label label-important' %>
+                <%= text_field :resume, :receipt, :class => 'text-field' %>
+              </div>
+            </div>
+            <br>
+        <% end %>
+
+
+        <center>
+          <div class="form-actions">
+            <%= f.submit 'Generar Factura', :class => 'btn btn-primary' %>
+            <%= link_to 'Cancelar', resumes_path, :class => 'btn' %>
+          </div>
+        </center>
+
+      </fieldset>
+    </div>
+<% end %>

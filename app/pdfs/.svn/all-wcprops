@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/58/trunk/app/pdfs
+END
+school_pdf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/60/trunk/app/pdfs/school_pdf.rb
+END
+invoice_pdf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/60/trunk/app/pdfs/invoice_pdf.rb
+END
+resume_pdf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/60/trunk/app/pdfs/resume_pdf.rb
+END

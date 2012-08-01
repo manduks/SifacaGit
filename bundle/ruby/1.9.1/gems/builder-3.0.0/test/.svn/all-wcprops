@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/test
+END
+test_eventbuilder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/test/test_eventbuilder.rb
+END
+test_namecollision.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/test/test_namecollision.rb
+END
+preload.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/test/preload.rb
+END
+test_markupbuilder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/test/test_markupbuilder.rb
+END
+test_cssbuilder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/test/test_cssbuilder.rb
+END
+test_blankslate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/test/test_blankslate.rb
+END
+test_xchar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/test/test_xchar.rb
+END
+performance.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/builder-3.0.0/test/performance.rb
+END

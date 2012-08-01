@@ -1,0 +1,52 @@
+10
+
+dir
+59
+https://sifaca.googlecode.com/svn/trunk/app
+https://sifaca.googlecode.com/svn
+
+
+
+2012-05-10T19:19:41.609883Z
+59
+oswaldo@codetlan.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+17c493ac-d011-3b6e-b346-31d03474e215
+
+assets
+dir
+
+controllers
+dir
+
+helpers
+dir
+
+mailers
+dir
+
+models
+dir
+
+pdfs
+dir
+
+uploaders
+dir
+
+views
+dir
+

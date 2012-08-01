@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/template
+END
+.autotest.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/template/.autotest.erb
+END
+README.txt.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/template/README.txt.erb
+END
+Manifest.txt.erb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/template/Manifest.txt.erb
+END
+Rakefile.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/template/Rakefile.erb
+END
+History.txt.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/hoe-3.0.1/template/History.txt.erb
+END

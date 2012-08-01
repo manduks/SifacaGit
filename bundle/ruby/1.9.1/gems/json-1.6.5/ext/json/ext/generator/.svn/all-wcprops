@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/ext/json/ext/generator
+END
+generator.o
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/ext/json/ext/generator/generator.o
+END
+generator.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/ext/json/ext/generator/generator.c
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/ext/json/ext/generator/extconf.rb
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/ext/json/ext/generator/Makefile
+END
+generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/ext/json/ext/generator/generator.h
+END
+generator.bundle
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/json-1.6.5/ext/json/ext/generator/generator.bundle
+END

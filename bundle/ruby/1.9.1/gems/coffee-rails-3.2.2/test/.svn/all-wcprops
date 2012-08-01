@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/coffee-rails-3.2.2/test
+END
+assets_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/coffee-rails-3.2.2/test/assets_test.rb
+END
+template_handler_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/coffee-rails-3.2.2/test/template_handler_test.rb
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/coffee-rails-3.2.2/test/test_helper.rb
+END
+assets_generator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/coffee-rails-3.2.2/test/assets_generator_test.rb
+END
+scaffold_generator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/coffee-rails-3.2.2/test/scaffold_generator_test.rb
+END
+controller_generator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/bundle/ruby/1.9.1/gems/coffee-rails-3.2.2/test/controller_generator_test.rb
+END

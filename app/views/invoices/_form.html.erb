@@ -1,0 +1,82 @@
+<div id="menu_resume">
+  <%= render :partial => "shared/tbar_menu" %>
+</div>
+<div id="msg-error" class="error span3"></div> <br>
+<%= nested_form_for @invoice, :remote => true, :html => {:class => 'form-inline'} do |f| %>
+    <div>
+      <fieldset>
+
+
+        <center>
+          <div><font face="courier" color="#020001" size="5">Capturar Factura</font></div>
+        </center> </br>
+
+        <div class="control-group info">
+          <center>
+            <div class="well formcontainer">
+              <%= f.label 'Fecha', :class => 'control-label' %>
+              <%= f.text_field :date, :id => 'invoice_dates', :class => 'span2 datepicker', :placeholder => "Fecha" %>&nbsp;
+
+              <%= f.label 'Folio', :class => 'control-label' %>
+              <%= f.collection_select :folio_detail_id, @availableFolios, :id, :folio_detail_id, {:prompt => 'Selecciona un folio'}, :class => 'span2' %>&nbsp;
+
+              <%= f.label 'Cliente', :class => 'control-label' %>
+
+              <%= f.collection_select :client_id, Client.find_by_user_id(current_user.id), :id, :name,
+                                      {:prompt => 'Selecciona un cliente'}, :id => 'select-clientess', :class => 'span2' %>&nbsp;
+              <% if current_user.tax_regime == 2 %>
+                  <br><br>
+                  <%= f.label 'Alumno', :class => 'control-label', :id => 'select-alumnos', :style => 'visibility: hidden' %>
+                  <%= f.collection_select :student_id, Student.find(:all), :client_id, :name,
+                                          {:prompt => 'Selecciona un alumno'}, :id => 'select-alumno', :class => 'input-medium', :style => 'visibility: hidden' %>
+              <% end %>
+            </div>
+          </center>
+        </div>
+
+
+        <% if current_user.tax_regime == 1 %>
+            <center>
+              <div class="control-group info">
+                <div class="well formcontainer">
+                  <%= render :partial => "resumes/prof", :locals => {:f => f} %>
+                </div>
+              </div>
+            </center>
+        <% end %>
+        <center>
+          <div class="well formcontainer">
+            <% if current_user.tax_regime == 0 || current_user.tax_regime == 2 %>
+                <div class="control-group">
+                  <%= render :partial => "articles/form", :locals => {:f => f} %>
+                </div>
+                <div class="control-group info" style="text-align: left">
+                  <font face="courier" size="2">Forma de
+                    Pago: </font>&nbsp;&nbsp;
+                  <%= radio_button :resume, 'payment_condition', 'Una sola exhibición', :checked => true, :class => 'check_boxes optional' %>
+                  Una sola exhibición &nbsp;&nbsp;
+                  <%= radio_button :resume, 'payment_condition', 'Parcialidades', :class => 'check_boxes optional' %>
+                  Parcialidades
+                </div><br>
+            <% end %>
+
+            <% if current_user.tax_regime == 0 %>
+                <div class="control-group info" style="text-align: left">
+                  <font face="courier" size="2">Recibi de Conformidad: </font>
+                  <%= text_field :resume, :receipt, :class => 'text-field' %>
+                </div>
+
+            <% end %>
+          </div>
+        </center>
+
+        <center>
+          <div class="well formcontainer">
+            <%= f.submit 'Generar Factura', :remote => true, :class => 'btn btn-primary' %>
+            <%= link_to 'Cancelar', resumes_path, :class => 'btn' %>
+          </div>
+        </center>
+
+      </fieldset>
+    </div>
+<% end %>
