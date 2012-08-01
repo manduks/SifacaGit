@@ -39,7 +39,7 @@ class SchoolPdf < Prawn::Document
                            :width => 350,
                            :height => 50,
                            :overflow => :truncate,
-                           :at => [130, y_position],
+                           :at => [110, y_position],
                            :size => 13,
                            :style => :bold
 
@@ -92,7 +92,7 @@ class SchoolPdf < Prawn::Document
     cell_4 = make_cell(:content => "Domicilio:", :width => 120)
     cell_5 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).name}", :width => 410)
     cell_6 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).rfc}", :width => 410)
-    cell_7 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).street} #{Client.find(Invoice.find(@resume.invoice_id).client_id).num_int} #{Client.find(Invoice.find(@resume.invoice_id).client_id).num_ext} #{Client.find(Invoice.find(@resume.invoice_id).client_id).suburb} #{Client.find(Invoice.find(@resume.invoice_id).client_id).cp} #{Client.find(Invoice.find(@resume.invoice_id).client_id).township} #{Client.find(Invoice.find(@resume.invoice_id).client_id).state}", :width => 410)
+    cell_7 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).street} ##{Client.find(Invoice.find(@resume.invoice_id).client_id).num_ext} #{Client.find(Invoice.find(@resume.invoice_id).client_id).suburb} #{Client.find(Invoice.find(@resume.invoice_id).client_id).cp} #{Client.find(Invoice.find(@resume.invoice_id).client_id).township} #{Client.find(Invoice.find(@resume.invoice_id).client_id).state}", :width => 410)
 
 
     data = [[cell_2, cell_5],
