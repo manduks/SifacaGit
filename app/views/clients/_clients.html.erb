@@ -18,9 +18,13 @@
                   <p><b><font face="roman"><%= client.name %>
                     <h5>RFC: <%= client.rfc %></h5></font></b></p>
                 </center>
-                <p><font face="roman"><%= client.street %> No. <%= client.num_int %> int. <%= client.num_ext %>
-                  Col. <%= client.suburb %>, Del. <%= client.township %>, <%= client.state %>,
-                  C.P.<%= client.cp %></font></p>
+                <p><font face="roman"><%= client.street %> No. <%= client.num_ext %>
+                  <% if !client.num_int.empty? || client.num_int.nil? %>
+                     Int. <%= client.num_int %>
+                      <% else %>
+                  <% end %>
+                  Col. <%= client.suburb %>, <%= client.township %>, <%= client.state %>,
+                  C.P. <%= client.cp %></font></p>
               </div>
             </div>
             <div>

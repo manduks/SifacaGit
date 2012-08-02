@@ -71,8 +71,8 @@ class InvoicePdf < Prawn::Document
 
   def address
 
-    string = "CALLE #{@user.street}"+" No.#{@user.num_ext}"+" #{@user.num_int}"+" COL. #{@user.suburb},"+
-        " C.P.#{@user.cp}"+" DELEG. #{@user.township},"+" #{@user.state}"
+    string = "CALLE #{@user.street}"+" No.#{@user.num_ext}"+" #{@user.num_int}"+" Col. #{@user.suburb},"+
+        " C.P. #{@user.cp}"+" Del. #{@user.township},"+" #{@user.state}"
 
     y_position = cursor - 50
     excess_text = text_box string,
