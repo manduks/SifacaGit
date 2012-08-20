@@ -86,19 +86,22 @@ class SchoolPdf < Prawn::Document
   end
 
   def client
+    @int = Client.find(Invoice.find(@resume.invoice_id).client_id).num_int
     cell_1 = make_cell(:content => "Datos del Cliente", :align => :center, :background_color => "F5A9A9")
     cell_2 = make_cell(:content => "Nombre del Cliente:", :width => 120)
     cell_3 = make_cell(:content => "RFC del Cliente:", :width => 120)
     cell_4 = make_cell(:content => "Domicilio:", :width => 120)
     cell_5 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).name}", :width => 410)
     cell_6 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).rfc}", :width => 410)
-    cell_7 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).street} ##{Client.find(Invoice.find(@resume.invoice_id).client_id).num_ext} Col. #{Client.find(Invoice.find(@resume.invoice_id).client_id).suburb} C.P. #{Client.find(Invoice.find(@resume.invoice_id).client_id).cp} #{Client.find(Invoice.find(@resume.invoice_id).client_id).township} #{Client.find(Invoice.find(@resume.invoice_id).client_id).state}", :width => 410)
+    if !Client.find(Invoice.find(@resume.invoice_id).client_id).num_int.empty? || Client.find(Invoice.find(@resume.invoice_id).client_id).num_int.nil?
+    cell_7 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).street} ##{Client.find(Invoice.find(@resume.invoice_id).client_id).num_ext} Int. #{@int} Col. #{Client.find(Invoice.find(@resume.invoice_id).client_id).suburb} C.P. #{Client.find(Invoice.find(@resume.invoice_id).client_id).cp}, #{Client.find(Invoice.find(@resume.invoice_id).client_id).township}, #{Client.find(Invoice.find(@resume.invoice_id).client_id).state}", :width => 410)
+    else
+    cell_7 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).street} ##{Client.find(Invoice.find(@resume.invoice_id).client_id).num_ext} Col. #{Client.find(Invoice.find(@resume.invoice_id).client_id).suburb} C.P. #{Client.find(Invoice.find(@resume.invoice_id).client_id).cp}, #{Client.find(Invoice.find(@resume.invoice_id).client_id).township}, #{Client.find(Invoice.find(@resume.invoice_id).client_id).state}", :width => 410)
+    end
 
-
-    data = [[cell_2, cell_5],
+      data = [[cell_2, cell_5],
             [cell_3, cell_6],
-            [cell_4, cell_7]
-    ]
+            [cell_4, cell_7]]
 
     move_down 20
     table([[cell_1], [data]])
