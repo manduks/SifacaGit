@@ -94,9 +94,9 @@ class SchoolPdf < Prawn::Document
     cell_5 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).name}", :width => 410)
     cell_6 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).rfc}", :width => 410)
     if !Client.find(Invoice.find(@resume.invoice_id).client_id).num_int.empty? || Client.find(Invoice.find(@resume.invoice_id).client_id).num_int.nil?
-    cell_7 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).street} ##{Client.find(Invoice.find(@resume.invoice_id).client_id).num_ext} Int. #{@int} Col. #{Client.find(Invoice.find(@resume.invoice_id).client_id).suburb} C.P. #{Client.find(Invoice.find(@resume.invoice_id).client_id).cp}, #{Client.find(Invoice.find(@resume.invoice_id).client_id).township}, #{Client.find(Invoice.find(@resume.invoice_id).client_id).state}", :width => 410)
+    cell_7 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).street} ##{Client.find(Invoice.find(@resume.invoice_id).client_id).num_ext}, #{@int} Col. #{Client.find(Invoice.find(@resume.invoice_id).client_id).suburb}, C.P. #{Client.find(Invoice.find(@resume.invoice_id).client_id).cp}, #{Client.find(Invoice.find(@resume.invoice_id).client_id).township}, #{Client.find(Invoice.find(@resume.invoice_id).client_id).state}", :width => 410)
     else
-    cell_7 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).street} ##{Client.find(Invoice.find(@resume.invoice_id).client_id).num_ext} Col. #{Client.find(Invoice.find(@resume.invoice_id).client_id).suburb} C.P. #{Client.find(Invoice.find(@resume.invoice_id).client_id).cp}, #{Client.find(Invoice.find(@resume.invoice_id).client_id).township}, #{Client.find(Invoice.find(@resume.invoice_id).client_id).state}", :width => 410)
+    cell_7 = make_cell(:content => "#{Client.find(Invoice.find(@resume.invoice_id).client_id).street} #{Client.find(Invoice.find(@resume.invoice_id).client_id).num_ext}, Col. #{Client.find(Invoice.find(@resume.invoice_id).client_id).suburb}, C.P. #{Client.find(Invoice.find(@resume.invoice_id).client_id).cp}, #{Client.find(Invoice.find(@resume.invoice_id).client_id).township}, #{Client.find(Invoice.find(@resume.invoice_id).client_id).state}", :width => 410)
     end
 
       data = [[cell_2, cell_5],
