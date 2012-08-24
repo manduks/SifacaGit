@@ -38,7 +38,7 @@
       <file leaf-file-name="invoices_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/invoices_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="52" selection-start="5106" selection-end="5106" vertical-scroll-proportion="0.68472904">
+            <state line="142" column="57" selection-start="4911" selection-end="4911" vertical-scroll-proportion="0.6059113">
               <folding />
             </state>
           </provider>
@@ -1402,7 +1402,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/invoices_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="52" selection-start="5106" selection-end="5106" vertical-scroll-proportion="0.68472904">
+        <state line="142" column="57" selection-start="4911" selection-end="4911" vertical-scroll-proportion="0.6059113">
           <folding />
         </state>
       </provider>
