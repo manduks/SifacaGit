@@ -47,8 +47,12 @@ class ResumesController < ApplicationController
       format.html # show.html.erb
       format.json { render json: @resume }
       format.pdf do
+        #if @flag == 0
+         # pdf = ResumePdf.new(@resume, @user, view_context)
+          #@name = "General"
+        #end
         if @flag == 0
-          pdf = ResumePdf.new(@resume, @user, view_context)
+          pdf = InvoicefisPdf.new(@resume, @user, view_context)
           @name = "General"
         end
         if @flag == 1
@@ -56,7 +60,6 @@ class ResumesController < ApplicationController
           @name = "Honorarios"
         end
         if @flag == 2
-          logger.debug("entro")
           pdf = SchoolPdf.new(@resume, @user, view_context)
           @name = "Escuela"
         end

@@ -139,7 +139,12 @@ class InvoicesController < ApplicationController
           end
           @resume.subtotal = @subtotal
           @resume.total = @subtotal + @total
-          @totals = number_with_precision(@resume.total, :precision => 2)
+          #@totals = number_with_precision(@resume.total, :precision => 2)
+          #@resume.letter_number = @totals.to_f.to_words.capitalize << " pesos " << (@totals.to_f.to_s.split(".")[1] || 0).rjust(2, '0')<< "/100 M.N."
+          if (@regime == 0 && validateRfc(@rfc))
+            @resume.ret_iva = number_with_precision(((@resume.total - @resume.subtotal)/3)*2, :precision => 2)
+          end
+          @totals = number_with_precision(@resume.total-@resume.ret_iva, :precision => 2)
           @resume.letter_number = @totals.to_f.to_words.capitalize << " pesos " << (@totals.to_f.to_s.split(".")[1] || 0).rjust(2, '0')<< "/100 M.N."
           @resume.save
         end

@@ -25,7 +25,7 @@ Sifaca::Application.configure do
       authentication: "plain",
       enable_starttls_auto: true,
       user_name: "waldix86@gmail.com",
-      password: "patito86"
+      password: "axgucci86"
   }
 
   config.action_mailer.default :charset => "utf-8"
