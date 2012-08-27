@@ -41,7 +41,7 @@ class InvoicefisPdf < Prawn::Document
                            :width => 350,
                            :height => 50,
                            :overflow => :truncate,
-                           :at => [150, y_position],
+                           :at => [120, y_position],
                            :size => 15,
                            :style => :bold
 
@@ -53,15 +53,15 @@ class InvoicefisPdf < Prawn::Document
 
   def users
 
-    string = " #{@user.street}"+" N.#{@user.num_ext}"+" #{@user.num_int}"+" Col. #{@user.suburb}"+
-        " Del. #{@user.township}"+" C.P.#{@user.cp}"+" #{@user.state}"+" RFC. #{@user.rfc}"
+    string = " #{@user.street}"+" N.#{@user.num_ext}"+" Int. #{@user.num_int}"+" Col. #{@user.suburb}"+
+        " Del. #{@user.township}"+" C.P.#{@user.cp}"+" #{@user.state}"+" RFC:#{@user.rfc}"+" CURP:#{ @user.curp}"
 
     y_position = cursor - 30
     excess_text = text_box string,
-                           :width => 229,
+                           :width => 215,
                            :height => 50,
                            :overflow => :truncate,
-                           :at => [160, y_position],
+                           :at => [135, y_position],
                            :size => 11
 
     text_box excess_text,
@@ -110,13 +110,13 @@ class InvoicefisPdf < Prawn::Document
     cell_1 = make_cell(:content => "", :borders => [:top, :right, :left], :width => 80)
     cell_2 = make_cell(:content => "", :width => 250)
     cell_3 = make_cell(:content => "I.V.A. 16 %", :background_color => "D3D3D3")
-    cell_4 = make_cell(:content => "#{number_to_currency(@resume.total - @resume.subtotal, :unit => "$")}", :align => :right)
+    cell_4 = make_cell(:content => "#{number_to_currency(@resume.iva, :unit => "$")}", :align => :right)
     cell_5 = make_cell(:content => "Subtotal", :background_color => "D3D3D3", :width => 100)
-    cell_6 = make_cell(:content => "#{number_to_currency(@resume.total, :unit => "$")}", :align => :right, :width => 100)
+    cell_6 = make_cell(:content => "#{number_to_currency(@resume.subtotal+@resume.iva, :unit => "$")}", :align => :right, :width => 100)
     cell_7 = make_cell(:content => "Ret de IVA", :background_color => "D3D3D3")
     cell_8 = make_cell(:content => "#{number_to_currency(@resume.ret_iva, :unit => "$ ")}", :align => :right)
     cell_9 = make_cell(:content => "Total", :background_color => "D3D3D3")
-    cell_10 = make_cell(:content => "#{number_to_currency(@resume.total-@resume.ret_iva, :unit => "$")}", :align => :right)
+    cell_10 = make_cell(:content => "#{number_to_currency(@resume.total, :unit => "$")}", :align => :right)
 
 
     data = [[cell_1, cell_2, cell_3, cell_4],

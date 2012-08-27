@@ -8,6 +8,7 @@ class ResumesController < ApplicationController
     @resumes = []
     logger.debug(@resumes)
     @withoutClients = false
+    @rfc_user = validateRfc(User.find(current_user.id).rfc)
 
     if (@clients.nil? || @clients.empty?) && params[:search]
       @withoutClients = true
@@ -40,6 +41,7 @@ class ResumesController < ApplicationController
     @folio = FolioDetail.find(Invoice.find(@resume.invoice_id).folio_detail_id).folio_detail_id
     @client = Client.find(Invoice.find(@resume.invoice_id).client_id)
     @dir = after_create(@user)
+    @rfc_user = User.find(current_user.id).rfc
     #attachments["Folio_#{@folio}.pdf}"] = File.read("#{Rails.root}/public/uploads/pdfs/"+"#{user.id}"+"Folio_#{@folio}.pdf}")
 
 
@@ -47,13 +49,14 @@ class ResumesController < ApplicationController
       format.html # show.html.erb
       format.json { render json: @resume }
       format.pdf do
-        #if @flag == 0
-         # pdf = ResumePdf.new(@resume, @user, view_context)
-          #@name = "General"
-        #end
         if @flag == 0
-          pdf = InvoicefisPdf.new(@resume, @user, view_context)
-          @name = "General"
+          if validateRfc(@rfc_user)
+            pdf = ResumePdf.new(@resume, @user, view_context)
+            @name = "General"
+          else
+            pdf = InvoicefisPdf.new(@resume, @user, view_context)
+            @name = "General"
+          end
         end
         if @flag == 1
           pdf = InvoicePdf.new(@resume, @user, view_context)
@@ -150,6 +153,12 @@ class ResumesController < ApplicationController
       format.html { redirect_to resumes_url }
       #format.json { head :no_content }
     end
+  end
+
+  def validateRfc(rfc)
+    r = rfc[3]
+    b = (/[0-9]/ === r)
+    return b
   end
 
 end
