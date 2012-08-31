@@ -50,13 +50,13 @@ class ResumesController < ApplicationController
       format.json { render json: @resume }
       format.pdf do
         if @flag == 0
-          if validateRfc(@rfc_user)
+          #if validateRfc(@rfc_user)
             pdf = ResumePdf.new(@resume, @user, view_context)
             @name = "General"
-          else
-            pdf = InvoicefisPdf.new(@resume, @user, view_context)
-            @name = "General"
-          end
+          #else
+           # pdf = InvoicefisPdf.new(@resume, @user, view_context)
+           # @name = "General"
+          #end
         end
         if @flag == 1
           pdf = InvoicePdf.new(@resume, @user, view_context)

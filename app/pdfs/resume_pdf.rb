@@ -41,7 +41,7 @@ class ResumePdf < Prawn::Document
                            :width => 350,
                            :height => 50,
                            :overflow => :truncate,
-                           :at => [150, y_position],
+                           :at => [160, y_position],
                            :size => 15,
                            :style => :bold
 
@@ -53,12 +53,12 @@ class ResumePdf < Prawn::Document
 
   def users
 
-    string = " #{@user.street}"+" N.#{@user.num_ext}"+" #{@user.num_int}"+" Col. #{@user.suburb}"+
-        " Del. #{@user.township}"+" C.P.#{@user.cp}"+" #{@user.state}"+" RFC. #{@user.rfc}"
+    string = " #{@user.street}"+" N.#{@user.num_ext}"+" #{@user.num_int}"+" Col. #{@user.suburb},"+
+        " Del. #{@user.township},"+" C.P.#{@user.cp},"+" #{@user.state}"+" RFC.#{@user.rfc}"
 
     y_position = cursor - 30
     excess_text = text_box string,
-                           :width => 229,
+                           :width => 220,
                            :height => 50,
                            :overflow => :truncate,
                            :at => [160, y_position],
