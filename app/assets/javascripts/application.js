@@ -131,14 +131,14 @@ $(function () {
 
 $(function () {
     $("#clientrfc").live('blur', function () {
-        var valor = $(this).val();
-        str = valor.substring(3, 4);
-        if (isNaN(str)) {
+        //var valor = $(this).val();
+        //str = valor.substring(3, 4);
+        //if (isNaN(str)) {
             $("#students").css({visibility:'visible'});
-        }
-        else {
-            $("#students").css({visibility:'hidden'});
-        }
+        //}
+        //else {
+            //$("#students").css({visibility:'hidden'});
+        //}
     });
 });
 
