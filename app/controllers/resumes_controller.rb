@@ -66,14 +66,12 @@ class ResumesController < ApplicationController
           pdf = SchoolPdf.new(@resume, @user, view_context)
           @name = "Escuela"
         end
-
-        send_data pdf.render, :filename => "Folio-#{@folio}.pdf", :type => 'application/pdf', :disposition => 'inline'
+        send_data pdf.render, :filename => "Folio_#{@folio}.pdf", :type => 'application/pdf', :disposition => 'inline'
         pdf.render_file File.join(Rails.root, "public/uploads/pdfs/"+"#{@user.id}", "Folio_#{@folio}.pdf")
 
       end
 
     end
-    # ClientMailer.pdf_delivery(@client, @folio, @user).deliver
   end
 
   # GET /resumes/new
@@ -148,11 +146,32 @@ class ResumesController < ApplicationController
     @resume = Resume.find(params[:id])
     @folio = FolioDetail.find(Invoice.find(@resume.invoice_id).folio_detail_id).folio_detail_id
     @client = Client.find(Invoice.find(@resume.invoice_id).client_id)
+    @flag = User.find(current_user.id).tax_regime
+    if @flag == 0
+      #if validateRfc(@rfc_user)
+      pdf = ResumePdf.new(@resume, @user, view_context)
+      @name = "General"
+      #else
+      # pdf = InvoicefisPdf.new(@resume, @user, view_context)
+      #@name = "General"
+      #end
+    end
+    if @flag == 1
+      pdf = InvoicePdf.new(@resume, @user, view_context)
+      @name = "Honorarios"
+    end
+    if @flag == 2
+      pdf = SchoolPdf.new(@resume, @user, view_context)
+      @name = "Escuela"
+    end
+    pdf.render_file File.join(Rails.root, "public/uploads/pdfs/"+"#{@user.id}", "Folio_#{@folio}.pdf")
     ClientMailer.pdf_delivery(@client, @folio, @user).deliver
+
     respond_to do |format|
       format.html { redirect_to resumes_url }
       #format.json { head :no_content }
     end
+
   end
 
   def validateRfc(rfc)
