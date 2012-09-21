@@ -4,11 +4,11 @@
     <th>Cliente</th>
     <th>RFC</th>
     <th>Subtotal</th>
-    <% if !@rfc_user %>
+    <!--< if !@rfc_user %>
         <th>I.V.A</th>
-    <% else %>
-        <th>Ret. I.V.A</th>
-    <% end %>
+    < else %> -->
+    <th>Ret. I.V.A</th>
+    <!--< end %>-->
     <th>Total</th>
     <th>Tipo de Pago</th>
     <th>Fecha de Pago</th>
@@ -27,13 +27,13 @@
       <td><%= @folio_detail_id %></td>
       <td><%= Client.find(Invoice.find(resume.invoice_id).client_id).name %></td>
       <td><%= Client.find(Invoice.find(resume.invoice_id).client_id).rfc %></td>
-      <% if !@rfc_user %>
-          <td><%= number_to_currency(resume.subtotal, :unit => "$") %></td>
-          <td><%= number_to_currency(resume.iva, :unit => "$") %></td>
-      <% else %>
-          <td><%= number_to_currency(resume.subtotal+resume.iva, :unit => "$") %></td>
-          <td><%= number_to_currency(resume.ret_iva, :unit => "$") %></td>
-      <% end %>
+      <!--< if !@rfc_user %>
+          <td><= number_to_currency(resume.subtotal, :unit => "$") %></td>
+          <td><= number_to_currency(resume.iva, :unit => "$") %></td>
+      < else %>-->
+      <td><%= number_to_currency(resume.subtotal+resume.iva, :unit => "$") %></td>
+      <td><%= number_to_currency(resume.ret_iva, :unit => "$") %></td>
+      <!--< end %> -->
       <td><%= number_to_currency(resume.total, :unit => "$") %></td>
       <td><%= resume.payment_condition %></td>
       <td><%= Invoice.find(resume.invoice_id).date.strftime("%d-%m-%Y") %></td>
