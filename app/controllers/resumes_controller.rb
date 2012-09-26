@@ -149,11 +149,11 @@ class ResumesController < ApplicationController
     @flag = User.find(current_user.id).tax_regime
     if @flag == 0
       #if validateRfc(@rfc_user)
-      #pdf = ResumePdf.new(@resume, @user, view_context)
-      #@name = "General"
-      #else
-      pdf = InvoicefisPdf.new(@resume, @user, view_context)
+      pdf = ResumePdf.new(@resume, @user, view_context)
       @name = "General"
+      #else
+      #pdf = InvoicefisPdf.new(@resume, @user, view_context)
+      #@name = "General"
       #end
     end
     if @flag == 1
