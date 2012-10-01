@@ -92,7 +92,7 @@ class InvoicesController < ApplicationController
     end
 
 
-    if @regime == 0
+    if @regime == 0 || @regime == 4
       if !params[:invoice][:articles_attributes]["0"].nil? &&
           (params[:invoice][:articles_attributes]["0"][:quantity].nil? ||
               params[:invoice][:articles_attributes]["0"][:quantity].empty?)
@@ -130,7 +130,7 @@ class InvoicesController < ApplicationController
         @folioDetail.save
         @article.invoice_id = Invoice.maximum("id")
         @resume.invoice_id = Invoice.maximum("id")
-        if @regime == 0 || @regime == 2
+        if @regime == 0 || @regime == 2 || @regime == 4
           @articles = Article.find_all_by_invoice_id(@article.invoice_id)
           @subtotal = 0
           @total = 0
@@ -140,15 +140,16 @@ class InvoicesController < ApplicationController
           end
           @resume.subtotal = @subtotal
           @resume.total = @subtotal + @total
-          #if validateRfc(@rfc_user)
+          if @regime == 0
             @resume.iva = number_with_precision(@resume.total - @resume.subtotal, :precision => 2)
             @totals = number_with_precision(@resume.total, :precision => 2)
-          #else
-            #@resume.iva = number_with_precision(@resume.subtotal * 0.16, :precision => 2)
-            #@resume.ret_iva = number_with_precision(((@resume.total - @resume.subtotal)/3)*2, :precision => 2)
-            #@totals = number_with_precision(@resume.total-@resume.ret_iva, :precision => 2)
-            @resume.total = @totals
-          #end
+          end
+          if @regime == 4
+            @resume.iva = number_with_precision(@resume.subtotal * 0.16, :precision => 2)
+            @resume.ret_iva = number_with_precision(((@resume.total - @resume.subtotal)/3)*2, :precision => 2)
+            @totals = number_with_precision(@resume.total-@resume.ret_iva, :precision => 2)
+          end
+          @resume.total = @totals
           @resume.letter_number = @totals.to_f.to_words.capitalize << " pesos " << (@totals.to_f.to_s.split(".")[1] || 0).rjust(2, '0')<< "/100 M.N."
           @resume.save
           #@resume.letter_number = @totals.to_f.to_words.capitalize << " pesos " << (@totals.to_f.to_s.split(".")[1] || 0).rjust(2, '0')<< "/100 M.N."

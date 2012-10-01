@@ -18,7 +18,7 @@
     </div>
   </div>
   <div id="list-resumes">
-    <% if current_user.tax_regime == 0 %>
+    <% if current_user.tax_regime == 0 || current_user.tax_regime == 4 %>
         <%= render :partial => 'resumes/resumes' %>
     <% end %>
     <% if current_user.tax_regime == 1 %>

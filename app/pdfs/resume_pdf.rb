@@ -41,7 +41,7 @@ class ResumePdf < Prawn::Document
                            :width => 350,
                            :height => 50,
                            :overflow => :truncate,
-                           :at => [160, y_position],
+                           :at => [150, y_position],
                            :size => 15,
                            :style => :bold
 
@@ -58,10 +58,10 @@ class ResumePdf < Prawn::Document
 
     y_position = cursor - 30
     excess_text = text_box string,
-                           :width => 220,
+                           :width => 230,
                            :height => 50,
                            :overflow => :truncate,
-                           :at => [160, y_position],
+                           :at => [170, y_position],
                            :size => 11
 
     text_box excess_text,

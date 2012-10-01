@@ -46,7 +46,7 @@
         <% end %>
         <center>
           <div class="well formcontainer">
-            <% if current_user.tax_regime == 0 || current_user.tax_regime == 2 %>
+            <% if current_user.tax_regime == 0 || current_user.tax_regime == 2 || current_user.tax_regime == 4 %>
                 <div class="control-group">
                   <%= render :partial => "articles/form", :locals => {:f => f} %>
                 </div>
@@ -60,7 +60,7 @@
                 </div><br>
             <% end %>
 
-            <% if current_user.tax_regime == 0 %>
+            <% if current_user.tax_regime == 0 || current_user.tax_regime == 4 %>
                 <div class="control-group info" style="text-align: left">
                   <font face="courier" size="2">Recibi de Conformidad: </font>
                   <%= text_field :resume, :receipt, :class => 'text-field' %>

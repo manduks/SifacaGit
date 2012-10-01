@@ -24,7 +24,7 @@ class ResumesController < ApplicationController
     end
 
     @resumes = @resumes.paginate(:per_page => 10, :page => params[:page])
-
+    logger.debug(@resumes)
     respond_to do |format|
       format.html # index.html.erb
       format.json { render json: @resumes }
@@ -50,13 +50,8 @@ class ResumesController < ApplicationController
       format.json { render json: @resume }
       format.pdf do
         if @flag == 0
-          #if validateRfc(@rfc_user)
-            #pdf = ResumePdf.new(@resume, @user, view_context)
-            #@name = "General"
-          #else
-          pdf = InvoicefisPdf.new(@resume, @user, view_context)
-          @name = "General"
-          #end
+            pdf = ResumePdf.new(@resume, @user, view_context)
+            @name = "General"
         end
         if @flag == 1
           pdf = InvoicePdf.new(@resume, @user, view_context)
@@ -66,11 +61,13 @@ class ResumesController < ApplicationController
           pdf = SchoolPdf.new(@resume, @user, view_context)
           @name = "Escuela"
         end
+        if @flag == 4
+          pdf = InvoicefisPdf.new(@resume, @user, view_context)
+          @name = "General"
+        end
         send_data pdf.render, :filename => "Folio_#{@folio}.pdf", :type => 'application/pdf', :disposition => 'inline'
         pdf.render_file File.join(Rails.root, "public/uploads/pdfs/"+"#{@user.id}", "Folio_#{@folio}.pdf")
-
       end
-
     end
   end
 
@@ -148,13 +145,8 @@ class ResumesController < ApplicationController
     @client = Client.find(Invoice.find(@resume.invoice_id).client_id)
     @flag = User.find(current_user.id).tax_regime
     if @flag == 0
-      #if validateRfc(@rfc_user)
       pdf = ResumePdf.new(@resume, @user, view_context)
       @name = "General"
-      #else
-      #pdf = InvoicefisPdf.new(@resume, @user, view_context)
-      #@name = "General"
-      #end
     end
     if @flag == 1
       pdf = InvoicePdf.new(@resume, @user, view_context)
@@ -163,6 +155,10 @@ class ResumesController < ApplicationController
     if @flag == 2
       pdf = SchoolPdf.new(@resume, @user, view_context)
       @name = "Escuela"
+    end
+    if @flag == 4
+      pdf = InvoicefisPdf.new(@resume, @user, view_context)
+      @name = "General"
     end
     pdf.render_file File.join(Rails.root, "public/uploads/pdfs/"+"#{@user.id}", "Folio_#{@folio}.pdf")
     ClientMailer.pdf_delivery(@client, @folio, @user).deliver
