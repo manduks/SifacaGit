@@ -50,7 +50,6 @@ class SchoolPdf < Prawn::Document
   end
 
   def users
-
     string = " #{@user.street}"+" N.#{@user.num_ext}"+" #{@user.num_int}"+"Col. #{@user.suburb}"+
         " Del. #{@user.township}"+" C.P. #{@user.cp}"+" #{@user.state}"+" RFC. #{@user.rfc}"
 
@@ -60,6 +59,22 @@ class SchoolPdf < Prawn::Document
                            :height => 50,
                            :overflow => :truncate,
                            :at => [160, y_position],
+                           :size => 11
+
+    text_box excess_text,
+             :width => 300,
+             :at => [100, y_position - 50]
+  end
+
+  def regime
+    string = "#{@user.regime}"
+
+    y_position = cursor - 80
+    excess_text = text_box string,
+                           :width => 230,
+                           :height => 50,
+                           :overflow => :truncate,
+                           :at => [170, y_position],
                            :size => 11
 
     text_box excess_text,

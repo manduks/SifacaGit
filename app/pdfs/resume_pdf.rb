@@ -69,6 +69,22 @@ class ResumePdf < Prawn::Document
              :at => [100, y_position - 50]
   end
 
+  def regime
+    string = "#{@user.regime}"
+
+    y_position = cursor - 80
+    excess_text = text_box string,
+                           :width => 230,
+                           :height => 50,
+                           :overflow => :truncate,
+                           :at => [170, y_position],
+                           :size => 11
+
+    text_box excess_text,
+             :width => 300,
+             :at => [100, y_position - 50]
+  end
+
   def folio
     cell_1 = make_cell(:content => "Factura ", :align => :center, :size => 10, :background_color => "D3D3D3")
     cell_2 = make_cell(:content => "No. de Folio:", :size => 10)

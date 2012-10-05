@@ -10,52 +10,54 @@
 
         <%= f.select :tax_regime, [['General', 0], ['Honorarios Profesionales', 1], ['Escuelas', 2], ['Arrendamiento', 3], ['Persona Moral', 4]], {:include_blank => false}, :id => "tax", :class => 'checkbox' %>&nbsp;&nbsp;
 
-        <%= f.label 'Nombre:', :class => 'control-label' %>
+        <!--<= f.label 'Regimen', :class => 'control-label' %>
+        <= f.text_field :regime, :value => current_user.regime, :class => 'text_field' %>-->
+        <br><br>
+        &nbsp;&nbsp;<%= f.label 'Nombre:', :class => 'control-label' %>
 
         <%= f.text_field :name, :value => current_user.name, :class => 'text_field' %>&nbsp;&nbsp;
-        <br><br>
-        &nbsp;&nbsp;<%= f.label 'RFC:', :class => 'control-label' %>
+
+        <%= f.label 'RFC:', :class => 'control-label' %>
 
         <%= f.text_field :rfc, :value => current_user.rfc, :class => 'input-medium text_field' %>
 
         <%= f.label 'CURP:', :class => 'control-label' %>
 
         <%= f.text_field :curp, :value => current_user.curp, :class => 'input-medium text_field' %>
-
+        <br><br>
         &nbsp;&nbsp;<%= f.label 'Calle:', :class => 'control-label' %>
 
         <%= f.text_field :street, :value => current_user.street, :class => 'text_field' %>&nbsp;&nbsp;
-        <br><br>
-        &nbsp;&nbsp;<%= f.label 'Num_ext:', :class => 'control-label' %>
+
+        <%= f.label 'Num_ext:', :class => 'control-label' %>
 
         <%= f.text_field :num_ext, :value => current_user.num_ext, :class => 'input-small text_field' %>
 
         <%= f.label 'Num_int:', :class => 'control-label' %>
 
         <%= f.text_field :num_int, :value => current_user.num_int, :class => 'input-small text_field' %>&nbsp;&nbsp;
-
-        <%= f.label 'Colonia:', :class => 'control-label' %>
+        <br><br>
+        &nbsp;&nbsp;<%= f.label 'Colonia:', :class => 'control-label' %>
 
         <%= f.text_field :suburb, :value => current_user.suburb, :class => 'input-small text_field' %>&nbsp;&nbsp;
 
         <%= f.label 'CP', :class => 'control-label' %>
 
         <%= f.number_field :cp, :value => current_user.cp, :class => 'input-small number_field' %>&nbsp;&nbsp;
-        <br><br>
-        &nbsp;&nbsp;<%= f.label 'Delegacion:', :class => 'control-label' %>
+
+        <%= f.label 'Delegacion:', :class => 'control-label' %>
 
         <%= f.text_field :township, :value => current_user.township, :class => 'input-medium text_field' %>&nbsp;&nbsp;
 
         <%= f.label 'Estado:', :class => 'control-label' %>
 
         <%= f.text_field :state, :value => current_user.state, :class => 'input-medium  text_field' %>
-
+        <br><br>
         &nbsp;&nbsp;<%= f.label 'Email:', :class => 'control-label' %>
 
         <%= f.text_field :email, :value => current_user.email, :class => 'text_field' %>
 
-        <br><br>
-        &nbsp;&nbsp;<%= f.label 'Logo Empresa:', :class => 'control-label' %>
+        <%= f.label 'Logo Empresa:', :class => 'control-label' %>
 
         <%= f.file_field :logo_emp, :value => current_user.logo_emp.to_s, :class => 'controls' %>
         <center>

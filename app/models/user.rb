@@ -13,6 +13,7 @@ class User < ActiveRecord::Base
   # Setup accessible (or protected) attributes for your model
   attr_accessible :email, :password, :password_confirmation, :remember_me, :name, :rfc, :street, :num_ext, :num_int,
                   :suburb, :township, :state, :cp, :logo_emp, :username, :tax_regime, :active, :curp
+  #, :regime
 
   mount_uploader :logo_emp, LogoEmpUploader
 

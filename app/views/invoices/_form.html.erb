@@ -58,6 +58,14 @@
                   <%= radio_button :resume, 'payment_condition', 'Parcialidades', :class => 'check_boxes optional' %>
                   Parcialidades
                 </div><br>
+                <!--<div class="control-group info" style="text-align: left">
+                  <font face="courier" size="2">Sistema de Pago: </font>&nbsp;&nbsp;
+                  <= select :resume, 'payment_system', [['Efectivo', 0], ['Transferencia', 1], ['Deposito', 2]], {:include_blank => false}, :id => "payment", :class => 'checkbox' %>
+                </div><br>
+                <div class="control-group info" style="text-align: left">
+                  <font face="courier" size="2">No. de Cuenta: </font>&nbsp;&nbsp;
+                  <= text_field :resume, :account_number, :class => 'text-field' %>
+                </div><br>-->
             <% end %>
 
             <% if current_user.tax_regime == 0 || current_user.tax_regime == 4 %>
@@ -69,6 +77,7 @@
             <% end %>
           </div>
         </center>
+
 
         <center>
           <div class="well formcontainer">

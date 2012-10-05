@@ -2,7 +2,9 @@ class Resume < ActiveRecord::Base
   belongs_to :invoice
   #has_one :invoice
 
-  attr_accessible :concept, :iva, :letter_number, :places, :quantity, :ret_isr, :ret_iva, :subtotal, :total, :payment_condition, :receipt
+  attr_accessible :concept, :iva, :letter_number, :places, :quantity, :ret_isr, :ret_iva, :subtotal, :total,
+                  :payment_condition, :receipt
+                  #, :payment_system, :account_number
 
 
   def self.search(search)
