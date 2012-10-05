@@ -140,7 +140,7 @@ class InvoicesController < ApplicationController
           end
           @resume.subtotal = @subtotal
           @resume.total = @subtotal + @total
-          if @regime == 0
+          if @regime == 0 || @regime == 2
             @resume.iva = number_with_precision(@resume.total - @resume.subtotal, :precision => 2)
             @totals = number_with_precision(@resume.total, :precision => 2)
             @resume.total = @totals
