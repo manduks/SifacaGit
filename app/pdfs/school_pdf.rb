@@ -177,10 +177,10 @@ class SchoolPdf < Prawn::Document
 
 
   def arts
-    cell_1 = make_cell(:content => "Cantidad", :align => :center, :width => 80, :background_color => "F5A9A9")
-    cell_2 = make_cell(:content => "Clase de Mercancias o Descripcion", :align => :center, :width => 260, :background_color => "F5A9A9")
+    cell_1 = make_cell(:content => "Cantidad", :align => :center, :width => 58, :background_color => "F5A9A9")
+    cell_2 = make_cell(:content => "Clase de Mercancias o Descripcion", :align => :center, :width => 297, :background_color => "F5A9A9")
     cell_3 = make_cell(:content => "Valor por Unidad", :align => :center, :width => 100, :background_color => "F5A9A9")
-    cell_4 = make_cell(:content => "Total", :align => :center, :width => 90, :background_color => "F5A9A9")
+    cell_4 = make_cell(:content => "Total", :align => :center, :width => 75, :background_color => "F5A9A9")
 
     data = [[cell_1, cell_2, cell_3, cell_4]]
 
