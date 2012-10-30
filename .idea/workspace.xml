@@ -3,24 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8210c116-3a3f-4a32-b474-1f1f73279c10" name="Default" comment="[ODLG] Modificaciones de Formularios.">
       <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20120523153745_add_column_to_resumes.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20121003064825_add_column_to_resumes2.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SifacaGit.iml" afterPath="$PROJECT_DIR$/.idea/SifacaGit.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/development.sqlite3" afterPath="$PROJECT_DIR$/db/development.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-6882f26ab7e5cf8cd9c7994c1c2a1271.css.gz" afterPath="$PROJECT_DIR$/public/assets/application-6882f26ab7e5cf8cd9c7994c1c2a1271.css.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-cac9a756d9a1b3c81c5303d740f49a99.js.gz" afterPath="$PROJECT_DIR$/public/assets/application-cac9a756d9a1b3c81c5303d740f49a99.js.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application.css.gz" afterPath="$PROJECT_DIR$/public/assets/application.css.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application.js.gz" afterPath="$PROJECT_DIR$/public/assets/application.js.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/codetlan-f9caea8e087aab71509f9fe10e43cb1b.png" afterPath="$PROJECT_DIR$/public/assets/codetlan-f9caea8e087aab71509f9fe10e43cb1b.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/codetlan.png" afterPath="$PROJECT_DIR$/public/assets/codetlan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20121002190507_add_column_to_resumes.rb" afterPath="$PROJECT_DIR$/db/migrate/20121002190507_add_column_to_resumes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/manifest.yml" afterPath="$PROJECT_DIR$/public/assets/manifest.yml" />
     </list>
     <ignored path="SifacaGit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,7 +41,7 @@
       <file leaf-file-name="20121002190507_add_column_to_resumes.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db/migrate/20121002190507_add_column_to_resumes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="31" selection-start="829" selection-end="829" vertical-scroll-proportion="0.39263803">
+            <state line="23" column="75" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.5644172">
               <folding />
             </state>
           </provider>
@@ -1107,7 +1090,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20121002190507_add_column_to_resumes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="31" selection-start="829" selection-end="829" vertical-scroll-proportion="0.39263803">
+        <state line="23" column="75" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.5644172">
           <folding />
         </state>
       </provider>
