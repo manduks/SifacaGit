@@ -192,7 +192,7 @@ class ResumePdf < Prawn::Document
       cell_5 = make_cell(:content => "#{article.quantity}", :align => :center)
       cell_6 = make_cell(:content => "#{article.description}", :align => :center)
       cell_7 = make_cell(:content => "#{number_to_currency(article.unit_cost, :unit => "$")}", :align => :center)
-      cell_8 = make_cell(:content => "#{number_to_currency((article.quantity * article.unit_cost) + @iva, :unit => "$")}", :align => :right)
+      cell_8 = make_cell(:content => "#{number_to_currency((article.quantity * article.unit_cost), :unit => "$")}", :align => :right)
 
       data << [cell_5, cell_6, cell_7, cell_8]
     end
