@@ -1,15 +1,12 @@
 
 <div class="login">
-  <!--<p class="notice"><= notice %></p>
-  <p class="alert"><= alert %></p>  -->
-
   <% if user_signed_in? %>
-
       <%= link_to "Sign out", destroy_user_session_path, :method => :delete %>
   <% else %>
       <div id="error" style="left: 50%; top: 10%; margin-left: -258px; padding: 0; position: absolute;"></div>
       <div id="error_sign_in" style="left: 50%; top: 15%; margin-left: -258px; padding: 0; position: absolute;"></div>
       <div id="entry">
+        <h2 class="cs-text" id="cs-text">Facturas</h2>
         <ul class="thumbnails row">
           <li class="thumbnail span3 hero-unit frame">
             <%= render :partial => "devise/sessions/form_sign_in" %>
