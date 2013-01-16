@@ -19,7 +19,7 @@
       <td><%= FolioDetail.find(Invoice.find(resume.invoice_id).folio_detail_id).folio_detail_id %></td>
       <td><%= Client.find(Invoice.find(resume.invoice_id).client_id).name %></td>
       <td><%= Client.find(Invoice.find(resume.invoice_id).client_id).rfc %></td>
-      <td><%= Article.find(resume.invoice_id).description %></td>
+      <td><%= Article.find_by_invoice_id(resume.invoice_id).description %></td>
       <td><%= Invoice.find(resume.invoice_id).date.strftime("%d-%m-%Y") %></td>
       <td><%= link_to 'PDF', resume_path(resume.id, :format => 'pdf'), :class => 'btn btn-mini btn-info', :target => '_blank' %></td>
       <% @folio_activo = Folio.find(:all, :conditions => {'user_id' => current_user.id, 'activo' => 1}) %>

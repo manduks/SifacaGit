@@ -6,7 +6,6 @@ class ResumesController < ApplicationController
   def index
     @clients = current_user.clients.search(params[:search])
     @resumes = []
-    logger.debug(@resumes)
     @withoutClients = false
     @rfc_user = validateRfc(User.find(current_user.id).rfc)
 
@@ -24,7 +23,6 @@ class ResumesController < ApplicationController
     end
 
     @resumes = @resumes.paginate(:per_page => 10, :page => params[:page])
-    logger.debug(@resumes)
     respond_to do |format|
       format.html # index.html.erb
       format.json { render json: @resumes }
