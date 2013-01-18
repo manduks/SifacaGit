@@ -25,6 +25,7 @@ class ResumesController < ApplicationController
     @resumes = @resumes.sort_by{|resume| Invoice.find(resume.invoice_id).folio_detail_id}
 
     @resumes = @resumes.paginate(:per_page => 10, :page => params[:page])
+
     respond_to do |format|
       format.html # index.html.erb
       format.json { render json: @resumes }

@@ -18,7 +18,6 @@
   </tr>
   <% @resumes.each do |resume| %>
       <% @folio_detail_id = FolioDetail.find(Invoice.find(resume.invoice_id).folio_detail_id).folio_detail_id %>
-      <% @folio_detail_id = FolioDetail.find(Invoice.find(resume.invoice_id).folio_detail_id).folio_detail_id %>
       <% if Invoice.find(resume.invoice_id).status == 0 %>
           <tr style="background-color: #F5A9A9">
       <% else %>
@@ -46,7 +45,7 @@
       </tr>
   <% end %>
 </table>
-<div class="pagination">
+<div class="pager">
   <%= will_paginate @resumes %>
 </div>
 
