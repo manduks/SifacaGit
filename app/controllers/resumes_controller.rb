@@ -163,7 +163,6 @@ class ResumesController < ApplicationController
       pdf = InvoicefisPdf.new(@resume, @user, view_context)
       @name = "General"
     end
-    @invoice.update_attribute(:status,2)
     pdf.render_file File.join(Rails.root, "public/uploads/pdfs/"+"#{@user.id}", "Folio_#{@folio}.pdf")
     ClientMailer.pdf_delivery(@client, @folio, @user).deliver
 
