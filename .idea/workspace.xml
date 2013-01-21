@@ -14,16 +14,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/2/thum_019.JPG" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/2/thumb_019.JPG" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/user/logo_emp/2/thumbs_019.JPG" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/nueva.jpg" afterPath="$PROJECT_DIR$/app/assets/images/nueva.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-79cade465e7eba315a19c5faba8ea871.js.gz" afterPath="$PROJECT_DIR$/public/assets/application-79cade465e7eba315a19c5faba8ea871.js.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-a09d6d6ebc997c26474a64d84a3e350e.css.gz" afterPath="$PROJECT_DIR$/public/assets/application-a09d6d6ebc997c26474a64d84a3e350e.css.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application.css.gz" afterPath="$PROJECT_DIR$/public/assets/application.css.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application.js.gz" afterPath="$PROJECT_DIR$/public/assets/application.js.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/nueva.jpg" afterPath="$PROJECT_DIR$/public/assets/nueva.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application.css" afterPath="$PROJECT_DIR$/public/assets/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/manifest.yml" afterPath="$PROJECT_DIR$/public/assets/manifest.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/development.sqlite3" afterPath="$PROJECT_DIR$/db/development.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/development.rb" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
     </list>
     <ignored path="SifacaGit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,15 +69,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_resumprof.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/resumes/_resumprof.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="5" selection-start="610" selection-end="610" vertical-scroll-proportion="-9.36">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_resumes.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/resumes/_resumes.html.erb">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,10 +78,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="14" selection-start="607" selection-end="607" vertical-scroll-proportion="0.5714286">
+            <state line="16" column="67" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -124,7 +108,7 @@
       <file leaf-file-name="Rails SifacaGit: development" pinned="true" current="false" current-in-tab="false">
         <entry file="mock:///Rails SifacaGit: development">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="20" selection-start="24" selection-end="43" vertical-scroll-proportion="-1.1034483">
+            <state line="2" column="17" selection-start="24" selection-end="43" vertical-scroll-proportion="-1.1034483">
               <folding />
             </state>
           </provider>
@@ -133,7 +117,16 @@
       <file leaf-file-name="development.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="21" selection-start="1076" selection-end="1076" vertical-scroll-proportion="0.0">
+            <state line="27" column="26" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="16" selection-start="799" selection-end="799" vertical-scroll-proportion="0.33968255">
               <folding />
             </state>
           </provider>
@@ -158,16 +151,16 @@
         <option value="$PROJECT_DIR$/app/views/resumes/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/resumes/index.js.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/pagination.js" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/resumes/_resumscul.html.erb" />
         <option value="$PROJECT_DIR$/app/views/resumes/_resumes.html.erb" />
         <option value="$PROJECT_DIR$/app/views/resumes/_resumprof.html.erb" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
-        <option value="$PROJECT_DIR$/config/environments/development.rb" />
         <option value="$PROJECT_DIR$/app/controllers/resumes_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
         <option value="/Rails SifacaGit: development" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/config/environments/development.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -968,7 +961,7 @@
     <frame x="0" y="22" width="1280" height="774" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.52430046" sideWeight="0.99918896" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.52430046" sideWeight="0.99918896" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17857143" sideWeight="0.55964655" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46539026" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295099" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1061,13 +1054,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/models/invoice.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20120523153540_add_column_to_invoices.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="33" selection-start="88" selection-end="94" vertical-scroll-proportion="0.0">
@@ -1126,20 +1112,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="68" selection-start="2732" selection-end="2732" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="21" selection-start="1076" selection-end="1076" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/images/nueva.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1168,7 +1140,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="14" selection-start="607" selection-end="607" vertical-scroll-proportion="0.5714286">
+        <state line="16" column="67" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="68" selection-start="2732" selection-end="2732" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="26" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="16" selection-start="799" selection-end="799" vertical-scroll-proportion="0.33968255">
           <folding />
         </state>
       </provider>
