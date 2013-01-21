@@ -12,17 +12,14 @@
     <th>Total</th>
     <th>Tipo de Pago</th>
     <th>Fecha de Pago</th>
+    <th>Estatus</th>
     <th>PDF</th>
     <th>Email</th>
     <th>Cancelar</th>
   </tr>
   <% @resumes.each do |resume| %>
       <% @folio_detail_id = FolioDetail.find(Invoice.find(resume.invoice_id).folio_detail_id).folio_detail_id %>
-      <% if Invoice.find(resume.invoice_id).status == 0 %>
-          <tr style="background-color: #F5A9A9">
-      <% else %>
-          <tr>
-      <% end %>
+      <tr>
       <td><%= @folio_detail_id %></td>
       <td><%= Client.find(Invoice.find(resume.invoice_id).client_id).name %></td>
       <td><%= Client.find(Invoice.find(resume.invoice_id).client_id).rfc %></td>
@@ -36,6 +33,10 @@
       <td><%= number_to_currency(resume.total, :unit => "$") %></td>
       <td><%= resume.payment_condition %></td>
       <td><%= Invoice.find(resume.invoice_id).date.strftime("%d-%m-%Y") %></td>
+      <% case Invoice.find(resume.invoice_id).status when 0 %><td style="background-color: #f2dede"><i class="icon-remove"></i> Cancelada</td>
+      <% when 1 %><td style="background-color: #dff0d8"><i class="icon-ok"></i> Procesada</td>
+      <% when 2 %><td style="background-color: #fcf8e3"><i class="icon-envelope"></i> Enviada</td>
+      <% end %>
       <td><%= link_to 'PDF', resume_path(resume.id, :format => 'pdf'), :class => 'btn btn-mini btn-info', :target => '_blank' %></td>
       <% @folio_activo = Folio.find(:all, :conditions => {'user_id' => current_user.id, 'activo' => 1}) %>
       <% if (@folio_activo[0].initiation <= @folio_detail_id && @folio_detail_id <= @folio_activo[0].finish) && Invoice.find(resume.invoice_id).status != 0 %>

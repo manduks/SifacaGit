@@ -145,6 +145,8 @@ class ResumesController < ApplicationController
     @folio = FolioDetail.find(Invoice.find(@resume.invoice_id).folio_detail_id).folio_detail_id
     @client = Client.find(Invoice.find(@resume.invoice_id).client_id)
     @flag = User.find(current_user.id).tax_regime
+    @invoice = Invoice.find(@resume.invoice_id)
+    logger.debug(@invoice.id)
     if @flag == 0
       pdf = ResumePdf.new(@resume, @user, view_context)
       @name = "General"
@@ -161,10 +163,12 @@ class ResumesController < ApplicationController
       pdf = InvoicefisPdf.new(@resume, @user, view_context)
       @name = "General"
     end
+    @invoice.update_attribute(:status,2)
     pdf.render_file File.join(Rails.root, "public/uploads/pdfs/"+"#{@user.id}", "Folio_#{@folio}.pdf")
     ClientMailer.pdf_delivery(@client, @folio, @user).deliver
 
     respond_to do |format|
+      @invoice.update_attribute(:status,2)
       format.html { redirect_to resumes_url }
       #format.json { head :no_content }
     end
