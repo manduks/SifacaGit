@@ -7,7 +7,6 @@ class UsersController < Devise::RegistrationsController
   def update
     @user = User.find(current_user.id)
     params[:user][:active] = validateUserInformation(@user, params[:user]) ? 1 : 0
-    logger.debug "jajajajjaja " + params[:user][:active].to_s
     if @user.update_without_password(params[:user])
       # Sign in the user by passing validation in case his password changed
       sign_in @user, :bypass => true
@@ -27,7 +26,6 @@ class UsersController < Devise::RegistrationsController
       #if (user.logo_emp.nil? && (params[:logo_emp].nil? || params[:logo_emp].empty?))
       # @valid = false
       #end
-      logger.debug("no tiene foto")
 
     elsif @tax_regime == 1
       if params[:curp].nil? || params[:curp].empty?
