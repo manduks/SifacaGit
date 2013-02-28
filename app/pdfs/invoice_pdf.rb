@@ -18,6 +18,7 @@ class InvoicePdf < Prawn::Document
     money
     qr
     signature
+    message
     if @invoice.status == 0
       cancel
     end
@@ -143,6 +144,21 @@ class InvoicePdf < Prawn::Document
     end
   end
 
+  def message
+    file = "#{Rails.root}/bundle/ruby/1.9.1/gems/prawn-0.12.0/data/fonts/Chalkboard.ttf"
+    font_families["Action Man"] = {
+        :normal => {:file => file, :font => "ActionMan"},
+    }
+    bounding_box([15, cursor - -50], :width => 510, :height => 130, :align => :center) do
+      font("Action Man") do
+        text "Efectos fiscales al pago", :size => 10, :align => :center
+        text "NUMERO DE APROBACION DEL FOLIO ASIGNADO POR SICOFI : #{Folio.find_by_user_id(@user).approval}", :size => 10, :align => :center
+        text "La reproduccion apocrifa de este comprobante constituye un delito en los terminos de las disposiciones fiscales.", :size => 10, :align => :center
+        text "Este comprobante tendra una vigencia de dos anos contados a partir de la fecha de aprobacion de la asignacion de folios, la cual es: #{Folio.find_by_user_id(@user).date_initiation.strftime("%d/%m/%Y")}", :size => 10, :align => :center
+      end
+    end
+
+  end
 
   def cancel
     bounding_box([10, cursor - -80], :width => 550, :height => 250) do
