@@ -1,0 +1,292 @@
+Last login: Thu Mar  7 11:34:48 on ttys001
+MacBook-Pro-de-Waldix-2:~ Waldix$ ls
+Applications			Music
+Applications (Parallels)	NetBeansProjects
+Desktop				Pictures
+Documents			Public
+Downloads			Workspaces
+Google Drive			pgadmin.log
+Library				tmp
+Movies				uploader
+MacBook-Pro-de-Waldix-2:~ Waldix$ cd ..
+MacBook-Pro-de-Waldix-2:Users Waldix$ cd ..
+MacBook-Pro-de-Waldix-2:/ Waldix$ ls
+1.sql
+Applications
+Library
+Manuales e información para el usuario
+Network
+System
+Users
+Volumes
+bin
+cores
+data
+dev
+etc
+home
+mach_kernel
+net
+opt
+private
+sbin
+tmp
+usr
+var
+MacBook-Pro-de-Waldix-2:/ Waldix$ cd Applications/
+.DS_Store                        Merlin.app/
+.localized                       Messages.app/
+Adium.app/                       Microsoft Messenger.app/
+Adobe/                           Microsoft Silverlight/
+Adobe Reader.app/                Mission Control.app/
+App Store.app/                   NetBeans/
+Automator.app/                   Notes.app/
+CCleaner.app/                    Parallels Desktop.app/
+Calculator.app/                  Photo Booth.app/
+Calendar.app/                    PhpStorm 3.0.2.app/
+Chess.app/                       PhpStorm EAP-117.657.app/
+ClassicFTP.app/                  PostgreSQL 9.0/
+Contacts.app/                    Postgres Plus Add-ons/
+DVD Player.app/                  Preview.app/
+Dashboard.app/                   Pulse/
+DeltaWalker.app/                 QuickTime Player.app/
+Dictionary.app/                  Reminders.app/
+DivX/                            RubyMine.app/
+DivX Converter.app/              Safari.app/
+DivX Plus Player.app/            Sencha Architect.app/
+Divvy.app/                       Sequel Pro.app/
+Dropbox.app/                     Skype.app/
+EasiestSoft Video Converter.app/ Solid PDF to Word.app/
+FaceTime.app/                    Stickies.app/
+Fetcher.app/                     Sublime Text 2.app/
+Firefox.app/                     System Preferences.app/
+Flip4Mac/                        TextEdit.app/
+Font Book.app/                   The Unarchiver.app/
+Force.com Explorer (Beta).app/   Time Machine.app/
+Game Center.app/                 Twitter.app/
+GarageBand.app/                  Utilities/
+GitHub.app/                      XAMPP/
+Google Chrome.app/               XPSShow.app/
+Google Drive.app/                Xcode.app/
+Image Capture.app/               iMovie.app/
+Internet Explorer.app/           iPhoto.app/
+Kuvva.app/                       iTunes.app/
+Launchpad.app/                   iWork '09/
+MPlayerX.app/                    salesforce.com/
+Mail.app/                        uTorrent.app/
+MacBook-Pro-de-Waldix-2:/ Waldix$ cd Applications/
+MacBook-Pro-de-Waldix-2:Applications Waldix$ cd XAMPP/
+MacBook-Pro-de-Waldix-2:XAMPP Waldix$ 
+MacBook-Pro-de-Waldix-2:XAMPP Waldix$ ls
+XAMPP Control.app	etc			logs
+cgi-bin			htdocs			xamppfiles
+MacBook-Pro-de-Waldix-2:XAMPP Waldix$ cd htdocs/
+.DS_Store             politwits/            touch/
+demoventas/           proEducation/         trinus/
+dojoshua/             sencha-touch-2.0.1.1/ webalizer/
+favicon.ico           sht/                  wordpress/
+icon-1.png            shtv1/                xampp/
+index.php             suite/                
+MacBook-Pro-de-Waldix-2:XAMPP Waldix$ cd htdocs/trinus/
+MacBook-Pro-de-Waldix-2:trinus Waldix$ ls
+README.md	app		images		index.html	resources
+MacBook-Pro-de-Waldix-2:trinus Waldix$ git init
+Reinitialized existing Git repository in /Applications/XAMPP/xamppfiles/htdocs/trinus/.git/
+MacBook-Pro-de-Waldix-2:trinus Waldix$ git status
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   .idea/workspace.xml
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	images/trinus32.png
+#	resources/sass/bootstrap/.sass-cache/1a2ad04cb1754e36ed58cc47c764a53ab49dd92d/
+#	resources/sass/bootstrap/.sass-cache/1cf942b00585b59b96f27c3ac61c447713c4172d/
+#	resources/sass/bootstrap/.sass-cache/20d00b6ba686be58235656dcba58316dd55f31d2/
+#	resources/sass/bootstrap/.sass-cache/2168bdf1e1553e4c6bea553419a45e099c2f2c8b/
+#	resources/sass/bootstrap/.sass-cache/38b392872b65910ef53493eeed37f8a08a5b249b/
+#	resources/sass/bootstrap/.sass-cache/4738e07e21730cf00359c81aaba1c7f9ceb0df8a/
+#	resources/sass/bootstrap/.sass-cache/4a532503d7c21771ee30a831de49c86098d8866f/
+#	resources/sass/bootstrap/.sass-cache/559de47e2f4c2bfda95cad4e2ea37bb42e9691e7/
+#	resources/sass/bootstrap/.sass-cache/6037b3b3d55526d570a8596d6a0f589c4bf94480/
+#	resources/sass/bootstrap/.sass-cache/60c82ba29d2f252915c3805179e683ef82631c33/
+#	resources/sass/bootstrap/.sass-cache/717213af5a5b6a960d34881cb2a7faa9bd6a611e/
+#	resources/sass/bootstrap/.sass-cache/94e5c8bca1e045e4d2b6beec96e7e9adc5c4c6d1/
+#	resources/sass/bootstrap/.sass-cache/a4870f396a0e84bf3c6e9df3ee265d170a21290a/
+#	resources/sass/bootstrap/.sass-cache/abf2b004ea30118ea0c9e430ef111822fd31eca1/
+#	resources/sass/bootstrap/.sass-cache/ac36f59d190aea0dad48719a846cd266eddb6c1d/
+#	resources/sass/bootstrap/.sass-cache/b2f170e64c01218984d568f869642e5e39c9597f/
+#	resources/sass/bootstrap/.sass-cache/b6dd49db1af4041ec17f9b03554c000211564171/
+#	resources/sass/bootstrap/.sass-cache/b733e6749596342c3b78e866c9ce03bc34708dbd/
+#	resources/sass/bootstrap/.sass-cache/b7c1008dbb9e046eeeb55c715df69e98585ca3d9/
+#	resources/sass/bootstrap/.sass-cache/ced0f0825e2938d979c11f09fb142d3fca7c08e0/
+#	resources/sass/bootstrap/.sass-cache/d7ee54496f69e031205bba081d9aada2df2a992a/
+#	resources/sass/bootstrap/.sass-cache/d8edd8cbdd15077dbf5cbd0b0210c5abdf2fbf1d/
+#	resources/sass/bootstrap/.sass-cache/d9d45189d1097671045d9802f9ef48d7f5a67800/
+#	resources/sass/bootstrap/.sass-cache/eea6c1e91b782de1dabdb4ac999c26d86670de71/
+#	resources/sass/bootstrap/.sass-cache/f211fc686b398632661bc0d2a4bb485376650400/
+#	resources/sass/bootstrap/.sass-cache/f6f69b3f71d7832835e2f74178a512d4ed9b264f/
+no changes added to commit (use "git add" and/or "git commit -a")
+MacBook-Pro-de-Waldix-2:trinus Waldix$ git status
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   .idea/workspace.xml
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	images/trinus32.png
+#	resources/sass/bootstrap/.sass-cache/1a2ad04cb1754e36ed58cc47c764a53ab49dd92d/
+#	resources/sass/bootstrap/.sass-cache/1cf942b00585b59b96f27c3ac61c447713c4172d/
+#	resources/sass/bootstrap/.sass-cache/20d00b6ba686be58235656dcba58316dd55f31d2/
+#	resources/sass/bootstrap/.sass-cache/2168bdf1e1553e4c6bea553419a45e099c2f2c8b/
+#	resources/sass/bootstrap/.sass-cache/38b392872b65910ef53493eeed37f8a08a5b249b/
+#	resources/sass/bootstrap/.sass-cache/4738e07e21730cf00359c81aaba1c7f9ceb0df8a/
+#	resources/sass/bootstrap/.sass-cache/4a532503d7c21771ee30a831de49c86098d8866f/
+#	resources/sass/bootstrap/.sass-cache/559de47e2f4c2bfda95cad4e2ea37bb42e9691e7/
+#	resources/sass/bootstrap/.sass-cache/6037b3b3d55526d570a8596d6a0f589c4bf94480/
+#	resources/sass/bootstrap/.sass-cache/60c82ba29d2f252915c3805179e683ef82631c33/
+#	resources/sass/bootstrap/.sass-cache/717213af5a5b6a960d34881cb2a7faa9bd6a611e/
+#	resources/sass/bootstrap/.sass-cache/94e5c8bca1e045e4d2b6beec96e7e9adc5c4c6d1/
+#	resources/sass/bootstrap/.sass-cache/a4870f396a0e84bf3c6e9df3ee265d170a21290a/
+#	resources/sass/bootstrap/.sass-cache/abf2b004ea30118ea0c9e430ef111822fd31eca1/
+#	resources/sass/bootstrap/.sass-cache/ac36f59d190aea0dad48719a846cd266eddb6c1d/
+#	resources/sass/bootstrap/.sass-cache/b2f170e64c01218984d568f869642e5e39c9597f/
+#	resources/sass/bootstrap/.sass-cache/b6dd49db1af4041ec17f9b03554c000211564171/
+#	resources/sass/bootstrap/.sass-cache/b733e6749596342c3b78e866c9ce03bc34708dbd/
+#	resources/sass/bootstrap/.sass-cache/b7c1008dbb9e046eeeb55c715df69e98585ca3d9/
+#	resources/sass/bootstrap/.sass-cache/ced0f0825e2938d979c11f09fb142d3fca7c08e0/
+#	resources/sass/bootstrap/.sass-cache/d7ee54496f69e031205bba081d9aada2df2a992a/
+#	resources/sass/bootstrap/.sass-cache/d8edd8cbdd15077dbf5cbd0b0210c5abdf2fbf1d/
+#	resources/sass/bootstrap/.sass-cache/d9d45189d1097671045d9802f9ef48d7f5a67800/
+#	resources/sass/bootstrap/.sass-cache/eea6c1e91b782de1dabdb4ac999c26d86670de71/
+#	resources/sass/bootstrap/.sass-cache/f211fc686b398632661bc0d2a4bb485376650400/
+#	resources/sass/bootstrap/.sass-cache/f6f69b3f71d7832835e2f74178a512d4ed9b264f/
+no changes added to commit (use "git add" and/or "git commit -a")
+MacBook-Pro-de-Waldix-2:trinus Waldix$ git pull origin master
+Identity added: /Users/Waldix/.ssh/id_rsa (/Users/Waldix/.ssh/id_rsa)
+remote: Counting objects: 26, done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 14 (delta 9), reused 14 (delta 9)
+Unpacking objects: 100% (14/14), done.
+From github.com:manduks/trinusweb
+ * branch            master     -> FETCH_HEAD
+Updating f703b31..134c8c2
+Fast-forward
+ app/view/admin/Panel.js                       |  6 ++++-
+ app/view/admin/servicios/asignar/GridPanel.js | 78 ++++++++++++++++++++++++++++++++++++++++++++----------
+ 2 files changed, 69 insertions(+), 15 deletions(-)
+MacBook-Pro-de-Waldix-2:trinus Waldix$ git statuas
+git: 'statuas' is not a git command. See 'git --help'.
+
+Did you mean this?
+	status
+MacBook-Pro-de-Waldix-2:trinus Waldix$ git status
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   .idea/workspace.xml
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	images/trinus32.png
+#	resources/sass/bootstrap/.sass-cache/1a2ad04cb1754e36ed58cc47c764a53ab49dd92d/
+#	resources/sass/bootstrap/.sass-cache/1cf942b00585b59b96f27c3ac61c447713c4172d/
+#	resources/sass/bootstrap/.sass-cache/20d00b6ba686be58235656dcba58316dd55f31d2/
+#	resources/sass/bootstrap/.sass-cache/2168bdf1e1553e4c6bea553419a45e099c2f2c8b/
+#	resources/sass/bootstrap/.sass-cache/38b392872b65910ef53493eeed37f8a08a5b249b/
+#	resources/sass/bootstrap/.sass-cache/4738e07e21730cf00359c81aaba1c7f9ceb0df8a/
+#	resources/sass/bootstrap/.sass-cache/4a532503d7c21771ee30a831de49c86098d8866f/
+#	resources/sass/bootstrap/.sass-cache/559de47e2f4c2bfda95cad4e2ea37bb42e9691e7/
+#	resources/sass/bootstrap/.sass-cache/6037b3b3d55526d570a8596d6a0f589c4bf94480/
+#	resources/sass/bootstrap/.sass-cache/60c82ba29d2f252915c3805179e683ef82631c33/
+#	resources/sass/bootstrap/.sass-cache/717213af5a5b6a960d34881cb2a7faa9bd6a611e/
+#	resources/sass/bootstrap/.sass-cache/94e5c8bca1e045e4d2b6beec96e7e9adc5c4c6d1/
+#	resources/sass/bootstrap/.sass-cache/a4870f396a0e84bf3c6e9df3ee265d170a21290a/
+#	resources/sass/bootstrap/.sass-cache/abf2b004ea30118ea0c9e430ef111822fd31eca1/
+#	resources/sass/bootstrap/.sass-cache/ac36f59d190aea0dad48719a846cd266eddb6c1d/
+#	resources/sass/bootstrap/.sass-cache/b2f170e64c01218984d568f869642e5e39c9597f/
+#	resources/sass/bootstrap/.sass-cache/b6dd49db1af4041ec17f9b03554c000211564171/
+#	resources/sass/bootstrap/.sass-cache/b733e6749596342c3b78e866c9ce03bc34708dbd/
+#	resources/sass/bootstrap/.sass-cache/b7c1008dbb9e046eeeb55c715df69e98585ca3d9/
+#	resources/sass/bootstrap/.sass-cache/ced0f0825e2938d979c11f09fb142d3fca7c08e0/
+#	resources/sass/bootstrap/.sass-cache/d7ee54496f69e031205bba081d9aada2df2a992a/
+#	resources/sass/bootstrap/.sass-cache/d8edd8cbdd15077dbf5cbd0b0210c5abdf2fbf1d/
+#	resources/sass/bootstrap/.sass-cache/d9d45189d1097671045d9802f9ef48d7f5a67800/
+#	resources/sass/bootstrap/.sass-cache/eea6c1e91b782de1dabdb4ac999c26d86670de71/
+#	resources/sass/bootstrap/.sass-cache/f211fc686b398632661bc0d2a4bb485376650400/
+#	resources/sass/bootstrap/.sass-cache/f6f69b3f71d7832835e2f74178a512d4ed9b264f/
+no changes added to commit (use "git add" and/or "git commit -a")
+MacBook-Pro-de-Waldix-2:trinus Waldix$ git checkout
+M	.idea/workspace.xml
+MacBook-Pro-de-Waldix-2:trinus Waldix$ git pull origin master
+remote: Counting objects: 26, done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 14 (delta 9), reused 14 (delta 9)
+Unpacking objects: 100% (14/14), done.
+From github.com:manduks/trinusweb
+ * branch            master     -> FETCH_HEAD
+
+[1]+  Stopped                 git pull origin master
+MacBook-Pro-de-Waldix-2:trinus Waldix$ git pull origin master
+From github.com:manduks/trinusweb
+ * branch            master     -> FETCH_HEAD
+
+[2]+  Stopped                 git pull origin master
+MacBook-Pro-de-Waldix-2:trinus Waldix$ git init
+Reinitialized existing Git repository in /Applications/XAMPP/xamppfiles/htdocs/trinus/.git/
+MacBook-Pro-de-Waldix-2:trinus Waldix$ git pull origin master
+From github.com:manduks/trinusweb
+ * branch            master     -> FETCH_HEAD
+
+Merge branch 'master' of github.com:manduks/trinusweb
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#  
+#se suben cambios 
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+~                                                                                                          
+-- INSERT --
