@@ -144,10 +144,12 @@ class SchoolPdf < Prawn::Document
   def receipt
     cell_1 = make_cell(:content => "Cantidad con Letra", :background_color => "F5A9A9")
     cell_2 = make_cell(:content => "Condiciones de pago", :background_color => "F5A9A9")
+    cell_3 = make_cell(:content => "Tipo de pago", :background_color => "F5A9A9")
     cell_4 = make_cell(:content => "#{@resume.letter_number}", :align => :center, :width => 407)
     cell_5 = make_cell(:content => "#{@resume.payment_condition}", :align => :center, :width => 407)
+    cell_6 = make_cell(:content => "#{@resume.type_of_payment}", :align => :center, :width => 407)
 
-    data = [[cell_1, cell_4], [cell_2, cell_5]]
+    data = [[cell_1, cell_4], [cell_2, cell_5], [cell_3, cell_6]]
     table([[data]])
   end
 

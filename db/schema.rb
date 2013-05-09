@@ -11,121 +11,122 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20121003065456) do
+ActiveRecord::Schema.define(:version => 20130509043648) do
 
   create_table "articles", :force => true do |t|
-    t.integer  "quantity"
-    t.string   "description"
-    t.integer  "iva",                                       :default => 16
-    t.integer  "invoice_id"
-    t.datetime "created_at",                                                 :null => false
-    t.datetime "updated_at",                                                 :null => false
-    t.decimal  "unit_cost",   :precision => 8, :scale => 2, :default => 0.0
+    t.integer   "quantity"
+    t.string    "description"
+    t.integer   "iva",         :default => 16
+    t.integer   "invoice_id"
+    t.timestamp "created_at",                   :null => false
+    t.timestamp "updated_at",                   :null => false
+    t.decimal   "unit_cost",   :default => 0.0
   end
 
   create_table "clients", :force => true do |t|
-    t.string   "name"
-    t.string   "rfc"
-    t.string   "street"
-    t.string   "num_ext"
-    t.string   "num_int"
-    t.string   "suburb"
-    t.string   "township"
-    t.string   "state"
-    t.integer  "cp"
-    t.string   "logo_emp"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
-    t.integer  "user_id"
-    t.string   "email"
+    t.string    "name"
+    t.string    "rfc"
+    t.string    "street"
+    t.string    "num_ext"
+    t.string    "num_int"
+    t.string    "suburb"
+    t.string    "township"
+    t.string    "state"
+    t.integer   "cp"
+    t.string    "logo_emp"
+    t.timestamp "created_at", :null => false
+    t.timestamp "updated_at", :null => false
+    t.integer   "user_id"
+    t.string    "email"
   end
 
   create_table "folio_details", :force => true do |t|
-    t.integer  "folio_id"
-    t.integer  "folio_detail_id"
-    t.integer  "status"
-    t.datetime "created_at",      :null => false
-    t.datetime "updated_at",      :null => false
+    t.integer   "folio_id"
+    t.integer   "folio_detail_id"
+    t.integer   "status"
+    t.timestamp "created_at",      :null => false
+    t.timestamp "updated_at",      :null => false
   end
 
   create_table "folios", :force => true do |t|
-    t.integer  "user_id"
-    t.integer  "finish"
-    t.datetime "created_at",      :null => false
-    t.datetime "updated_at",      :null => false
-    t.integer  "initiation"
-    t.string   "qr"
-    t.date     "date_initiation"
-    t.date     "date_finish"
-    t.integer  "approval"
-    t.integer  "activo"
+    t.integer   "user_id"
+    t.integer   "finish"
+    t.timestamp "created_at",      :null => false
+    t.timestamp "updated_at",      :null => false
+    t.integer   "initiation"
+    t.string    "qr"
+    t.date      "date_initiation"
+    t.date      "date_finish"
+    t.integer   "approval"
+    t.integer   "activo"
   end
 
   create_table "invoices", :force => true do |t|
-    t.date     "date"
-    t.integer  "client_id"
-    t.integer  "folio_detail_id"
-    t.datetime "created_at",      :null => false
-    t.datetime "updated_at",      :null => false
-    t.integer  "status"
-    t.integer  "student_id"
+    t.date      "date"
+    t.integer   "client_id"
+    t.integer   "folio_detail_id"
+    t.timestamp "created_at",      :null => false
+    t.timestamp "updated_at",      :null => false
+    t.integer   "status"
+    t.integer   "student_id"
   end
 
   create_table "resumes", :force => true do |t|
-    t.integer  "invoice_id"
-    t.string   "letter_number"
-    t.string   "payment_condition"
-    t.string   "receipt"
-    t.datetime "created_at",                                                       :null => false
-    t.datetime "updated_at",                                                       :null => false
-    t.string   "places"
-    t.integer  "tax_regime"
-    t.string   "concept"
-    t.decimal  "quantity",          :precision => 8, :scale => 2, :default => 0.0
-    t.decimal  "ret_isr",           :precision => 8, :scale => 2, :default => 0.0
-    t.decimal  "ret_iva",           :precision => 8, :scale => 2, :default => 0.0
-    t.decimal  "subtotal",          :precision => 8, :scale => 2, :default => 0.0
-    t.decimal  "total",             :precision => 8, :scale => 2, :default => 0.0
-    t.decimal  "iva",               :precision => 8, :scale => 2, :default => 0.0
+    t.integer   "invoice_id"
+    t.string    "letter_number"
+    t.string    "payment_condition"
+    t.string    "receipt"
+    t.timestamp "created_at",                         :null => false
+    t.timestamp "updated_at",                         :null => false
+    t.string    "places"
+    t.integer   "tax_regime"
+    t.string    "concept"
+    t.decimal   "quantity",          :default => 0.0
+    t.decimal   "ret_isr",           :default => 0.0
+    t.decimal   "ret_iva",           :default => 0.0
+    t.decimal   "subtotal",          :default => 0.0
+    t.decimal   "total",             :default => 0.0
+    t.decimal   "iva",               :default => 0.0
+    t.string    "type_of_payment"
   end
 
   create_table "students", :force => true do |t|
-    t.string   "name"
-    t.string   "grade"
-    t.string   "curp"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
-    t.integer  "client_id"
+    t.string    "name"
+    t.string    "grade"
+    t.string    "curp"
+    t.timestamp "created_at", :null => false
+    t.timestamp "updated_at", :null => false
+    t.integer   "client_id"
   end
 
   create_table "users", :force => true do |t|
-    t.string   "email",                  :default => "", :null => false
-    t.string   "encrypted_password",     :default => "", :null => false
-    t.string   "reset_password_token"
-    t.datetime "reset_password_sent_at"
-    t.datetime "remember_created_at"
-    t.integer  "sign_in_count",          :default => 0
-    t.datetime "current_sign_in_at"
-    t.datetime "last_sign_in_at"
-    t.string   "current_sign_in_ip"
-    t.string   "last_sign_in_ip"
-    t.datetime "created_at",                             :null => false
-    t.datetime "updated_at",                             :null => false
-    t.string   "name"
-    t.string   "rfc"
-    t.string   "street"
-    t.string   "num_ext"
-    t.string   "num_int"
-    t.string   "suburb"
-    t.string   "township"
-    t.string   "state"
-    t.integer  "cp"
-    t.string   "logo_emp"
-    t.string   "username"
-    t.integer  "tax_regime",             :default => 0
-    t.integer  "active",                 :default => 0
-    t.string   "curp"
-    t.string   "regime"
+    t.string    "email",                  :default => "", :null => false
+    t.string    "encrypted_password",     :default => "", :null => false
+    t.string    "reset_password_token"
+    t.timestamp "reset_password_sent_at"
+    t.timestamp "remember_created_at"
+    t.integer   "sign_in_count",          :default => 0
+    t.timestamp "current_sign_in_at"
+    t.timestamp "last_sign_in_at"
+    t.string    "current_sign_in_ip"
+    t.string    "last_sign_in_ip"
+    t.timestamp "created_at",                             :null => false
+    t.timestamp "updated_at",                             :null => false
+    t.string    "name"
+    t.string    "rfc"
+    t.string    "street"
+    t.string    "num_ext"
+    t.string    "num_int"
+    t.string    "suburb"
+    t.string    "township"
+    t.string    "state"
+    t.integer   "cp"
+    t.string    "logo_emp"
+    t.string    "username"
+    t.integer   "tax_regime",             :default => 0
+    t.integer   "active",                 :default => 0
+    t.string    "curp"
+    t.string    "regime"
   end
 
   add_index "users", ["email"], :name => "index_users_on_email", :unique => true

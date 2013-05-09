@@ -58,6 +58,20 @@
                   <%= radio_button :resume, 'payment_condition', 'Parcialidades', :class => 'check_boxes optional' %>
                   Parcialidades
                 </div><br>
+                <div class="control-group info" style="text-align: left">
+                  <font face="courier" size="2">Tipo de
+                    Pago: </font>&nbsp;&nbsp;
+                  <%= radio_button :resume, 'type_of_payment', 'Efectivo', :checked => true, :class => 'check_boxes optional' %>
+                  Efectivo &nbsp
+                  <%= radio_button :resume, 'type_of_payment', 'Cheque', :class => 'check_boxes optional' %>
+                  Cheque &nbsp;
+                  <%= radio_button :resume, 'type_of_payment', 'Transferencía', :class => 'check_boxes optional' %>
+                  Transferencía &nbsp;
+                  <%= radio_button :resume, 'type_of_payment', 'Depósito bancario', :class => 'check_boxes optional' %>
+                  Deposito Bancario &nbsp;
+                  <%= radio_button :resume, 'type_of_payment', 'No Identificado', :class => 'check_boxes optional' %>
+                  No Identificado
+                </div><br>
                 <!--<div class="control-group info" style="text-align: left">
                   <font face="courier" size="2">Sistema de Pago: </font>&nbsp;&nbsp;
                   <= select :resume, 'payment_system', [['Efectivo', 0], ['Transferencia', 1], ['Deposito', 2]], {:include_blank => false}, :id => "payment", :class => 'checkbox' %>

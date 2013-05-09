@@ -3,7 +3,7 @@ class Resume < ActiveRecord::Base
   #has_one :invoice
 
   attr_accessible :concept, :iva, :letter_number, :places, :quantity, :ret_isr, :ret_iva, :subtotal, :total,
-                  :payment_condition, :receipt
+                  :payment_condition, :receipt, :type_of_payment
                   #, :payment_system, :account_number
 
 
