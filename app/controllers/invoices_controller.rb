@@ -157,15 +157,18 @@ class InvoicesController < ApplicationController
           #@resume.letter_number = @totals.to_f.to_words.capitalize << " pesos " << (@totals.to_f.to_s.split(".")[1] || 0).rjust(2, '0')<< "/100 M.N."
         end
         if @regime == 1
-          @quantity = @resume.total * 1.04895104895105
-          @resume.quantity = number_with_precision(@quantity, :precision => 2)
+          if validateRfc(@rfc)
+            @quantity = @resume.total * 1.04895104895105
+            @resume.quantity = number_with_precision(@quantity, :precision => 2)
+            @resume.ret_isr = number_with_precision(@resume.quantity * 0.10, :precision => 2)
+            @resume.ret_iva = number_with_precision(@resume.quantity * (0.16/3*2), :precision => 2)
+          else
+            @quantity = @resume.total / 1.16
+            @resume.quantity = number_with_precision(@quantity, :precision => 2)
+          end
           @resume.iva = number_with_precision(@resume.quantity * 0.16, :precision => 2)
           @resume.subtotal = number_with_precision(@resume.iva + @resume.quantity, :precision => 2)
           @resume.letter_number = @resume.total.to_words.capitalize << " pesos " << (@resume.total.to_s.split(".")[1] || 0).rjust(2, '0')<< "/100 M.N."
-          if validateRfc(@rfc)
-            @resume.ret_isr = number_with_precision(@resume.quantity * 0.10, :precision => 2)
-            @resume.ret_iva = number_with_precision(@resume.quantity * (0.16/3*2), :precision => 2)
-          end
           @resume.save
         end
 
