@@ -183,8 +183,8 @@ class ResumePdf < Prawn::Document
   end
 
   def arts
-    cell_1 = make_cell(:content => "Cantidad", :align => :center, :width => 65, :background_color => "D3D3D3")
-    cell_2 = make_cell(:content => "Clase de Mercancias o Descripcion", :align => :center, :width => 290, :background_color => "D3D3D3")
+    cell_1 = make_cell(:content => "Cantidad", :align => :center, :width => 58, :background_color => "D3D3D3")
+    cell_2 = make_cell(:content => "Clase de Mercancias o Descripcion", :align => :center, :width => 297, :background_color => "D3D3D3")
     cell_3 = make_cell(:content => "Valor por Unidad", :align => :center, :width => 100, :background_color => "D3D3D3")
     cell_4 = make_cell(:content => "Total", :align => :center, :width => 75, :background_color => "D3D3D3")
 
@@ -194,7 +194,7 @@ class ResumePdf < Prawn::Document
     @articles.each do |article|
       @iva = (article.unit_cost * article.quantity) * ((article.iva.nil? || article.iva == 0) ? 0 : (article.iva.to_f / 100))
       cell_5 = make_cell(:content => "#{article.quantity}", :align => :center)
-      cell_6 = make_cell(:content => "#{article.description}", :size => 9)
+      cell_6 = make_cell(:content => "#{article.description}", :size => 8)
       cell_7 = make_cell(:content => "#{number_to_currency(article.unit_cost, :unit => "$")}", :align => :center)
       cell_8 = make_cell(:content => "#{number_to_currency((article.quantity * article.unit_cost), :unit => "$")}", :align => :right)
 
