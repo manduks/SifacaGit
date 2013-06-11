@@ -36,12 +36,12 @@ class ResumePdf < Prawn::Document
 
   def title
     string = "#{@user.name}"
-    y_position = cursor - -10
+    y_position = cursor - -15
     excess_text = text_box string,
                            :width => 350,
                            :height => 50,
                            :overflow => :truncate,
-                           :at => [150, y_position],
+                           :at => [90, y_position],
                            :size => 15,
                            :style => :bold
 
@@ -194,7 +194,7 @@ class ResumePdf < Prawn::Document
     @articles.each do |article|
       @iva = (article.unit_cost * article.quantity) * ((article.iva.nil? || article.iva == 0) ? 0 : (article.iva.to_f / 100))
       cell_5 = make_cell(:content => "#{article.quantity}", :align => :center)
-      cell_6 = make_cell(:content => "#{article.description}", :size => 8)
+      cell_6 = make_cell(:content => "#{article.description}", :size => 9)
       cell_7 = make_cell(:content => "#{number_to_currency(article.unit_cost, :unit => "$")}", :align => :center)
       cell_8 = make_cell(:content => "#{number_to_currency((article.quantity * article.unit_cost), :unit => "$")}", :align => :right)
 
