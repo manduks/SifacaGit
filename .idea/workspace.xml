@@ -3,8 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="8210c116-3a3f-4a32-b474-1f1f73279c10" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/development.sqlite3" afterPath="$PROJECT_DIR$/db/development.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/uploads/pdfs/12/Folio_1.pdf" afterPath="$PROJECT_DIR$/public/uploads/pdfs/12/Folio_1.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/uploads/pdfs/1/Folio_8.pdf" afterPath="$PROJECT_DIR$/public/uploads/pdfs/1/Folio_8.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/uploads/pdfs/2/Folio_2701.pdf" afterPath="$PROJECT_DIR$/public/uploads/pdfs/2/Folio_2701.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/uploads/pdfs/2/Folio_2709.pdf" afterPath="$PROJECT_DIR$/public/uploads/pdfs/2/Folio_2709.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/uploads/pdfs/2/Folio_2710.pdf" afterPath="$PROJECT_DIR$/public/uploads/pdfs/2/Folio_2710.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/uploads/pdfs/3/Folio_301.pdf" afterPath="$PROJECT_DIR$/public/uploads/pdfs/3/Folio_301.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/uploads/pdfs/3/Folio_302.pdf" afterPath="$PROJECT_DIR$/public/uploads/pdfs/3/Folio_302.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/pdfs/invoicefis_pdf.rb" afterPath="$PROJECT_DIR$/app/pdfs/invoicefis_pdf.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/pdfs/resume_pdf.rb" afterPath="$PROJECT_DIR$/app/pdfs/resume_pdf.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/pdfs/school_pdf.rb" afterPath="$PROJECT_DIR$/app/pdfs/school_pdf.rb" />
     </list>
     <list id="e3c6f90b-6121-4c40-9943-fb9b2a4a3bbe" name="No subir" comment="" />
     <ignored path="SifacaGit.iws" />
@@ -31,10 +39,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/invoices/_form.html.erb">
+      <file leaf-file-name="resume_pdf.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/pdfs/resume_pdf.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="16" selection-start="3406" selection-end="3406" vertical-scroll-proportion="0.0">
+            <state line="181" column="40" selection-start="7316" selection-end="7316" vertical-scroll-proportion="-3.2692308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="invoicefis_pdf.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/pdfs/invoicefis_pdf.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="200" column="27" selection-start="8345" selection-end="8345" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -43,70 +60,16 @@
       <file leaf-file-name="school_pdf.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/pdfs/school_pdf.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="175" column="41" selection-start="7601" selection-end="7601" vertical-scroll-proportion="0.0">
+            <state line="220" column="133" selection-start="9621" selection-end="9621" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resume.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/resume.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="64" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resumes_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/resumes_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="invoices_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/invoices_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="156" column="123" selection-start="5825" selection-end="5825" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resume_pdf.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/pdfs/resume_pdf.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="186" column="104" selection-start="7507" selection-end="7507" vertical-scroll-proportion="0.37763372">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rails SifacaGit: development" pinned="true" current="false" current-in-tab="false">
+      <file leaf-file-name="Rails SifacaGit: development" pinned="true" current="true" current-in-tab="true">
         <entry file="mock:///Rails SifacaGit: development">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="52" selection-start="561" selection-end="561" vertical-scroll-proportion="-3.0689654">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20130509043648_add_type_of_payment_to_resumes.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20130509043648_add_type_of_payment_to_resumes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="20" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20121030081335_add_column_to_resumes.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20121030081335_add_column_to_resumes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="4" selection-start="170" selection-end="207" vertical-scroll-proportion="0.0">
+            <state line="31" column="113" selection-start="634" selection-end="747" vertical-scroll-proportion="0.34177214">
               <folding />
             </state>
           </provider>
@@ -131,16 +94,16 @@
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-        <option value="$PROJECT_DIR$/app/pdfs/invoicefis_pdf.rb" />
         <option value="$PROJECT_DIR$/app/pdfs/invoice_pdf.rb" />
         <option value="$PROJECT_DIR$/Salida guardada del terminal.txt" />
         <option value="$PROJECT_DIR$/app/views/invoices/_form.html.erb" />
         <option value="$PROJECT_DIR$/db/migrate/20130509043648_add_type_of_payment_to_resumes.rb" />
         <option value="$PROJECT_DIR$/app/models/resume.rb" />
-        <option value="$PROJECT_DIR$/app/pdfs/school_pdf.rb" />
         <option value="$PROJECT_DIR$/app/controllers/invoices_controller.rb" />
-        <option value="/Rails SifacaGit: development" />
         <option value="$PROJECT_DIR$/app/pdfs/resume_pdf.rb" />
+        <option value="$PROJECT_DIR$/app/pdfs/school_pdf.rb" />
+        <option value="$PROJECT_DIR$/app/pdfs/invoicefis_pdf.rb" />
+        <option value="/Rails SifacaGit: development" />
       </list>
     </option>
   </component>
@@ -257,6 +220,28 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="invoices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SifacaGit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SifacaGit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -309,14 +294,30 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="90" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="99" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
-    <property name="FullScreen" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="96" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="103" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="897" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="895" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="101" />
     <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="dynamic.classpath" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="97" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
+    <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Rails.Development: SifacaGit">
@@ -760,7 +761,7 @@
     <frame x="0" y="22" width="1280" height="774" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4521355" sideWeight="0.95795244" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4521355" sideWeight="0.95795244" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21185064" sideWeight="0.63917524" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46539026" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32842416" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -854,11 +855,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/resumes/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="49" selection-start="720" selection-end="729" vertical-scroll-proportion="-9.6" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/resumes/_resumscul.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="12.4" />
@@ -894,16 +890,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/invoices/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="16" selection-start="3406" selection-end="3406" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/pdfs/school_pdf.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="175" column="41" selection-start="7601" selection-end="7601" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/resume.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="64" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0" />
@@ -929,9 +915,30 @@
         <state line="5" column="4" selection-start="170" selection-end="207" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/invoices/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="16" selection-start="3406" selection-end="3406" vertical-scroll-proportion="-0.64">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/pdfs/resume_pdf.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="186" column="104" selection-start="7507" selection-end="7507" vertical-scroll-proportion="0.37763372">
+        <state line="181" column="40" selection-start="7316" selection-end="7316" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pdfs/invoicefis_pdf.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="200" column="27" selection-start="8345" selection-end="8345" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pdfs/school_pdf.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="220" column="133" selection-start="9621" selection-end="9621" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

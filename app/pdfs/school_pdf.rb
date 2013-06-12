@@ -179,20 +179,20 @@ class SchoolPdf < Prawn::Document
 
 
   def arts
-    cell_1 = make_cell(:content => "Cantidad", :align => :center, :width => 58, :background_color => "F5A9A9")
-    cell_2 = make_cell(:content => "Clase de Mercancias o Descripcion", :align => :center, :width => 297, :background_color => "F5A9A9")
-    cell_3 = make_cell(:content => "Valor por Unidad", :align => :center, :width => 100, :background_color => "F5A9A9")
-    cell_4 = make_cell(:content => "Total", :align => :center, :width => 75, :background_color => "F5A9A9")
+    cell_1 = make_cell(:content => "Cantidad", :align => :center, :width => 65, :background_color => "F5A9A9")
+    cell_2 = make_cell(:content => "Clase de Mercancias o Descripcion", :align => :center, :width => 310, :background_color => "F5A9A9")
+    cell_3 = make_cell(:content => "Valor por Unidad", :align => :center, :width => 75, :background_color => "F5A9A9")
+    cell_4 = make_cell(:content => "Total", :align => :center, :width => 80, :background_color => "F5A9A9")
 
     data = [[cell_1, cell_2, cell_3, cell_4]]
 
 
     @articles.each do |article|
       @iva = (article.unit_cost * article.quantity) * ((article.iva.nil? || article.iva == 0) ? 0 : (article.iva.to_f / 100))
-      cell_5 = make_cell(:content => "#{article.quantity}", :align => :center)
-      cell_6 = make_cell(:content => "#{article.description}", :align => :center)
-      cell_7 = make_cell(:content => "#{number_to_currency(article.unit_cost, :unit => "$")}", :align => :center)
-      cell_8 = make_cell(:content => "#{number_to_currency((article.quantity * article.unit_cost) + @iva, :unit => "$")}", :align => :right)
+      cell_5 = make_cell(:content => "#{article.quantity}", :align => :center, :width => 65)
+      cell_6 = make_cell(:content => "#{article.description}", :align => :center, :width => 310)
+      cell_7 = make_cell(:content => "#{number_to_currency(article.unit_cost, :unit => "$")}", :align => :center, :width => 75)
+      cell_8 = make_cell(:content => "#{number_to_currency((article.quantity * article.unit_cost) + @iva, :unit => "$")}", :align => :right, :width => 80)
 
       data << [cell_5, cell_6, cell_7, cell_8]
     end

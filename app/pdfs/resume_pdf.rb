@@ -36,14 +36,15 @@ class ResumePdf < Prawn::Document
 
   def title
     string = "#{@user.name}"
-    y_position = cursor - -15
+    y_position = cursor - -25
     excess_text = text_box string,
-                           :width => 350,
+                           :width => 450,
                            :height => 50,
                            :overflow => :truncate,
-                           :at => [90, y_position],
+                           :at => [45, y_position],
                            :size => 15,
-                           :style => :bold
+                           :style => :bold,
+                           :align => :center
 
     text_box excess_text,
              :width => 300,
@@ -100,7 +101,7 @@ class ResumePdf < Prawn::Document
             [[[cell_2, cell_4]]]]
 
     data2 = [[cell_3], [cell_5]]
-    bounding_box([425, cursor - -109], :width => 200, :height => 100) do
+    bounding_box([425, cursor - -90], :width => 200, :height => 100) do
       table(data)
       move_down 4
       table(data2)
@@ -122,7 +123,7 @@ class ResumePdf < Prawn::Document
             [cell_4, cell_7]
     ]
 
-    move_down 20
+    move_down 2
     table([[cell_1], [data]])
   end
 
@@ -183,24 +184,23 @@ class ResumePdf < Prawn::Document
   end
 
   def arts
-    cell_1 = make_cell(:content => "Cantidad", :align => :center, :width => 58, :background_color => "D3D3D3")
-    cell_2 = make_cell(:content => "Clase de Mercancias o Descripcion", :align => :center, :width => 297, :background_color => "D3D3D3")
-    cell_3 = make_cell(:content => "Valor por Unidad", :align => :center, :width => 100, :background_color => "D3D3D3")
-    cell_4 = make_cell(:content => "Total", :align => :center, :width => 75, :background_color => "D3D3D3")
+    cell_1 = make_cell(:content => "Cantidad", :align => :center, :width => 65, :background_color => "D3D3D3")
+    cell_2 = make_cell(:content => "Clase de Mercancias o Descripcion", :width => 310, :align => :center, :background_color => "D3D3D3")
+    cell_3 = make_cell(:content => "Valor por Unidad", :align => :center, :width => 75, :background_color => "D3D3D3")
+    cell_4 = make_cell(:content => "Total", :align => :center, :width => 80,  :background_color => "D3D3D3")
 
     data = [[cell_1, cell_2, cell_3, cell_4]]
 
-
     @articles.each do |article|
       @iva = (article.unit_cost * article.quantity) * ((article.iva.nil? || article.iva == 0) ? 0 : (article.iva.to_f / 100))
-      cell_5 = make_cell(:content => "#{article.quantity}", :align => :center)
-      cell_6 = make_cell(:content => "#{article.description}", :size => 8)
-      cell_7 = make_cell(:content => "#{number_to_currency(article.unit_cost, :unit => "$")}", :align => :center)
-      cell_8 = make_cell(:content => "#{number_to_currency((article.quantity * article.unit_cost), :unit => "$")}", :align => :right)
+      cell_5 = make_cell(:content => "#{article.quantity}", :align => :center, :width => 65)
+      cell_6 = make_cell(:content => "#{article.description}", :width => 310)
+      cell_7 = make_cell(:content => "#{number_to_currency(article.unit_cost, :unit => "$")}", :align => :center, :width => 75)
+      cell_8 = make_cell(:content => "#{number_to_currency((article.quantity * article.unit_cost), :unit => "$")}", :align => :right, :width => 80)
 
       data << [cell_5, cell_6, cell_7, cell_8]
     end
-    table([[data], [""]])
+    table(data)
   end
 
   def cancel

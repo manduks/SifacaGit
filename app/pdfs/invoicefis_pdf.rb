@@ -187,9 +187,9 @@ class InvoicefisPdf < Prawn::Document
   end
 
   def arts
-    cell_1 = make_cell(:content => "Cantidad", :align => :center, :width => 80, :background_color => "D3D3D3")
-    cell_2 = make_cell(:content => "Clase de Mercancias o Descripcion", :align => :center, :width => 350, :background_color => "D3D3D3")
-    cell_3 = make_cell(:content => "Valor por Unidad", :align => :center, :width => 100, :background_color => "D3D3D3")
+    cell_1 = make_cell(:content => "Cantidad", :align => :center, :width => 65, :background_color => "D3D3D3")
+    cell_2 = make_cell(:content => "Clase de Mercancias o Descripcion", :align => :center, :width => 355, :background_color => "D3D3D3")
+    cell_3 = make_cell(:content => "Valor por Unidad", :align => :center, :width => 110, :background_color => "D3D3D3")
     #cell_4 = make_cell(:content => "Total", :align => :center, :width => 90, :background_color => "D3D3D3")
 
     data = [[cell_1, cell_2, cell_3]]
@@ -197,15 +197,16 @@ class InvoicefisPdf < Prawn::Document
 
     @articles.each do |article|
       @iva = (article.unit_cost * article.quantity) * ((article.iva.nil? || article.iva == 0) ? 0 : (article.iva.to_f / 100))
-      cell_5 = make_cell(:content => "#{article.quantity}", :align => :center)
-      cell_6 = make_cell(:content => "#{article.description}", :align => :center)
-      cell_7 = make_cell(:content => "#{number_to_currency(article.unit_cost, :unit => "$")}", :align => :center)
+      cell_5 = make_cell(:content => "#{article.quantity}", :align => :center, :width => 65)
+      cell_6 = make_cell(:content => "#{article.description}", :align => :center, :width => 355)
+      cell_7 = make_cell(:content => "#{number_to_currency(article.unit_cost, :unit => "$")}", :align => :center, :width => 110)
       #cell_8 = make_cell(:content => "#{number_to_currency((article.quantity * article.unit_cost) + @iva, :unit => "$")}", :align => :right)
 
       data << [cell_5, cell_6, cell_7]
     end
     table([[data], [""]])
   end
+
 
   def cancel
     bounding_box([0, cursor - -250], :width => 550, :height => 250) do
