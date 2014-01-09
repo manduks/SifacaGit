@@ -61,6 +61,8 @@ class ResumePdf < Prawn::Document
           " Del. #{@user.township},"+" C.P.#{@user.cp},"+" #{@user.state}"+" RFC.#{@user.rfc}"
     end
 
+    fiscal = " Regimen Fiscal: Persona Moral del Regimen General de Ley"
+
     y_position = cursor - 30
     excess_text = text_box string,
                            :width => 230,
@@ -72,6 +74,10 @@ class ResumePdf < Prawn::Document
     text_box excess_text,
              :width => 300,
              :at => [100, y_position - 50]
+
+    text_box fiscal,
+            :width => 250,
+            :at => [170, y_position - 50]
   end
 
   def regime
@@ -150,12 +156,14 @@ class ResumePdf < Prawn::Document
   def receipt
     cell_1 = make_cell(:content => "Cantidad con Letra", :background_color => "D3D3D3")
     cell_2 = make_cell(:content => "Condiciones de pago", :background_color => "D3D3D3")
-    cell_3 = make_cell(:content => "Recibi de Conformidad", :background_color => "D3D3D3")
-    cell_4 = make_cell(:content => "#{@resume.letter_number}", :align => :center, :width => 398)
-    cell_5 = make_cell(:content => "#{@resume.payment_condition}", :align => :center, :width => 398)
-    cell_6 = make_cell(:content => "#{@resume.receipt}", :align => :center, :width => 398)
+    cell_3 = make_cell(:content => "Tipo de pago", :background_color => "D3D3D3")
+    cell_4 = make_cell(:content => "Recibi de Conformidad", :background_color => "D3D3D3")
+    cell_5 = make_cell(:content => "#{@resume.letter_number}", :align => :center, :width => 398)
+    cell_6 = make_cell(:content => "#{@resume.payment_condition}", :align => :center, :width => 398)
+    cell_7 = make_cell(:content => "#{@resume.type_of_payment}", :align => :center, :width => 398)
+    cell_8 = make_cell(:content => "#{@resume.receipt}", :align => :center, :width => 398)
 
-    data = [[cell_1, cell_4], [cell_2, cell_5], [cell_3, cell_6]]
+    data = [[cell_1, cell_5], [cell_2, cell_6], [cell_3, cell_7], [cell_4, cell_8]]
 
     table([[data]])
   end

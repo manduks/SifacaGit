@@ -11,16 +11,16 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130509043648) do
+ActiveRecord::Schema.define(:version => 20131221015832) do
 
   create_table "articles", :force => true do |t|
-    t.integer   "quantity"
-    t.string    "description"
-    t.integer   "iva",         :default => 16
-    t.integer   "invoice_id"
-    t.timestamp "created_at",                   :null => false
-    t.timestamp "updated_at",                   :null => false
-    t.decimal   "unit_cost",   :default => 0.0
+    t.integer  "quantity"
+    t.string   "description"
+    t.integer  "iva",                                        :default => 16
+    t.integer  "invoice_id"
+    t.datetime "created_at",                                                  :null => false
+    t.datetime "updated_at",                                                  :null => false
+    t.decimal  "unit_cost",   :precision => 11, :scale => 2, :default => 0.0
   end
 
   create_table "clients", :force => true do |t|

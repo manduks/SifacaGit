@@ -14,7 +14,7 @@ class Client < ActiveRecord::Base
 
   validates_presence_of :name, :rfc, :street, :num_ext, :suburb, :township, :state, :cp, :message => "No puede estar Vacio"
 
-  validates_uniqueness_of :rfc, :scope => :user_id, :message => "Este RFC ya se dio de alta"
+  #validates_uniqueness_of :rfc, :scope => :user_id, :message => "Este RFC ya se dio de alta"
   #validates :logo_emp, :format => {
   #       :with => %r{\.(gif|jpg|png)$}i,
   #      :message => 'must be a URL for GIF, JPG or PNG image.'
