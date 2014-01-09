@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="1444837522">
-    <data-source source="LOCAL" name="Rails SifacaGit: development" product="SQLite" version="3.7.2" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" uuid="ad3b5453-c6ac-4a79-99f6-a3c24deffa42">
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
-      <libraries>
-        <library>
-          <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/xerial-sqlite-license.txt</url>
-        </library>
-        <library>
-          <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/sqlite-jdbc-3.7.2.jar</url>
-        </library>
-      </libraries>
-    </data-source>
+  <component name="DataSourceManagerImpl" format="xml" hash="1122559048">
     <data-source source="LOCAL" name="Rails SifacaGit: production" product="SQLite" version="3.7.2" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" uuid="dfcaa458-5138-4a33-bd8d-cd9b606d5b33">
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/production.sqlite3</jdbc-url>
@@ -37,9 +25,9 @@
         </library>
       </libraries>
     </data-source>
-    <data-source source="LOCAL" name="Rails SifacaGit: development" product="SQLite" version="3.7.2" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" uuid="92eab197-d1d0-4434-8580-967b06ea9fd3">
+    <data-source source="LOCAL" name="Rails SifacaGit: production" product="SQLite" version="3.7.2" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" uuid="6477a2e3-eeb2-4493-a585-4da0301aade4">
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/production.sqlite3</jdbc-url>
       <libraries>
         <library>
           <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/xerial-sqlite-license.txt</url>
@@ -49,9 +37,9 @@
         </library>
       </libraries>
     </data-source>
-    <data-source source="LOCAL" name="Rails SifacaGit: production" product="SQLite" version="3.7.2" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" uuid="6477a2e3-eeb2-4493-a585-4da0301aade4">
+    <data-source source="LOCAL" name="Rails SifacaGit: development" product="SQLite" version="3.7.2" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" uuid="05d6105d-edd5-4166-bcc6-a44f69c722c3">
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/production.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
       <libraries>
         <library>
           <url>file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/xerial-sqlite-license.txt</url>
